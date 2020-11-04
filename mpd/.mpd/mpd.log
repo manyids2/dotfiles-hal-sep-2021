@@ -1,0 +1,1587 @@
+Oct 23 19:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 19:14 : exception: Failed to open '/home/x/.mpd/mpdstate': No such file or directory
+Oct 23 19:14 : avahi: Service 'Music Player @ x' successfully established.
+Oct 23 19:15 : client: [0] opened from 127.0.0.1:44540
+Oct 23 19:15 : client: [0] closed
+Oct 23 19:19 : client: [1] opened from 127.0.0.1:44564
+Oct 23 19:19 : update: added recs/thema.mp3
+Oct 23 19:19 : update: added recs/test.wma
+Oct 23 19:19 : update: added recs/12_Poison.mp3
+Oct 23 19:19 : update: added recs/demo2_session.mp3
+Oct 23 19:19 : update: added recs/dude.mp3
+Oct 23 19:19 : update: added recs/something 4.wav
+Oct 23 19:19 : update: added recs/reaper/dude.mp3
+Oct 23 19:19 : update: added recs/running from home (1).mp3
+Oct 23 19:19 : update: added recs/yo hey bro.mp3
+Oct 23 19:19 : update: added recs/evening star.mp3
+Oct 23 19:19 : update: added recs/160701005.WAV
+Oct 23 19:19 : update: added recs/04 Lush Life.mp3
+Oct 23 19:19 : update: added recs/running from home.mp3
+Oct 23 19:19 : update: added recs/tale.wav
+Oct 23 19:19 : update: added recs/09_Needle_Of_Death.mp3
+Oct 23 19:19 : update: added recs/demo.mp3
+Oct 23 19:19 : update: added recs/something 2.wav
+Oct 23 19:19 : update: added recs/Untitled.mp3
+Oct 23 19:19 : update: added recs/bound.mp3
+Oct 23 19:19 : update: added recs/High Tide.wav
+Oct 23 19:19 : update: added recs/cello suite 1 prelude part1.m4a
+Oct 23 19:19 : update: added recs/10_johnny_hodges-night_wind.mp3
+Oct 23 19:19 : update: added recs/back_home (1).mp3
+Oct 23 19:19 : update: added recs/high tide (1).mp3
+Oct 23 19:19 : update: added recs/03 Blackwaterslide.mp3
+Oct 23 19:19 : update: added recs/drone.mp3
+Oct 23 19:19 : update: added recs/tell me.mp3
+Oct 23 19:19 : update: added recs/three.mp3
+Oct 23 19:19 : update: added recs/02_A_Little_Sweet_Sunshine.mp3
+Oct 23 19:19 : update: added recs/joined.wav
+Oct 23 19:19 : update: added recs/just so.mp3
+Oct 23 19:19 : update: added recs/playback.mp3
+Oct 23 19:19 : update: added recs/session.wav
+Oct 23 19:19 : update: added recs/Bose.mp3
+Oct 23 19:19 : update: added recs/blues[1].mp3
+Oct 23 19:19 : update: added recs/the fix.mp3
+Oct 23 19:19 : update: added recs/two.mp3
+Oct 23 19:19 : update: added recs/ZEX008_1.mp3
+Oct 23 19:19 : update: added recs/14_Rambling_s_Going_To_Be_The_Death_Of_Me.mp3
+Oct 23 19:19 : update: added recs/pres.mp3
+Oct 23 19:19 : update: added recs/jack_capture_02.mp3
+Oct 23 19:19 : update: added recs/high tide.mp3
+Oct 23 19:19 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Oct 23 19:19 : update: added recs/Recording (87).amr
+Oct 23 19:19 : update: added recs/cover - blackest eyes.mp3
+Oct 23 19:19 : update: added recs/wavs/blackest_eyes.wav
+Oct 23 19:19 : update: added recs/demo_nylon_session.mp3
+Oct 23 19:19 : update: added recs/03_A_Woman_Like_You_Live.mp3
+Oct 23 19:19 : update: added recs/06_Go_Your_Way_My_Love.mp3
+Oct 23 19:19 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Oct 23 19:19 : update: added recs/Recording (86).amr
+Oct 23 19:19 : update: added recs/something 3.wav
+Oct 23 19:19 : update: added recs/blue who.mp3
+Oct 23 19:19 : update: added recs/back_home.mp3
+Oct 23 19:19 : update: added recs/out.wav
+Oct 23 19:19 : update: added recs/13_Rabbit_Run.mp3
+Oct 23 19:19 : update: added recs/demo_session.mp3
+Oct 23 19:19 : update: added recs/it just don't bother me.mp3
+Oct 23 19:19 : update: added recs/a+.mp3
+Oct 23 19:19 : update: added singles/nineties/P.O.D._-_Alive_-_Satellite_HD_2001.m4a
+Oct 23 19:19 : update: added singles/nineties/In_The_End_Official_Video_-_Linkin_Park.m4a
+Oct 23 19:19 : update: added singles/nineties/Rage_Against_The_Machine_-_Calm_Like_A_Bomb.m4a
+Oct 23 19:19 : update: added singles/nineties/Youth_Of_The_Nation_Video_shot_to_Album_Version_Audio.m4a
+Oct 23 19:19 : update: added singles/led_zepellin/When_the_Levee_Breaks_Led_Zeppelin_Lyrics.m4a
+Oct 23 19:19 : update: added singles/led_zepellin/Led_Zeppelin_-_Whole_Lotta_Love_1997_Promo.m4a
+Oct 23 19:19 : update: added singles/led_zepellin/Kashmir_-_Led_Zeppelin_-_Remastered.m4a
+Oct 23 19:19 : update: added singles/led_zepellin/In_My_Time_Of_Dying-Led_Zeppelin.m4a
+Oct 23 19:19 : update: added singles/led_zepellin/Ten_Years_Gone_-_Led_Zeppelin_-_Remastered.m4a
+Oct 23 19:19 : update: added singles/easy_now_joan shelley.wav
+Oct 23 19:19 : update: added singles/hiphop/Busta_Rhymes_-_Break_Ya_Neck_Official_Video.m4a
+Oct 23 19:19 : update: added singles/hiphop/Method_Man_ft._Busta_Rhymes_-_What_s_Happenin_Uncensored_Official_video.m4a
+Oct 23 19:19 : update: added singles/hiphop/Mobb_Deep_-_Shook_Ones.m4a
+Oct 23 19:19 : update: added singles/hiphop/GZA-ShadowBoxin.m4a
+Oct 23 19:19 : update: added singles/hiphop/Gza_-_4th_Chamber_Feat._Ghostface_Killah_Killah_Priest_Rza.m4a
+Oct 23 19:19 : update: added singles/hiphop/MF_DOOM_feat_RZA_-_Books_of_War.m4a
+Oct 23 19:19 : update: added singles/hiphop/GZA_-_ALL_IN_TOGETHER_NOW_-_WU_TANG_CLAN.m4a
+Oct 23 19:19 : update: added singles/hiphop/Tech_N9ne_-_Worldwide_Choppers_Feat._Busta_Rhymes_Yelawolf_Twisted_Insane..._OFFICIAL_AUDIO.m4a
+Oct 23 19:19 : update: added singles/hiphop/Remember_The_Name_Official_Video_-_Fort_Minor.m4a
+Oct 23 19:19 : update: added singles/sigur_ros/Mogwai_-_I_Know_You_Are_But_What_Am_I.m4a
+Oct 23 19:19 : update: added singles/sigur_ros/Sigur_Ros_-_Untitled_8_Popplagio.m4a
+Oct 23 19:19 : update: added singles/sigur_ros/Sigur Ros - Svefn-g-englar 128 kbps .m4a
+Oct 23 19:19 : update: added singles/sigur_ros/Sigur Rós - Ágætis Byrjun 128 kbps .m4a
+Oct 23 19:19 : update: added singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a
+Oct 23 19:19 : update: added singles/bert_jansch/Bert_Jansch-_A_Dream_a_Dream_a_Dream_1971..m4a
+Oct 23 19:19 : update: added singles/bert_jansch/Bert Jansch - Sweet Death-5ipZi-UgpGY.m4a
+Oct 23 19:19 : update: added singles/bert_jansch/Bert_Jansch_One-Take_-_Blues_Run_The_Game.m4a
+Oct 23 19:19 : update: added singles/nujabes/Samurai Champloo - San Francisco (Ending of episode 26) - Midicronica 128 kbps .m4a
+Oct 23 19:19 : update: added singles/nujabes/Samurai Champloo - BattleCry 128 kbps .m4a
+Oct 23 19:19 : update: added singles/nujabes/Force of Nature - Same Old Thing 128 kbps .m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Anne_Briggs_-_living_by_the_water.m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Anne_Briggs_-_Travelling_s_Easy.m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Anne_Briggs_-_Blackwaterside.m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Who_knows_where_the_time_goes_-_Fairport_Convention.m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Anne_Briggs_-_Willie_O_Winsbury.m4a
+Oct 23 19:19 : update: added singles/anne_briggs/Anne_Briggs_-_Go_Your_Way.m4a
+Oct 23 19:19 : update: added singles/Eddie_Vedder_-_Water_On_The_Road_2011_Full_concert.m4a
+Oct 23 19:19 : update: added singles/misc/Mein_zindagi_ka_saath_nibhata_chala_gaya.m4a
+Oct 23 19:19 : update: added singles/misc/BaharSakala.mp3
+Oct 23 19:19 : update: added singles/misc/nacherno-fragment.mp3
+Oct 23 19:19 : update: added singles/misc/high tide.mp3
+Oct 23 19:19 : update: added singles/Gears_of_War_3_-_Mad_World.m4a
+Oct 23 19:19 : update: added singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a
+Oct 23 19:19 : update: added singles/epic tragic orch 23 AUG Kulema .wav
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Next_Phase_Extended.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/SOLD_Flying_lotus_Type_Beat_-_Oxygen._-_CSH_Official_Video_Clip.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Anything_July_Heat.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Captain_Murphy_-_Between_Villains_Ft_Viktor_Vaughn_DOOM_X_Earl_Sweatshirt_X_Thundercat.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Sleep_Sweepers.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Luckiest_Charm.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Spin_Cycles.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Litermeter.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_wwwdot.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Tips_and_Tricks.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_BBC_Essential_Mix.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Rest_ez.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Spin_Cycles_Reversed.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Ce_Saw.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/AS_April_Fool_s_2008_1_FULL_SONG.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Litermeter_July_Heat.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus-_Alice.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Nicodin.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/flying_lotus_wombat_college.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus-session_cats.m4a
+Oct 23 19:19 : update: added singles/flying_lotus/Flying_Lotus_-_Ringwormcirce.m4a
+Oct 23 19:19 : update: added singles/Archive_Bullets_Cyberpunk_2077.m4a
+Oct 23 19:19 : update: added singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4
+Oct 23 19:19 : update: added singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a
+Oct 23 19:19 : update: added singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a
+Oct 23 19:19 : update: added singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a
+Oct 23 19:19 : update: added singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4
+Oct 23 19:19 : update: added singles/isis/Isis_Aereogramme_-_Stolen.m4a
+Oct 23 19:19 : update: added singles/isis/Isis_-_Poison_eggs.m4a
+Oct 23 19:19 : update: added singles/isis/ISIS_Aereogramme_-_Low_Tide..m4a
+Oct 23 19:19 : update: added singles/isis/Isis_-_Way_Through_Woven_Branches.m4a
+Oct 23 19:19 : update: added singles/isis/ISIS_Pliable_Foe_Official_Video.m4a
+Oct 23 19:19 : update: added singles/doors/The_Doors_-_Riders_On_The_Storm_HQ.m4a
+Oct 23 19:19 : update: added singles/doors/The_Doors_-_The_End_original.m4a
+Oct 23 19:19 : update: added singles/The_Mighty_Bop_-_Feeling_good.m4a
+Oct 23 19:19 : update: added singles/mornings/The_Machine_-_Moons_of_Neptune.m4a
+Oct 23 19:19 : update: added singles/mornings/Stoned Jesus - I'm The Mountain-iW1jxJ6ISks.m4a
+Oct 23 19:19 : update: added singles/mornings/Eddie Vedder - Society-lm8oxC24QZc.webm
+Oct 23 19:19 : update: added singles/mornings/Pink Floyd - High Hopes (Official Music Video)-7jMlFXouPk8.m4a
+Oct 23 19:19 : update: added singles/mornings/John_Butler_Trio_-_Ocean_Live_@Fuji_Rock_Festival_10.mp4
+Oct 23 19:19 : update: added singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a
+Oct 23 19:19 : update: added singles/jazz/Eric Dolphy and Charles Mingus - Stormy weather-x2ujxUrLJUU.wav
+Oct 23 19:19 : update: added singles/jazz/nina simone - my baby just cares for me.mp4
+Oct 23 19:19 : update: added singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.wav
+Oct 23 19:19 : update: added singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a
+Oct 23 19:19 : update: added singles/sugar/Chet Faker - Gold (Official Music Video)-hi4pzKvuEQM.mp4
+Oct 23 19:19 : update: added singles/sugar/Alicia_Keys_-_Fallin.m4a
+Oct 23 19:19 : update: added singles/sugar/New_York_-_Alicia_Keys_Empire_State_of_Mind_OFFICIAL_VIDEO.m4a
+Oct 23 19:19 : update: added singles/sugar/Yaël Naïm - Toxic-zqKZ_WIK5ms.mp3
+Oct 23 19:19 : update: added singles/sugar/Youth - Daughter-VEpMj-tqixs.mp3
+Oct 23 19:19 : update: added singles/sugar/Mogwai - Take Me Somewhere Nice-luM6oeCM7Yw.mp3
+Oct 23 19:19 : update: added singles/sugar/Empire_State_Of_Mind.m4a
+Oct 23 19:19 : update: added singles/sugar/Groove Armada - Think Twice-OQM5-Ks64is.mp3
+Oct 23 19:19 : update: added singles/sugar/Cigarettes After Sex - Nothing's Gonna Hurt You Baby-R2LQdh42neg.mp3
+Oct 23 19:19 : update: added albums/linkinpark/13_Linkin_Park_-_Numb.m4a
+Oct 23 19:19 : update: added albums/linkinpark/12_Linkin_Park_-_Session.m4a
+Oct 23 19:19 : update: added albums/linkinpark/09_Linkin_Park_-_Breaking_The_Habit.m4a
+Oct 23 19:19 : update: added albums/linkinpark/05_Linkin_Park_-_Hit_The_Floor.m4a
+Oct 23 19:19 : update: added albums/linkinpark/07_Linkin_Park_-_Faint.m4a
+Oct 23 19:19 : update: added albums/linkinpark/11_Linkin_Park_-_Nobody_s_Listening.m4a
+Oct 23 19:19 : update: added albums/linkinpark/04_Linkin_Park_-_Lying_From_You.m4a
+Oct 23 19:19 : update: added albums/linkinpark/10_Linkin_Park_-_From_The_Inside.m4a
+Oct 23 19:19 : update: added albums/linkinpark/02_Linkin_Park_-_Don_t_Stay.m4a
+Oct 23 19:19 : update: added albums/linkinpark/03_Linkin_Park_-_Somewere_I_Belong.m4a
+Oct 23 19:19 : update: added albums/linkinpark/08_Linkin_Park_-_Figure_09.m4a
+Oct 23 19:19 : update: added albums/hiphop/2Pac_-_A_Thugz_Revival_Full_Mixtape_Prod_by_Seanh.m4a
+Oct 23 19:19 : update: added albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3
+Oct 23 19:19 : update: added albums/hiphop/Dj Muggs vs GZA - Grandmasters (2005) [full album]-cuV_-QRjeY4.mp3
+Oct 23 19:19 : update: added albums/hiphop/HOUSE OF PAIN - COKA NOSTRA -  PSYCHO REALM _ MIX - FULL SONGS - sEa_kO--1N_3l1PEddM.mp3
+Oct 23 19:19 : update: added albums/hiphop/GZA_-_Beneath_the_Surface_-_1999_-_Full_Album.m4a
+Oct 23 19:19 : update: added albums/hiphop/Illmatic (Full Album)--aB6bfucM04.mp3
+Oct 23 19:19 : update: added albums/hiphop/Wu-Tang Clan - Enter the Wu Tang (36 Chambers) - FULL ALBUM-pSQJbXuyVPQ.mp3
+Oct 23 19:19 : update: added albums/hiphop/Classic_Rap_Hip_Hop_mix_Part_8_I_Nas_Snoop_Dogg_Cypress_Hill_Wu-Tang_Clan.m4a
+Oct 23 19:19 : update: added albums/hiphop/Jazz Liberatorz - Clin d'oeil-uT5JCRBFPH0.mp3
+Oct 23 19:19 : update: added albums/hiphop/Immortal Technique - Revolutionary Vol. 2 (Full Album)-CH3HnokBh8g.mp3
+Oct 23 19:19 : update: added albums/hiphop/GZA - Liquid Swords (Full Album)-n2XZiCPWZY4.mp3
+Oct 23 19:19 : update: added albums/hiphop/THE_MARSHALL_MATHERS.m4a
+Oct 23 19:19 : update: added albums/hiphop/2PAC_-_20_Years_Gone_-_Makaveli_Lives_On_-_Full_Mixtape_2016.m4a
+Oct 23 19:19 : update: added albums/hiphop/Dj Muggs vs Ill Bill - Kill Devil Hills (2010) [ full album ]-d35npekNhWo.mp3
+Oct 23 19:19 : update: added albums/hiphop/Ill Bill - The Hour of Reprisal-XQG2asp3Uls.mp3
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_I_Have_No_Time.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_Wild_Mountain_Thyme.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch-_Poison.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_feat._Hope_Sandoval_-_All_This_Remains.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Tinker_s_blues.m4a
+Oct 23 19:19 : update: added albums/bert/Lady_Nothing_-_Bert_Jansch.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Running_From_Home.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_Katie_Cruel.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Angie.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_1971_-_Reynardine.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_A_Woman_Like_You.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch-Courting_Blues.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Blues_Run_The_Game.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_John_Renbourn_-_Soho.m4v.m4a
+Oct 23 19:19 : update: added albums/bert/She_Moved_Through_The_Fair_Bert_Jansch_Toy_Balloon.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Fresh_As_A_Sweet_Sunday_Morning.m4a
+Oct 23 19:19 : update: added albums/bert/Sarabanda_2015_Remaster.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Strolling_Down_the_Highway.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Bittern.m4a
+Oct 23 19:19 : update: added albums/bert/Anne_Briggs_Bert_Jansch_1992_Go_Your_Way_My_Love_.avi.m4a
+Oct 23 19:19 : update: added albums/bert/Hope_Sandoval_+_Bert_Jansch_-_All_This_Remains.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Paper_Houses.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_Black_Waterside.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_M_Lady_Nancy.m4v.m4a
+Oct 23 19:19 : update: added albums/bert/Rambling_s_Gonna_Be_The_Death_Of_Me_-_Bert_Jansch.m4a
+Oct 23 19:19 : update: added albums/bert/Fairport_Convention_Sandy_Denny_-_Knockin_on_Heaven_s_Door.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_In_The_Bleak_Midwinter._Happy_Xmas_everyone..m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Morning_brings_peace_of_mind.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_The_Waggoner_s_Lad.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_Chambertin.m4v.m4a
+Oct 23 19:19 : update: added albums/bert/Mary_Hopkin_Bert_Jansch_The_First_TIme_Ever_I_Saw_Your_F.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_Needle_Of_Death.m4a
+Oct 23 19:19 : update: added albums/bert/First_Light_Bert_Jansch_and_John_Renbourn.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_The_Curragh_of_Kildare.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_High_Days.m4a
+Oct 23 19:19 : update: added albums/bert/Bert_Jansch_-_So_long_Been_on_the_road_so_long.m4a
+Oct 23 19:19 : update: added albums/metal/A Perfect Circle - Acoustic Sessions-F5NhKNwFYfk.m4a
+Oct 23 19:19 : update: added albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a
+Oct 23 19:19 : update: added albums/metal/Jesu - Conqueror [Full Album]-svWCQme0Etc.mp3
+Oct 23 19:20 : update: added albums/metal/Porcupine Tree - Arriving Somewhere... full concert DVD (2005).mp4
+Oct 23 19:20 : update: added albums/metal/Jesu - Opiate Sun (Full EP)-cFLC9BNzKW8.webm
+Oct 23 19:20 : update: added albums/metal/Jesu - Ascension [Full Album]-ohDBRbe3Zck.mp3
+Oct 23 19:20 : update: added albums/metal/Rostropovich -- BACH (DVD Completo)-MUAOWI-tkGg.mp3
+Oct 23 19:20 : update: added albums/metal/Isis_-_Panopticon_2014_remastered_album_A4=432Hz.m4a
+Oct 23 19:20 : update: added albums/metal/Panopticon/01 - So Did We.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/05 - Syndic Calls.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/07 - Grinning Mouths.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/06 - Altered Course.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/02 - Backlit.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/03 - In Fiction.flac
+Oct 23 19:20 : update: added albums/metal/Panopticon/04 - Wills Dissolve.flac
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Jambi.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_10000_Days_Wings_Part_2.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Schism_-_Lyrics_1080p_-_High_Quality.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_The_Pot.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool-Vicarious.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Sober_hq_-_fullscreen.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Parabol_+_Parabola_HQ.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Lateralus_Highest_Quality_HD.m4a
+Oct 23 19:20 : update: added albums/metal/tool/Tool_-_Right_in_Two_Lyrics.m4a
+Oct 23 19:20 : update: added albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/07. One Gun.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/11. Remorse Is For The Dead.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/03. Now You've Got Something To Die For.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/01. Laid To Rest.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/04. The Faded Line.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/05. Omerta.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/08. Break You.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/02. Hourglass.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/10. Ashes Of The Wake.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/09. What I've Become.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Ashes Of The Wake/06. Blood Of The Scribe.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Lamb_Of_God_-_Vigil_Live_The_Unholy_Alliance.m4a
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/Lamb_of_God_-_11th_Hour._HQ.m4a
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/06. Boot Scraper.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/08. In Defense Of Your Good Name.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/09. Blood Junkie.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/10. Vigil.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/04. 11th Hour.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/03. Purified.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/05. For Your Malice.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/07. A Devil In God's Country.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/02. As The Palaces Burn.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/12. As The Palaces Burn (Previously Unreleased Demo).mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/01. Ruin.mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/13. Blood Junkie (Previously Unreleased Demo).mp3
+Oct 23 19:20 : update: added albums/metal/lamb_of_god/As The Palaces Burn (10th Anniversary Edition)/11. Ruin (Previously Unreleased Demo).mp3
+Oct 23 19:20 : update: added albums/metal/opiate_sun.m4a
+Oct 23 19:20 : update: added albums/metal/Rostropovich -- BACH (DVD Completo)-MUAOWI-tkGg.webm
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_The_Drapery_Falls_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_The_Leper_Affinity_Live_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_The_Funeral_Portrait_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_The_Leper_Affinity_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_Bleak_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_Harvest_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_Dirge_for_November_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_Patterns_in_the_Ivy_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/opeth/Opeth_-_Blackwater_Park_Audio.m4a
+Oct 23 19:20 : update: added albums/metal/Isis - Panopticon (2014 remastered album) A4=432Hz-xA2AJIiw0p8.m4a
+Oct 23 19:20 : update: added albums/metal/Isis_-_In_The_Absence_Of_Truth_-_03_-_Dulcinea.m4a
+Oct 23 19:20 : update: added albums/metal/Conditions of My Parole (Full Album) - Puscifer-Ug6_yS6-a4I.m4a
+Oct 23 19:20 : update: added albums/metal/Garden_of_Light_-_ISIS_HD.m4a
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/02 Zero Tolerance.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/07 Crystal Mountain.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/01 Symbolic.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/03 Empty Words.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/05 1,000 Eyes.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/09 Perennial Quest.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/04 Sacred Serenity.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/06 Without Judgement.mp3
+Oct 23 19:20 : update: added albums/death/Death - Symbolic (1995)/08 Misanthrope.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/04 Story to Tell.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/05 Flesh and the Power It Holds.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/06 Voice of the Soul.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/01 Scavenger of Human Sorrow.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/03 Spirit Crusher.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/09 Painkiller.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/02 Bite the Pain.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/08 A Moment of Clarity.mp3
+Oct 23 19:20 : update: added albums/death/The Sound of Perseverence/07 To Forgive Is to Suffer.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3
+Oct 23 19:20 : update: added albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(03) [Borodin Quartet] String Quartet No. 1 in C major, Op. 49 - III. Allegro molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(07) [Borodin Quartet] String Quartet No. 2 in A major, Op. 68 - III. Waltz, Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(08) [Borodin Quartet] String Quartet No. 2 in A major, Op. 68 - IV. Theme with Variations, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(10) [Borodin Quartet] String Quartet No. 4 in D major, Op. 83 - II. Andantino.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(01) [Borodin Quartet] String Quartet No. 1 in C major, Op. 49 - I. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(02) [Borodin Quartet] String Quartet No. 1 in C major, Op. 49 - II. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(12) [Borodin Quartet] String Quartet No. 4 in D major, Op. 83 - IV. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(04) [Borodin Quartet] String Quartet No. 1 in C major, Op. 49 - IV. Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(06) [Borodin Quartet] String Quartet No. 2 in A major, Op. 68 - II. Recitative and Romance, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(09) [Borodin Quartet] String Quartet No. 4 in D major, Op. 83 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(05) [Borodin Quartet] String Quartet No. 2 in A major, Op. 68 - I. Overture, Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD1/(11) [Borodin Quartet] String Quartet No. 4 in D major, Op. 83 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(10) [Borodin Quartet] Piano Quintet in G minor, Op. 57 - III. Scherzo, Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(01) [Borodin Quartet] String Quartet No. 3 in F major, Op. 73 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(05) [Borodin Quartet] String Quartet No. 3 in F major, Op. 73 - V. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(02) [Borodin Quartet] String Quartet No. 3 in F major, Op. 73 - II. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(11) [Borodin Quartet] Piano Quintet in G minor, Op. 57 - IV. Intermezzo, Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(04) [Borodin Quartet] String Quartet No. 3 in F major, Op. 73 - IV. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(07) [Borodin Quartet] Two Pieces for String Octet, Op. 11 - II. Scherzo in G minor, Allegro molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(06) [Borodin Quartet] Two Pieces for String Octet, Op. 11 - I. Prelude in D minor, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(08) [Borodin Quartet] Piano Quintet in G minor, Op. 57 - I. Prelude, Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(12) [Borodin Quartet] Piano Quintet in G minor, Op. 57 - V. Finale, Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(09) [Borodin Quartet] Piano Quintet in G minor, Op. 57 - II. Fugue, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD2/(03) [Borodin Quartet] String Quartet No. 3 in F major, Op. 73 - III. Allegro non troppo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(07) [Borodin Quartet] String Quartet No. 6 in G major, Op. 101 - IV. Lento - Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(09) [Borodin Quartet] String Quartet No. 7 in F sharp minor, Op. 108 - II. Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(10) [Borodin Quartet] String Quartet No. 7 in F sharp minor, Op. 108 - III. Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(02) [Borodin Quartet] String Quartet No. 5 in B flat major, Op. 92 - II. Andante.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(04) [Borodin Quartet] String Quartet No. 6 in G major, Op. 101 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(01) [Borodin Quartet] String Quartet No. 5 in B flat major, Op. 92 - I. Allegro non troppo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(03) [Borodin Quartet] String Quartet No. 5 in B flat major, Op. 92 - III. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(05) [Borodin Quartet] String Quartet No. 6 in G major, Op. 101 - II. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(06) [Borodin Quartet] String Quartet No. 6 in G major, Op. 101 - III. Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD3/(08) [Borodin Quartet] String Quartet No. 7 in F sharp minor, Op. 108 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(05) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - II. Serenade, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(03) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(09) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - VI. Epilogue, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(07) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - IV. Nocturne, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(02) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - II. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(01) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(04) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - I. Elegy, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(06) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - III. Intermezzo, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(08) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - V. Funeral March, Adagio molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(09) [Borodin Quartet] String Quartet No. 12 in D flat major, Op. 133 - II. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(08) [Borodin Quartet] String Quartet No. 12 in D flat major, Op. 133 - I. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(06) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - VI. Elegy, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(04) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - IV. Etude, Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(02) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - II. Scherzo, Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(10) [Borodin Quartet] String Quartet No. 13 in B flat minor, Op. 138 - Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(01) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - I. Introduction, Andantino.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(07) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - VII. Conclusion, Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(03) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - III. Recitative, Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD5/(05) [Borodin Quartet] String Quartet No. 11 in F minor, Op. 122 - V. Humoresque, Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(09) [Borodin Quartet] String Quartet No. 9 in E flat major, Op. 117 - IV. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(11) [Borodin Quartet] String Quartet No. 10 in A flat major, Op. 118 - I. Andante.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(01) [Borodin Quartet] String Quartet No. 8 in C minor, Op. 110 - I. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(10) [Borodin Quartet] String Quartet No. 9 in E flat major, Op. 117 - V. Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(02) [Borodin Quartet] String Quartet No. 8 in C minor, Op. 110 - II. Allegro molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(13) [Borodin Quartet] String Quartet No. 10 in A flat major, Op. 118 - III. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(12) [Borodin Quartet] String Quartet No. 10 in A flat major, Op. 118 - II. Allegretto furioso.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(03) [Borodin Quartet] String Quartet No. 8 in C minor, Op. 110 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(04) [Borodin Quartet] String Quartet No. 8 in C minor, Op. 110 - IV. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(08) [Borodin Quartet] String Quartet No. 9 in E flat major, Op. 117 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(05) [Borodin Quartet] String Quartet No. 8 in C minor, Op. 110 - V. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(14) [Borodin Quartet] String Quartet No. 10 in A flat major, Op. 118 - IV. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(07) [Borodin Quartet] String Quartet No. 9 in E flat major, Op. 117 - II. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD4/(06) [Borodin Quartet] String Quartet No. 9 in E flat major, Op. 117 - I. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/03 03 String Quartet No.4 in D major, Op. 83 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/08 08 String Quartet No.6 in G Major, Op. 101 - i. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/02 02 String Quartet No.4 In D Major, Op.83 - II. Andantino.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/07 07 String Quartet No.5 in B flat Major, Op.92 - III. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/06 06 String Quartet No.5 in B flat Major, Op.92 - II. Andante.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/09 09 String Quartet No.6 in G Major, Op. 101 - ii. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/04 04 String Quartet No.4 in D major, Op. 83 - IV. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/11 11 String Quartet No.6 in G major, Op. 101 - IV. Lento, Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/10 10 String Quartet No.6 in G Major, Op. 101 - iii. Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/05 05  String Quartet No.5 in B flat Major, Op.92 - I. Allegro non troppo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 2/01 01 String Quartet No.4 in D major, Op. 83 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/08 08 String Quartet No.3 in F major, Op. 73 - IV. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/11 11 String Quartet No.12 In D Flat Major, Op.133 - II. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/09 09 String Quartet No.3 in F major, Op. 73 - V. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/02 02 String Quartet No.1 in C major, Op.49, II. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/10 10 String Quartet No.12 In D Flat Major, Op.133 - I. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/04 04 String Quartet No.1 in C major, Op.49, IV. Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/06 06 String Quartet No.3 in F major, Op. 73 - II. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/07 07 String Quartet No.3 in F major, Op. 73 - III. allegro non troppo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/01 01 String Quartet No.1 in C major, Op.49, I. Moderato.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/03 03 String Quartet No.1 in C major, Op.49, III. Allegro molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 1/05 05 String Quartet No.3 in F major, Op. 73 - I. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/6 6 String Quartet No.10 In A Flat Major, Op.118 - II. Allegretto furioso.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/4 4 String Quartet No.2 In A Major, Op.68 - IV. Theme with Variations (Adagio).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/5 5 String quartet No.10 in A flat major, Op. 118 - I Andante.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/7 7 String Quartet No.10 In A Flat Major, Op.118 - III. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/3 3 String Quartet No.2 In A Major, Op.68 - III. Waltz (Allegro).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/9 9 String quartet No.13 in B flat minor, Op. 138 - Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/1 1 String Quartet No.2 In A Major, Op.68 - I. Overture (Moderato con moto).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/8 8 String quartet No.10 in A flat major, Op. 118 - IV - Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 4/2 2 String Quartet No.2 In A Major, Op.68 - II. Recitative and Romance (Adagio).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/08 08 String Quartet No.8 in C minor, Op. 110 - V. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/02 02 String Quartet No.7 in F sharp Minor, Op.108 - II. Lento.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/19 19 String Quartet No.11 In F Minor, Op.122 - VI. Elegy (Adagio).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/14 14 String Quartet No.11 In F Minor, Op.122 - I. Introduction (Andintino).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/04 04 String Quartet No.8 in C minor, Op. 110 - I. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/15 15 String Quartet No.11 In F Minor, Op.122 - II. Scherzo (Allegretto).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/06 06 String Quartet No.8 in C minor, Op. 110 - III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/16 16 String Quartet No.11 In F Minor, Op.122 - III. Recitative (Adagio).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/03 03 String Quartet No.7 in F sharp Minor, Op.108 - III. Alegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/05 05 String Quartet No.8 in C minor, Op. 110 - II. Allegro molto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/12 12 String Quartet No.9 In E flat major, Op.117. IV. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/13 13 String Quartet No.9 In E flat major, Op.117.  V. Allegro.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/09 09  String Quartet No.9 In E flat major, Op.117. I. Moderato con moto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/07 07 String Quartet No.8 in C minor, Op. 110 - IV. Largo.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/11 11 String Quartet No.9 In E flat major, Op.117.  III. Allegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/17 17 String Quartet No.11 In F Minor, Op.122 - IV. Etude (Allegro).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/20 20 String Quartet No.11 In F Minor, Op.122 - VII. Conclusion (Moderato).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/01 01 String Quartet No.7 in F sharp Minor, Op.108 - I. Alegretto.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/10 10 String Quartet No.9 In E flat major, Op.117.  II. Adagio.flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/03 Borodin Quartet (Melodiya-Chandos, 1967-1972)/Disc 3/18 18 String Quartet No.11 In F Minor, Op.122 - V. Humoresque (Allegro).flac
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(08) [The Beethoven Quartet] NO.1 in C Major op.49-III.Allegro molto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(13) [The Beethoven Quartet] NO.2 in A Major op.68-IV.Theme with variations-Allegro.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(06) [The Beethoven Quartet] NO.1 in C Major op.49-I.Moderato.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(07) [The Beethoven Quartet] NO.1 in C Major op.49-II.Moderato.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(12) [The Beethoven Quartet] NO.2 in A Major op.68-III.Waltz-Allegro.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(10) [The Beethoven Quartet] NO.2 in A Major op.68-I.Overture-Moderato con moto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(11) [The Beethoven Quartet] NO.2 in A Major op.68-II.Recitative&Romance-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD1/(09) [The Beethoven Quartet] NO.1 in C Major op.49-IV.Allegro.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(02) [The Beethoven Quartet] No.3 in F Major op.73-II.Moderato con moto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(07) [The Beethoven Quartet] No.4 in D Major op.83-II.Andantino.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(08) [The Beethoven Quartet] No.4 in D Major op.83-III.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(03) [The Beethoven Quartet] No.3 in F Major op.73-III.Allegro non troppo.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(09) [The Beethoven Quartet] No.4 in D Major op.83-IV.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(05) [The Beethoven Quartet] No.3 in F Major op.73-V.Moderato.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(04) [The Beethoven Quartet] No.3 in F Major op.73-IV.Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(06) [The Beethoven Quartet] No.4 in D Major op.83-I.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(01) [The Beethoven Quartet] No.3 in F Major op.73-I.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(03) [The Beethoven Quartet] No.14 in F sharp Major op.142-III.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(01) [The Beethoven Quartet] No.14 in F sharp Major op.142-I.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(02) [The Beethoven Quartet] No.14 in F sharp Major op.142-II.Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(06) [The Beethoven Quartet] No.11 in F Minor op.122-VI.Elegy-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(08) [The Beethoven Quartet] No.12 in D flat Major op.133-I.Moderato-Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(04) [The Beethoven Quartet] No.11 in F Minor op.122-IV.Etude-Allegro.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(02) [The Beethoven Quartet] No.11 in F Minor op.122-II.Scherzo-Aregretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(03) [The Beethoven Quartet] No.11 in F Minor op.122-III.Recitative-Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(09) [The Beethoven Quartet] No.12 in D flat Major op.133-II.Allegrtto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(10) [The Beethoven Quartet] No.12 in B flat Major op.138-I.Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(01) [The Beethoven Quartet] No.11 in F Minor op.122-I.Introduction-Andantino.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(05) [The Beethoven Quartet] No.11 in F Minor op.122-V.Humoreske-Allegro.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(07) [The Beethoven Quartet] No.11 in F Minor op.122-VII.Conclusion-Moderato.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(02) [The Beethoven Quartet] No.8 in c Minor op.110-II.Allegro moto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(13) [The Beethoven Quartet] No.10 in A flat Major op.118-III.Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(14) [The Beethoven Quartet] No.10 in A flat Major op.118-IV.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(12) [The Beethoven Quartet] No.10 in A flat Major op.118-II.Allegretto furioso.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(08) [The Beethoven Quartet] No.9 in E flat Major op.117-III.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(03) [The Beethoven Quartet] No.8 in c Minor op.110-III.Allegretto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(09) [The Beethoven Quartet] No.9 in E flat Major op.117-IV.Adagio.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(06) [The Beethoven Quartet] No.9 in E flat Major op.117-I.Moderato con moto.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(11) [The Beethoven Quartet] No.10 in A flat Major op.118-I.Adante.ape
+Oct 23 19:20 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(01) [The Beethoven Quartet] No.8 in c Minor op.110-I.Largo.ape
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/02 - Holy Tears Remix (Thomas Dimuzio Remix).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/01 - Not in Rivers, but in Drops (Album Version).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/03 - Not in Rivers, but in Drops (Live).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Holy Tears [Single]/01 - Holy Tears [Album Version].mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Holy Tears [Single]/02 - Not in Rivers, but in Drops [Melvins Lustmord Remix].mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Singles/2008 - Holy Tears [Single]/03 - Holy Tears [Live].mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/07 - Altered Course.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/04 - In Fiction.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/03 - The Beginning and the End.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/06 - Grinning Mouths.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/02 - Backlit.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/01 - So Did We.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.03/05 - Wills Dissolve.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/03 - CFT.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/05 - Improv 1 Endless Nameless.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/01 - Gentle Time.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/07 - Weight.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/06 - False Light.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/02 - Glisten.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2006 - Live.04/04 - Celestial.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/01 - The Beginning and the End.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/05 - - Maritime.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/08 - Hym.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/03 - False Light.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/04 - Carry.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/06 - Weight.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/02 - The Other.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2009 - Live.05/07 - From Sinking.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/01 - From Sinking.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/05 - The Beginning and the End.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/03 - Carry.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/04 - Weight.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/06 - Celestial (Ext.Alt. Version).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2005 - Live.02/02 - Glisten.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2004 - Live.01/04 - The Beginning and the End.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2004 - Live.01/03 - Weight.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2004 - Live.01/01 - Carry.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Live/2004 - Live.01/02 - Hymn.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/11 - 09 C.F.T. (New Circuitry and Continued Evolution).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/09 - 07 SGNL03.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/06 - 04 Swarm Reigns (Down).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/01 - 01 SGNL01.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/03 - 11 SGNL04 (End Transmission).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/07 - 05 SGNL02.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/02 - 10 Gentle Time.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/08 - 06 Deconstructing Towers.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/05 - 03 Glisten.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/04 - 02 Celestial (the Tower).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2000 - Celestial/10 - 08 Collapse and Crush.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/08 - Firdous E Bareen.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/02 - Not in Rivers, but in Drops.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/09 - Garden of Light.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/05 - 1000 Shards.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/06 - All Out of Time, All Into Space.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/01 - Wrists of Kings.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/04 - Over Root and Thorn.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/07 - Holy Tears.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2006 - In The Absence Of Truth/03 - Dulcinea.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/06 - 20 Minutes40 Years.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/04 - Wavering Radiant.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/02 - Ghost Key.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/08 - Way Through Woven Branches [Bonus].mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/07 - Threshold of Transformation.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/03 - Hand of the Host.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/05 - Stone to Wake a Serpent.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2009 - Wavering Radiant/01 - Hall of the Dead.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/06 - Altered Course.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/07 - Grinning Mouths.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/05 - Syndic Calls.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/04 - Wills Dissolve.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/03 - In Fiction.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/02 - Backlit.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Albums/2004 - Panopticon/01 - So Did We.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/04 - False Light (the Oktopus).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/05 - Carry- Like I Will Love Her Forever (Fuckin Die!!!) (DJ Speedranch).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/03 - Carry, Second Version - (Tim Hecker).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/01 - Hym (JK Broadrick).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/02 - The Beginning and the End (Venetian Shares).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd2/06 - From- Sinking, to- Drowning (Destructo Swarmbots).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/07 - Maritime (Mike Patton).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/05 - Carry, First Version (Tim Hecker).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/06 - Maritime (Teledubgnosis).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/02 - False Light, Carry Edit (Ayal Naor).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/03 - Hym (Thomas Koner).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/04 - The Other (James Plotkin).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2005 - Oceanic Remixes and Reinterpretations/cd1/01 - Weight (Fennesz).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2000 - Pig Destroyer & Isis Split 7/02 - Exhume to Consume.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2000 - Pig Destroyer & Isis Split 7/01 - Genital Grinder Regurgitation of Giblets.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2000 - Pig Destroyer & Isis Split 7/03 - Streetcleaner.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2006 - In The Fishtank [EP]/03 - Stolen.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2006 - In The Fishtank [EP]/02 - Delial.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Collaborations and other releases/2006 - In The Fishtank [EP]/01 - Low Tide.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - Sawblade [EP]/02 - Streetcleaner.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - Sawblade [EP]/03 - Hand of Doom.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - Sawblade [EP]/01 - Emission of the Signal.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - Sawblade [EP]/04 - House of Low Culture.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1998 - The Mosquito Control [EP]/05 - Streetcleaner.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1998 - The Mosquito Control [EP]/01 - Poison Eggs.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1998 - The Mosquito Control [EP]/04 - Relocation Swarm.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1998 - The Mosquito Control [EP]/03 - Hive Destruction.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1998 - The Mosquito Control [EP]/02 - Life Under the Swatter.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/04 - Smiles and Handshakes.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/07 - Lines Across Eyes.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/03 - Red Sea.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/06 - Ochre.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/05 - Catalyst.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/08 - Hand of Doom.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/02 - The Minus Times.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/1999 - The Red Sea [EP]/01 - Charmicarmicarmicat Shines to Earth.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/2001 - Sgnl05 [EP]/02 - Divine Mother (the Tower Crumbles).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/2001 - Sgnl05 [EP]/04 - Constructing Towers.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/2001 - Sgnl05 [EP]/01 - SGNL05 (Final Transmission).mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/2001 - Sgnl05 [EP]/03 - Beneath Below.mp3
+Oct 23 19:20 : update: added albums/isis/Isis/Extended plays/2001 - Sgnl05 [EP]/05 - Celestial (Signal Fills the Void).mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Ghost_Key.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Hall_of_the_Dead.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Stone_to_Wake_a_Serpent.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Hand_of_the_Host.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_20_Minutes_40_Years.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Wavering_Radiant.mp3
+Oct 23 19:20 : update: added albums/isis/Wavering Radiant/Isis_-_Threshold_of_Transformation.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_6_-_Altered_Course.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_5_-_Syndic_Calls.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_1_-_So_Did_We.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_4_-_Wills_Dissolve.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_7_-_Grinning_Mouths.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_2_-_Backlit.mp3
+Oct 23 19:20 : update: added albums/isis/Panopticon/Isis_-_Panopticon_-_3_-_In_Fiction.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Handel Largo from Xerses.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Elgar - Salut D'Amor.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Rubinstein Melody in F.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Tartini Adsagio from Concerto in D Minor.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Bruch Kol Nidrei.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Popper Spanish Serenade.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Saint-Saens The Swan.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Campagnoli Romance.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Faure Apres un reve.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Schumann Traumerei.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Popper Mazurka in G minor.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Bach Air from Suite No. 3 in D.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Prelude (Bach Suite No.3 for solo cello ).mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Liszt Liebestraum.mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Sarabande (Bach Suite No.3 for solo cello ).mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Bourrée I and II (Bach Suite No.3 for solo cello ).mp3
+Oct 23 19:20 : update: added albums/casals.zip/casals/Gigue (Bach Suite No.3 for solo cello ).mp3
+Oct 23 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 23 20:26 : client: [1] closed
+Oct 23 22:11 : player: played "albums/metal/Porcupine Tree - Arriving Somewhere... full concert DVD (2005).mp4"
+Oct 23 22:11 : client: [2] opened from 127.0.0.1:45658
+Oct 23 22:11 : client: [2] closed
+Oct 24 08:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 08:50 : avahi: Service 'Music Player @ x' successfully established.
+Oct 24 09:59 : client: [0] opened from 127.0.0.1:56424
+Oct 24 09:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 09:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 24 10:25 : player: played "albums/metal/Jesu - Opiate Sun (Full EP)-cFLC9BNzKW8.webm"
+Oct 25 10:39 : client: [1] opened from 127.0.0.1:59058
+Oct 25 10:40 : client: [1] closed
+Oct 25 11:43 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 25 12:33 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 25 12:33 : client: [0] closed
+Oct 26 09:37 : avahi: Client Disconnected, will reconnect shortly
+Oct 26 13:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 13:48 : avahi: Service 'Music Player @ x' successfully established.
+Oct 26 16:48 : client: [0] opened from 127.0.0.1:49940
+Oct 26 16:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 16:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 26 16:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 26 16:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 26 16:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 26 16:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 26 16:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 26 16:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 26 16:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 26 16:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 26 17:03 : client: [0] closed
+Oct 26 17:25 : client: [1] opened from 127.0.0.1:50008
+Oct 26 17:25 : client: [1] closed
+Oct 26 17:52 : client: [2] opened from 127.0.0.1:50144
+Oct 26 19:21 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 26 20:39 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 26 20:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 26 20:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 26 20:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 26 20:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 26 20:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 26 20:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 26 20:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 26 20:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 26 21:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 26 21:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 26 21:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 26 21:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 26 21:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 26 21:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 26 21:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 26 21:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 07:29 : client: [2] closed
+Oct 27 08:09 : client: [3] opened from 127.0.0.1:52466
+Oct 27 08:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:25 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 08:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 08:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 08:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 08:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 08:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 08:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 08:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 08:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 09:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 09:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 09:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 09:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 09:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 09:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 09:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 09:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 09:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 09:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 09:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 09:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 09:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 09:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 09:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 09:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 09:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 09:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 09:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 09:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 09:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 09:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 09:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 09:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 09:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 09:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 09:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 09:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:39 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 10:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 10:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 10:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 10:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 10:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 10:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 10:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 10:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 11:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 11:36 : client: [3] closed
+Oct 27 16:51 : client: [4] opened from 127.0.0.1:54552
+Oct 27 16:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 16:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 16:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 16:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 16:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 16:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 16:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 16:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 16:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 17:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 17:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 17:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 17:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 17:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 17:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:25 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 17:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 17:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 17:39 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 17:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 17:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 17:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 17:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 17:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 17:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 17:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:25 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:39 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 18:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 18:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 18:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 18:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 18:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 18:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 18:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 18:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 19:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 19:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 19:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 19:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 19:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 19:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 19:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 19:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 19:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 19:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 19:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 19:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 19:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 19:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 19:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 19:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 19:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 19:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 19:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 19:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 19:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 19:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 19:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 19:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 19:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 19:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 19:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 19:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 19:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 19:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 19:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 19:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 23:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 23:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 23:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 23:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 23:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 23:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 23:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 23:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 23:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 23:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 23:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 23:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 23:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 23:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 23:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 23:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 23:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 23:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 23:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 23:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 23:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 23:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 23:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 23:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 27 23:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 27 23:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Oct 27 23:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Oct 27 23:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Oct 27 23:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Oct 27 23:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Oct 27 23:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Oct 27 23:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Oct 28 00:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Oct 28 00:00 : client: [4] closed
+Oct 28 10:51 : client: [5] opened from 127.0.0.1:56904
+Oct 28 11:55 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 28 11:57 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Oct 28 14:51 : player: played "albums/metal/Jesu - Opiate Sun (Full EP)-cFLC9BNzKW8.webm"
+Oct 28 15:12 : player: played "albums/metal/Jesu - Opiate Sun (Full EP)-cFLC9BNzKW8.webm"
+Oct 29 05:53 : client: [5] closed
+Oct 29 10:09 : avahi: Client Disconnected, will reconnect shortly
+Oct 29 10:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 29 10:09 : avahi: Service 'Music Player @ x' successfully established.
+Oct 29 19:10 : avahi: Client Disconnected, will reconnect shortly
+Oct 29 19:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 29 19:10 : avahi: Service 'Music Player @ x' successfully established.
+Oct 30 00:00 : avahi: Client Disconnected, will reconnect shortly
+Oct 30 06:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 06:42 : avahi: Service 'Music Player @ x' successfully established.
+Oct 30 13:22 : client: [0] opened from 127.0.0.1:45526
+Oct 30 13:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 13:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 13:35 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(01) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - I. Allegretto.flac"
+Oct 30 13:45 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(02) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - II. Adagio.flac"
+Oct 30 13:48 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(03) [Borodin Quartet] String Quartet No. 14 in F sharp major, Op. 142 - III. Allegretto.flac"
+Oct 30 14:25 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(04) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - I. Elegy, Adagio.flac"
+Oct 30 14:26 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(05) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - II. Serenade, Adagio.flac"
+Oct 30 14:35 : client: [0] closed
+Oct 30 17:01 : client: [1] opened from 127.0.0.1:45788
+Oct 30 17:01 : client: [1] closed
+Oct 30 17:13 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(04) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - I. Elegy, Adagio.flac"
+Oct 30 17:19 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(05) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - II. Serenade, Adagio.flac"
+Oct 30 17:20 : client: [2] opened from 127.0.0.1:45972
+Oct 30 17:20 : client: [2] closed
+Oct 30 17:21 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(06) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - III. Intermezzo, Adagio.flac"
+Oct 30 17:26 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(07) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - IV. Nocturne, Adagio.flac"
+Oct 30 17:31 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(08) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - V. Funeral March, Adagio molto.flac"
+Oct 30 17:38 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(09) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - VI. Epilogue, Adagio.flac"
+Oct 30 18:48 : client: [3] opened from 127.0.0.1:46230
+Oct 30 18:48 : client: [3] closed
+Oct 30 18:53 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(07) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - IV. Nocturne, Adagio.flac"
+Oct 30 18:53 : client: [4] opened from 127.0.0.1:46598
+Oct 30 18:53 : client: [4] closed
+Oct 30 18:58 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(08) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - V. Funeral March, Adagio molto.flac"
+Oct 30 19:05 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(09) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - VI. Epilogue, Adagio.flac"
+Oct 30 20:33 : client: [5] opened from 127.0.0.1:47576
+Oct 30 20:38 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(08) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - V. Funeral March, Adagio molto.flac"
+Oct 30 20:45 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(09) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - VI. Epilogue, Adagio.flac"
+Oct 30 21:05 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(05) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - II. Serenade, Adagio.flac"
+Oct 30 22:43 : player: played "albums/Shostakovich String Quartets/04 Borodin Quartet (Melodiya-EMI, 1978-1983)/CD6/(06) [Borodin Quartet] String Quartet No. 15 in E flat minor, Op. 144 - III. Intermezzo, Adagio.flac"
+Oct 30 22:48 : player: played "albums/casals.zip/casals/Bach Air from Suite No. 3 in D.mp3"
+Oct 30 22:51 : player: played "albums/casals.zip/casals/Bourrée I and II (Bach Suite No.3 for solo cello ).mp3"
+Oct 30 23:00 : player: played "albums/casals.zip/casals/Bruch Kol Nidrei.mp3"
+Oct 30 23:04 : player: played "albums/casals.zip/casals/Campagnoli Romance.mp3"
+Oct 30 23:07 : player: played "albums/casals.zip/casals/Elgar - Salut D'Amor.mp3"
+Oct 30 23:10 : player: played "albums/casals.zip/casals/Faure Apres un reve.mp3"
+Oct 30 23:12 : player: played "albums/casals.zip/casals/Gigue (Bach Suite No.3 for solo cello ).mp3"
+Oct 30 23:16 : player: played "albums/casals.zip/casals/Handel Largo from Xerses.mp3"
+Oct 30 23:21 : player: played "albums/casals.zip/casals/Liszt Liebestraum.mp3"
+Oct 30 23:24 : player: played "albums/casals.zip/casals/Popper Mazurka in G minor.mp3"
+Oct 30 23:27 : player: played "albums/casals.zip/casals/Popper Spanish Serenade.mp3"
+Oct 30 23:30 : player: played "albums/casals.zip/casals/Prelude (Bach Suite No.3 for solo cello ).mp3"
+Oct 30 23:33 : player: played "albums/casals.zip/casals/Rubinstein Melody in F.mp3"
+Oct 30 23:36 : player: played "albums/casals.zip/casals/Saint-Saens The Swan.mp3"
+Oct 30 23:40 : player: played "albums/casals.zip/casals/Sarabande (Bach Suite No.3 for solo cello ).mp3"
+Oct 30 23:43 : player: played "albums/casals.zip/casals/Schumann Traumerei.mp3"
+Oct 30 23:47 : player: played "albums/casals.zip/casals/Tartini Adsagio from Concerto in D Minor.mp3"
+Oct 31 00:20 : client: [5] closed
+Oct 31 00:22 : client: [6] opened from 127.0.0.1:48498
+Oct 31 00:23 : update: updating recs/High Tide.wav
+Oct 31 00:23 : update: added albums/morphine/Morphine_-_You_Look_Like_Rain.m4a
+Oct 31 00:23 : update: added albums/morphine/Morphine_-_The_Night.m4a
+Oct 31 00:23 : update: added albums/morphine/you_look_like_rain.mp3
+Oct 31 00:23 : update: added albums/morphine/Morphine-Let_s_take_a_trip_together.m4a
+Oct 31 00:23 : update: added albums/morphine/the_night.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 08 Smoke Interlude.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 12 Young G (Phoniks Remix).flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 03 Respiration ft. Scolla.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 09 Everyman.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 06 Rothko.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 04 14 Til.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 11 Big Payback ft. Awon.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 05 Pay Homage Interlude.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 01 Intro.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 10 Descension.flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 07 Blue Dream ft. Devin Miles (Phoniks Remix).flac
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section/Anti-Lilly & Phoniks - Stories From The Brass Section - 02 Blue In Green.flac
+Oct 31 00:23 : update: added albums/dethklok/Dethklok-Go_Forth_And_Die.m4a
+Oct 31 00:23 : update: added albums/dethklok/Awaken_-_Dethklok.m4a
+Oct 31 00:23 : update: added albums/dethklok/Dethalbum-Murmaider.m4a
+Oct 31 00:23 : update: added albums/casals/Rubinstein Melody in F.mp3
+Oct 31 00:23 : update: added albums/casals/noisesample.wav
+Oct 31 00:23 : update: added albums/casals/Bourrée I and II (Bach Suite No.3 for solo cello ).mp3
+Oct 31 00:23 : update: added albums/casals/Handel Largo from Xerses.mp3
+Oct 31 00:23 : update: added albums/casals/Saint-Saens The Swan.mp3
+Oct 31 00:23 : update: added albums/casals/Schumann Traumerei.mp3
+Oct 31 00:23 : update: added albums/casals/Faure Apres un reve.mp3
+Oct 31 00:23 : update: added albums/casals/Bach Air from Suite No. 3 in D.mp3
+Oct 31 00:23 : update: added albums/casals/Elgar - Salut D'Amor.mp3
+Oct 31 00:23 : update: added albums/casals/Gigue (Bach Suite No.3 for solo cello ).mp3
+Oct 31 00:23 : update: added albums/casals/Tartini Adsagio from Concerto in D Minor.mp3
+Oct 31 00:23 : update: added albums/casals/Campagnoli Romance.mp3
+Oct 31 00:23 : update: added albums/casals/Bruch Kol Nidrei.mp3
+Oct 31 00:23 : update: added albums/casals/Prelude (Bach Suite No.3 for solo cello ).mp3
+Oct 31 00:23 : update: added albums/casals/Sarabande (Bach Suite No.3 for solo cello ).mp3
+Oct 31 00:23 : update: added albums/casals/Popper Mazurka in G minor.mp3
+Oct 31 00:23 : update: added albums/casals/Liszt Liebestraum.mp3
+Oct 31 00:23 : update: added albums/casals/Popper Spanish Serenade.mp3
+Oct 31 00:23 : update: added albums/casals/Rubinstein Melody in F_nonoise.mp3
+Oct 31 00:23 : update: added albums/naezy/Naezy_-_Asal_Hustle_Official_Music_Video.m4a
+Oct 31 00:23 : update: added albums/naezy/Aafat_Waapas_Naezy_Official_Music_Video.m4a
+Oct 31 00:23 : update: added albums/naezy/Naezy_-_Tragedy_Mein_Comedy_Prod._by_StunnahSez_Beatz.m4a
+Oct 31 00:23 : update: added albums/naezy/SHEIKH_CHILLI_RAFTAAR_YEH_DISS_GAANA_NAHI_HAI.m4a
+Oct 31 00:23 : update: added albums/naezy/Naezy_-_Haq_Hai_Prod._By_Sez.m4a
+Oct 31 00:23 : update: added albums/naezy/EMIWAY-SAMAJH_MEIN_AAYA_KYA_OFFICIAL_MUSIC_VIDEO.m4a
+Oct 31 00:23 : update: added albums/naezy/Raaste_Kathin_-_Naezy.m4a
+Oct 31 00:23 : update: added albums/naezy/Aafat_-_Naezy_Introductory_Verses.m4a
+Oct 31 00:23 : update: added albums/naezy/Bimaar_-_The_Psypher_1.5_Ncube_Saheb_and_Naezy.m4a
+Oct 31 00:23 : update: added albums/naezy/Naezy_-_Sabse_Hatkar_Prod.by_Mode7.m4a
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 05 Pay Homage Interlude.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 11 Big Payback ft. Awon.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 02 Blue In Green.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 12 Young G (Phoniks Remix).mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 03 Respiration ft. Scolla.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 06 Rothko.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 10 Descension.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 09 Everyman.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 07 Blue Dream ft. Devin Miles (Phoniks Remix).mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 04 14 Til.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 08 Smoke Interlude.mp3
+Oct 31 00:23 : update: added albums/Anti-Lilly & Phoniks - Stories From The Brass Section mp3/Anti-Lilly & Phoniks - Stories From The Brass Section - 01 Intro.mp3
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/01 - Suite No.1- 1. Prelude.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/11 - Suite No.2- 5. Menuet I, II.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/04 - Suite No.1- 4. Sarabande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/18 - Suite No.3- 6. Gigue.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/05 - Suite No.1- 5. Menuet I, II.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/17 - Suite No.3- 5. Bourree I, II.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/13 - Suite No.3- 1. Prelude.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/15 - Suite No.3- 3. Courante.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/03 - Suite No.1- 3. Courante.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/16 - Suite No.3- 4. Sarabande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/08 - Suite No.2- 2. Allemande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/02 - Suite No.1- 2. Allemande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/09 - Suite No.2- 3. Courante.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/12 - Suite No.2- 6. Gigue.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/10 - Suite No.2- 4. Sarabande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/14 - Suite No.3- 2. Allemande.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/06 - Suite No.1- 6. Gigue.flac
+Oct 31 00:23 : update: added albums/Yasuaki Shimizu & Saxophonettes - J.S. Bach- Cello Suites 1-3 (1996, Victor-Japan)/07 - Suite No.2- 1. Prelude.flac
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro3.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro4.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro1.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro6.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro2.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 5.avi
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 6.avi
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/rostro5.mp3
+Oct 31 00:23 : update: added albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi
+Oct 31 00:23 : update: added albums/nick_drake/Nick Drake – Five Leaves Left (Full Album) Very Rare 1st Ever UK Issue `Black Block Logo` £1000+-QRdCj4T8LY0.m4a
+Oct 31 00:23 : update: added albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a
+Oct 31 00:23 : update: added albums/nick_drake/NickDrake-PinkMoon.m4a
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Fly (Acoustic Version).mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake -  Clothes of sand.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Leaving Me Behind [alternate].mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Hazey Jane [demo].mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Plaisir d'Amour.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Place to Be Home Recording.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake- Far Leys.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Get Together Home Recording.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/nick drake - strange meeting II.mp3
+Oct 31 00:23 : update: added albums/nick_drake/far_leys/Nick Drake - Parasite [demo].mp3
+Oct 31 00:23 : update: added albums/nick_drake/Jackson_C._Frank_1965_Full_Album.m4a
+Oct 31 00:23 : update: added albums/nick_drake/Bryter Layter (Full)-Qr3-ScLFG4w.m4a
+Oct 31 00:23 : update: added albums/Famous Adagios/04 - MOZART - Violin Concerto No. 3 in G Major, K. 216 - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/03 - ALBINONI - Oboe Concerto in D Minor, Op. 9, No. 2 - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/08 - MOZART - Clarinet Concerto in A Major, K. 488 - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/07 - BRUCH - Violin Concerto No. 1 in G Minor, Op. 26 - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/05 - A. MARCELLO - Oboe Concerto in D Minor - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/09 - RODRIGO - Concierto de Aranjuez - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/10 - BARBER - Adagio for Strings.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/01 - ALBINONI - Adagio in G Minor.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/06 - MOZART - Piano Concerto No. 23 in A Major, K. 488 - Adagio.mp3
+Oct 31 00:23 : update: added albums/Famous Adagios/02 - J.S. BACH - Violin Concerto in E Major, BWV 1042 - Adagio.mp3
+Oct 31 00:23 : update: added albums/In Bruges OST/I_Didn_t_Want_to_Die_-_Carter_Burwell.m4v.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_06._View_From_The_Tower.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_Soundtrack_4_songs_-_Carter_Burwell.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/Townes_Van_Zandt_St._Jhon_the_Gambler_In_Bruges_OST.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/Der_Leiermann_Franz_Schubert_D.911_24.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_03._The_Little_Dead_Boy.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_07._My_Suicide_Your_Homicide.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_Prologue_-_Medieval_Waters.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_OST_Carter_Burwell_Prologue.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_12._The_Magic_Frog.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/Brandy_Alexander.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_05._The_Last_Jugdement.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/The_Dubliners_-_On_Raglan_Road_In_Bruges_Soundtrack.m4a
+Oct 31 00:23 : update: added albums/In Bruges OST/In_Bruges_2008_-_09._Save_The_Next_Boy.m4a
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/05 - I Wish I Knew.flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/02 - You Don't Know What Love Is.flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/04 - All Or Nothing At All.flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/08 - Nancy (With The Laughing Face).flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/07 - It's Easy To Remember.flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/01 - Say It (Over And Over Again).flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/06 - What's New.flac
+Oct 31 00:23 : update: added albums/coltrane/John Coltrane - Ballads (1962)/03 - Too Young To Go Steady.flac
+Oct 31 00:23 : update: added albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/04 Lush Life.flac
+Oct 31 00:23 : update: added albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/03 Trane's Slow Blues.flac
+Oct 31 00:23 : update: added albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/01 Like Someone In Love.flac
+Oct 31 00:23 : update: added albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/05 I Hear A Rhapsody.flac
+Oct 31 00:23 : update: added albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/02 I Love You.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/04.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/09.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/08.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/01.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/05.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/03.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/07.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/02.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/Memorias de Shostakovich (Radio Clásica)/06.mp3
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/07 - String Quartet N°1 in C Major, op.49 - 2. Moderato.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/02 - String Quartet N°8 in C Minor, op.110 -  2. Allegro molto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/14 - String Quartet N°9 in E Flat Major, op.117 - 5. Allegro.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/13 - String Quartet N°9 in E Flat Major, op.117 - 4. Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/09 - String Quartet N°1 in C Major, op.49 - 4. Allegro.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/04 - String Quartet N°8 in C Minor, op.110 - 4. Largo.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/05 - String Quartet N°8 in C Minor, op.110 - 5. Largo.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/01 - String Quartet N°8 in C Minor, op.110 - 1. Largo.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/10 - String Quartet N°9 in E Flat Major, op.117 - 1. Moderato con moto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/08 - String Quartet N°1 in C Major, op.49 - 3. Allegro molto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/03 - String Quartet N°8 in C Minor, op.110 - 3. Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/11 - String Quartet N°9 in E Flat Major, op.117 - 2. Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/06 - String Quartet N°1 in C Major, op.49 - 1. Moderato.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 2/12 - String Quartet N°9 in E Flat Major, op.117 - 3. Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/08 - Quartet No. 6 in G Major, Op.101 , 4 - Lento - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/07 - Quartet No. 6 in G Major, Op.101 , 3 - Lento.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/05 - Quartet No. 6 in G Major, Op.101 , 1 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/06 - Quartet No. 6 in G Major, Op.101 , 2 - Moderato Con Moto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/10 - Quartet No. 7 in F Sharp Minor, Op.108 , 2 - Lento.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/09 - Quartet No. 7 in F Sharp Minor, Op.108 , 1 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/04 - Quartet No. 4 in D Major, Op.83 , 4 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/03 - Quartet No. 4 in D Major, Op.83 , 3 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/02 - Quartet No. 4 in D Major, Op.83 , 2 - Andantino.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/11 - Quartet No. 7 in F Sharp Minor, Op.108 , 3 - Allegro.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 1/01 - Quartet No. 4 in D Major, Op.83 , 1 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/05 - String Quartet No. 15 in E flat minor, Op. 144 - Serenade- Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/04 - String Quartet No. 15 in E flat minor, Op. 144 - Elegy- Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/02 - String Quartet No. 14 in F sharp major, Op. 142 - Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/08 - String Quartet No. 15 in E flat minor, Op. 144 - Funeral March- Adagiomolto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/07 - String Quartet No. 15 in E flat minor, Op. 144 - Nocturne- Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/01 - String Quartet No. 14 in F sharp major, Op. 142 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/09 - String Quartet No. 15 in E flat minor, Op. 144 - Epilogue- Adagio - Adagio molto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/06 - String Quartet No. 15 in E flat minor, Op. 144 - Intermezzo- Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 5/03 - String Quartet No. 14 in F sharp major, Op. 142 - Alegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/05 - String Quartet No. 12 in D Flat Major, Op. 133 - Moderato.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/02 - String Quartet No. 2 in A Major, Op. 68 - Recitativo and Romance.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/01 - String Quartet No. 2 in A Major, Op. 68 - Overture.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/03 - String Quartet No. 2 in A Major, Op. 68 - Valse.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/04 - String Quartet No. 2 in A Major, Op. 68 - Theme with variations.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 4/06 - String Quartet No. 12 in D Flat Major, Op. 133 - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/02 - String quartet No. 10 in A flat major, Op. 118 - II Allegretto furioso.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/12 - String quartet No. 13 in B flat minor, Op. 138 - Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/01 - String quartet No. 10 in A flat major, Op. 118 - I Andante.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/08 - String quartet No. 11 in F minor, Op. 122 - IV Etude- Allegro -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/10 - String quartet No. 11 in F minor, Op. 122 - VI Elegy- Adagio -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/05 - String quartet No. 11 in F minor, Op. 122 - I Introduction- Andantino.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/11 - String quartet No. 11 in F minor, Op. 122 - VII Finale- Moderato.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/03 - String quartet No. 10 in A flat major, Op. 118 - III Adagio -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/09 - String quartet No. 11 in F minor, Op. 122 - V Humoresque- Allegro -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/04 - String quartet No. 10 in A flat major, Op. 118 - IV - Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/06 - String quartet No. 11 in F minor, Op. 122 - II Scherzo- Allegretto -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 6/07 - String quartet No. 11 in F minor, Op. 122 - III Recitative- Adagio -.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/02 - String Quartet No. 3 in F, Op. 73-Moderato con moto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/04 - String Quartet No. 3 in F, Op. 73-Adagio.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/06 - String Quartet No. 5 in B flat, Op. 92-Allegro non troppo.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/07 - String Quartet No. 5 in B flat, Op. 92-Andante.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/01 - String Quartet No. 3 in F, Op. 73-Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/08 - String Quartet No. 5 in B flat, Op. 92-Moderato-Allegretto.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/05 - String Quartet No. 3 in F, Op. 73-Moderato.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/06 Eder Quartet (Naxos, 1992-96)/Disc 3/03 - String Quartet No. 3 in F, Op. 73-Allegro non troppo.flac
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(07) [Emerson String Quartet] String Quartet No. 2 in A Major, op. 68 (1944) III Waltz- Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(08) [Emerson String Quartet] String Quartet No. 2 in A Major, op. 68 (1944) IV Theme with Variations- Adag....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(02) [Emerson String Quartet] String Quartet No. 1 in C Major, op. 49 (1938) II Moderato.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(04) [Emerson String Quartet] String Quartet No. 1 in C Major, op. 49 (1938) IV Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(01) [Emerson String Quartet] String Quartet No. 1 in C Major, op. 49 (1938) I Moderato.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(09) [Emerson String Quartet] String Quartet No. 3 in F Major, op. 73 (1946) I Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(06) [Emerson String Quartet] String Quartet No. 2 in A Major, op. 68 (1944) II Recitative and Romance- Adagio.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(05) [Emerson String Quartet] String Quartet No. 2 in A Major, op. 68 (1944) I Overture- Moderato con moto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(03) [Emerson String Quartet] String Quartet No. 1 in C Major, op. 49 (1938) III Allegro molto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(10) [Emerson String Quartet] String Quartet No. 3 in F Major, op. 73 (1946) II Moderato con moto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(12) [Emerson String Quartet] String Quartet No. 3 in F Major, op. 73 (1946) IV Adagio - attacca-.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(11) [Emerson String Quartet] String Quartet No. 3 in F Major, op. 73 (1946) III Allegro non troppo.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD1/(13) [Emerson String Quartet] String Quartet No. 3 in F Major, op. 73 (1946) V Moderato - Adagio.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(01) [Emerson String Quartet] Quartet No 4 in D op 83 - 1 Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(03) [Emerson String Quartet] 3 Allegretto - attacca-.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(02) [Emerson String Quartet] 2 Andantino.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(06) [Emerson String Quartet] 2 Andante - Andantino - Andante - attacca-.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(11) [Emerson String Quartet] 4 Lento - Allegretto - Andante - Lento.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(05) [Emerson String Quartet] Quartet No 5 in B flat op 92 - 1 Allegro non troppo - attacca-.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(09) [Emerson String Quartet] 2Moderato con moto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(07) [Emerson String Quartet] 3 Moderato - Allegretto - Andante.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(10) [Emerson String Quartet] 3 Lento - attacca-.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(08) [Emerson String Quartet] Quartet No 6 in G op 101 - 1 Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD2/(04) [Emerson String Quartet] 4 Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(05) [Emerson String Quartet] String Quartet No. 8 in C Minor, op. 110 (1960) - II Allegro molto - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(07) [Emerson String Quartet] String Quartet No. 8 in C Minor, op. 110 (1960) - IV Largo - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(17) [Emerson String Quartet] String Quartet No. 10 in A - flat Major, op. 118 (1964)  - IV Allegretto - An....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(16) [Emerson String Quartet] String Quartet No. 10 in A - flat Major, op. 118 (1964)  - III Adagio - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(13) [Emerson String Quartet] String Quartet No. 9 in E - flat Major, op. 117 (1964) - V Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(08) [Emerson String Quartet] String Quartet No. 8 in C Minor, op. 110 (1960) - V Largo.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(12) [Emerson String Quartet] String Quartet No. 9 in E - flat Major, op. 117 (1964)  - IV Adagio - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(09) [Emerson String Quartet] String Quartet No. 9 in E - flat Major, op. 117 (1964) - I Moderato.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(15) [Emerson String Quartet] String Quartet No. 10 in A - flat Major, op. 118 (1964) - II Allegretto furioso.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(01) [Emerson String Quartet] String Quartet No. 7 in F - sharp Minor, op. 108 (1960) - I Allegretto - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(04) [Emerson String Quartet] String Quartet No. 8 in C Minor, op. 110 (1960) - I Largo - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(06) [Emerson String Quartet] String Quartet No. 8 in C Minor, op. 110 (1960) - III Allegretto - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(02) [Emerson String Quartet] String Quartet No. 7 in F - sharp Minor, op. 108 (1960) - II Lento - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(10) [Emerson String Quartet] String Quartet No. 9 in E - flat Major, op. 117 (1964) - II Adagio - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(14) [Emerson String Quartet] String Quartet No. 10 in A - flat Major, op. 118 (1964) - I Andante.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(03) [Emerson String Quartet] String Quartet No. 7 in F - sharp Minor, op. 108 (1960) - III Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD3/(11) [Emerson String Quartet] String Quartet No. 9 in E - flat Major, op. 117 (1964) - III Allegretto - att....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(09) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) VI Epilogue_ Adagio - A....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(04) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) I Elegy.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(06) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) III Intermezzo_ Adagio ....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(01) [Emerson String Quartet] String Quartet No. 14 in F-sharp Major, op. 142 (1972-73) I Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(05) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) II Serenade_ Adagio - a....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(07) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) IV Nocturne_ Adagio - a....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(08) [Emerson String Quartet] String Quartet No. 15 in E-flat Minor, op. 144 (1974) V Funeral March_ Adagio....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(02) [Emerson String Quartet] String Quartet No. 14 in F-sharp Major, op. 142 (1972-73) II Adagio - attacca.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD5/(03) [Emerson String Quartet] String Quartet No. 14 in F-sharp Major, op. 142 (1972-73) III Allegretto - Po....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(07) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - V Humoresque.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(12) [Emerson String Quartet] String Quartet No. 13 in B Flat Minor, op. 138 (1970) - I Adagio.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(08) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - VI Elegy.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(11) [Emerson String Quartet] String Quartet No. 12 in D Flat Major, op. 133 (1968)  - II Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(01) [Emerson String Quartet] Adagio (Elegy) for String Quartet, op. 29 - Adagio (Elegy) for String Quartet....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(09) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - VII Finale.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(05) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - III Recitative.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(03) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966)  - I Introduction.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(04) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - II Scherzo.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(06) [Emerson String Quartet] String Quartet No. 11 in F Minor, op. 122 (1966) - IV Etude.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(10) [Emerson String Quartet] String Quartet No. 12 in D Flat Major, op. 133 (1968) - I Moderato.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/07 Emerson Quartet (DG, 1994-1999)/CD4/(02) [Emerson String Quartet] Allegretto (Polka) for String Quartet, op. 22 - Allegretto (Polka) for String....ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(07) [The Beethoven Quartet] No.7 in f Minor op.108-I.Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(05) [The Beethoven Quartet] No.6 in G Major op.101-II.Moderato con moto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(06) [The Beethoven Quartet] No.6 in G Major op.101-III.Lento-Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(01) [The Beethoven Quartet] No.5 in B Major op.92-I.Allegro non  troppo.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(08) [The Beethoven Quartet] No.7 in f Minor op.108-II.Lento.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(10) [The Beethoven Quartet] No.7 in f Minor op.108-IV.Allegreto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(03) [The Beethoven Quartet] No.5 in B Major op.92-III.Moderato-Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(09) [The Beethoven Quartet] No.7 in f Minor op.108-III.Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(04) [The Beethoven Quartet] No.6 in G Major op.101-I.Allegretto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD3/(02) [The Beethoven Quartet] No.5 in B Major op.92-II.Andante.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(05) [The Beethoven Quartet] No.8 in c Minor op.110-V.Largo.ape
+Oct 31 00:23 : update: updating albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(06) [The Beethoven Quartet] No.9 in E flat Major op.117-I.Moderato con moto.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(04) [The Beethoven Quartet] No.8 in c Minor op.110-IV.Largo.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(10) [The Beethoven Quartet] No.9 in E flat Major op.117-V.Allegro.ape
+Oct 31 00:23 : update: added albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(07) [The Beethoven Quartet] No.9 in E flat Major op.117-II.Adagio.ape
+Oct 31 00:23 : update: added albums/triphop/Stan Getz with Bill Evans Trio -  But Beautiful 128 kbps .m4a
+Oct 31 00:23 : update: added albums/triphop/best_nujabes.m4a
+Oct 31 00:23 : update: added albums/triphop/the locket-Atlas.mp4
+Oct 31 00:23 : update: added albums/triphop/Mogwai_-_Happy_songs_for_happy_people._Full_Album.m4a
+Oct 31 00:23 : update: added albums/triphop/Best_Sigur_Ros_High_Quality_Flac.m4a
+Oct 31 00:23 : update: added albums/triphop/Stay at home today - lofi hiphop mix pt.3 128 kbps .m4a
+Oct 31 00:23 : update: added albums/triphop/Dead_Can_Dance_-_Anastasis_full_album_excellent_sound_quality.m4a
+Oct 31 00:23 : update: added albums/triphop/Shine On You Crazy Diamond (Full Length - Parts I - IX) - Pink Floyd-8UXircX3VdM.m4a
+Oct 31 00:23 : update: added albums/triphop/Beat Therapy- Part 2- Trip Hop-Hip Hop & Soul.mp4
+Oct 31 00:23 : update: added albums/triphop/Beat_Therapy_-_A_Trip_Hop_Mix.m4a
+Oct 31 00:23 : update: added albums/triphop/Enigma_-_Gravity_Of_Love_Greatest_Hits.m4a
+Oct 31 00:23 : update: added albums/triphop/Vanilla_-_Origin_Full_Album.m4a
+Oct 31 00:23 : update: added albums/triphop/Pink_Floyd_-_Wish_You_Were_Here.m4a
+Oct 31 00:23 : update: added albums/triphop/Pink_Floyd_Dark_Side_of_The_Moon_LP.m4a
+Oct 31 00:23 : update: added albums/triphop/Sigur_Ros_Takk..._Full_Album.m4a
+Oct 31 00:23 : update: added albums/triphop/ＲＡＩＮＹ　ＤＡＹＳ 128 kbps .m4a
+Oct 31 00:23 : update: added albums/triphop/Flying_Lotus_Dilla_s_Still_Here_Mix.m4a
+Oct 31 00:23 : update: added albums/triphop/Flying_Lotus_-_Demo_06_FULL_ALBUM.m4a
+Oct 31 00:23 : update: added albums/triphop/Best of Nujabes - Playlist [with beatiful art].mp4
+Oct 31 00:23 : update: added albums/triphop/Sigur_Ros_-_Hvarf_Heim_FULL_ALBUM.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Brids_Of_Fire.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Meeting_Of_The_Spirits.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Dawn.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Celestial_Terrestrial_Commuters.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Faith.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Follow_Your_Heart.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Dance_of_Maya.m4a
+Oct 31 00:23 : update: added albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Can_t_Stand_Your_Funk.m4a
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/07. Behemoth - Forgotten Cult Of Aldaron.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/03. Behemoth - From The Pagan Vastlands.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/09. Behemoth - Hell Dwells In Ice.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/08. Behemoth - Wolves Guard My Coffin.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/01. Behemoth - Chant Of The Eastern Lands.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/06. Behemoth - Entering The Faustian Soul.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/04. Behemoth - Hidden In The Fog.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/02. Behemoth - The Touch Of Nya.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/05. Behemoth - Ancient.mp3
+Oct 31 00:23 : update: added albums/behemoth/1995 - Sventevith (Storming Near The Baltic)/10. Behemoth - Transylvanian Forest.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/03 - Eternal Blasphemy.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/05 - Ceremony In Chapel.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/02 - Cursed Angel Of Doom.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/06 - First Embody Remains.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/01 - Into The Black Mass.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/04 - Temple Of Evil.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth - Endless Damnation [Demo] (1992)/07 - Endless Damnation.mp3
+Oct 31 00:23 : update: added albums/behemoth/Behemoth_-_Ov_Fire_And_The_Void.m4a
+Oct 31 00:23 : update: added albums/behemoth/Behemoth_-_Hidden_Track_II_Satanica.m4a
+Oct 31 00:23 : update: added albums/behemoth/1994 - And The Forests Dream Eternally [EP]/02. Behemoth - Moonspell Rites.mp3
+Oct 31 00:23 : update: added albums/behemoth/1994 - And The Forests Dream Eternally [EP]/05. Behemoth - Forgotten Empire Of Dark Witchcraft.mp3
+Oct 31 00:23 : update: added albums/behemoth/1994 - And The Forests Dream Eternally [EP]/01. Behemoth - Transylvanian Forest.mp3
+Oct 31 00:23 : update: added albums/behemoth/1994 - And The Forests Dream Eternally [EP]/03. Behemoth - Sventevith (Storming Near The Baltic).mp3
+Oct 31 00:23 : update: added albums/behemoth/1994 - And The Forests Dream Eternally [EP]/04. Behemoth - Pure Evil And Hate.mp3
+Oct 31 00:23 : update: added albums/behemoth/BEHEMOTH_-_Decade_Ov_Therion_OFFICIAL_MUSIC_VIDEO.m4a
+Oct 31 00:23 : update: added albums/behemoth/BEHEMOTH_-_At_The_Left_Hand_Ov_God_OFFICIAL_MUSIC_VIDEO.m4a
+Oct 31 00:23 : update: added albums/meshuggah/MESHUGGAH_-_Bleed_OFFICIAL_MUSIC_VIDEO.m4a
+Oct 31 00:29 : client: [7] opened from 127.0.0.1:48542
+Oct 31 00:29 : client: [7] closed
+Oct 31 00:29 : client: [8] opened from 127.0.0.1:48544
+Oct 31 00:29 : client: [8] closed
+Oct 31 01:20 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Oct 31 12:19 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 14:16 : client: [6] closed
+Oct 31 14:28 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 14:29 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 15:15 : client: [9] opened from 127.0.0.1:49726
+Oct 31 15:25 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 15:54 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 15:54 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 16:07 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 16:07 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 16:19 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 16:20 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 16:42 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 16:42 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 17:13 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 17:13 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 19:25 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 19:25 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 19:38 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 19:39 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 20:35 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(01) [The Beethoven Quartet] No.3 in F Major op.73-I.Allegretto.ape"
+Oct 31 20:40 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(04) [The Beethoven Quartet] No.3 in F Major op.73-IV.Adagio.ape"
+Oct 31 20:45 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(01) [The Beethoven Quartet] No.8 in c Minor op.110-I.Largo.ape"
+Oct 31 20:48 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(07) [The Beethoven Quartet] No.9 in E flat Major op.117-II.Adagio.ape"
+Oct 31 20:51 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 20:52 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(09) [The Beethoven Quartet] No.9 in E flat Major op.117-IV.Adagio.ape"
+Oct 31 20:56 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 20:56 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(13) [The Beethoven Quartet] No.10 in A flat Major op.118-III.Adagio.ape"
+Oct 31 21:00 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 21:00 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(06) [The Beethoven Quartet] No.11 in F Minor op.122-VI.Elegy-Adagio.ape"
+Oct 31 21:18 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(10) [The Beethoven Quartet] No.12 in B flat Major op.138-I.Adagio.ape"
+Oct 31 21:26 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Oct 31 21:27 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(02) [The Beethoven Quartet] No.14 in F sharp Major op.142-II.Adagio.ape"
+Oct 31 21:27 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Oct 31 21:27 : client: [9] closed
+Nov 01 10:04 : avahi: Client Disconnected, will reconnect shortly
+Nov 01 10:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 10:06 : avahi: Service 'Music Player @ x' successfully established.
+Nov 01 10:25 : client: [0] opened from 127.0.0.1:41356
+Nov 01 10:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 10:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 10:25 : client: [0] closed
+Nov 01 10:30 : client: [1] opened from 127.0.0.1:41360
+Nov 01 10:30 : client: [1] closed
+Nov 01 10:32 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(01) [The Beethoven Quartet] No.3 in F Major op.73-I.Allegretto.ape"
+Nov 01 10:37 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.1/CD2/(04) [The Beethoven Quartet] No.3 in F Major op.73-IV.Adagio.ape"
+Nov 01 10:42 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(01) [The Beethoven Quartet] No.8 in c Minor op.110-I.Largo.ape"
+Nov 01 10:45 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(07) [The Beethoven Quartet] No.9 in E flat Major op.117-II.Adagio.ape"
+Nov 01 10:48 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 10:48 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(09) [The Beethoven Quartet] No.9 in E flat Major op.117-IV.Adagio.ape"
+Nov 01 10:53 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 10:53 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.2/CD4/(13) [The Beethoven Quartet] No.10 in A flat Major op.118-III.Adagio.ape"
+Nov 01 10:57 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 10:57 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(06) [The Beethoven Quartet] No.11 in F Minor op.122-VI.Elegy-Adagio.ape"
+Nov 01 11:15 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(10) [The Beethoven Quartet] No.12 in B flat Major op.138-I.Adagio.ape"
+Nov 01 11:23 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 11:23 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(02) [The Beethoven Quartet] No.14 in F sharp Major op.142-II.Adagio.ape"
+Nov 01 11:36 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 11:36 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Nov 01 12:03 : client: [2] opened from 127.0.0.1:41766
+Nov 01 12:04 : client: [2] closed
+Nov 01 12:07 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Nov 01 12:07 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(06) [The Beethoven Quartet] No.11 in F Minor op.122-VI.Elegy-Adagio.ape"
+Nov 01 12:26 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD5/(10) [The Beethoven Quartet] No.12 in B flat Major op.138-I.Adagio.ape"
+Nov 01 12:30 : client: [3] opened from 127.0.0.1:41822
+Nov 01 12:30 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(02) [The Beethoven Quartet] No.14 in F sharp Major op.142-II.Adagio.ape"
+Nov 01 12:30 : client: [3] closed
+Nov 01 15:28 : client: [4] opened from 127.0.0.1:42088
+Nov 01 15:28 : client: [4] closed
+Nov 01 15:35 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Brids_Of_Fire.m4a"
+Nov 01 15:42 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Can_t_Stand_Your_Funk.m4a"
+Nov 01 15:46 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Celestial_Terrestrial_Commuters.m4a"
+Nov 01 15:53 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Dance_of_Maya.m4a"
+Nov 01 15:59 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Dawn.m4a"
+Nov 01 16:05 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Faith.m4a"
+Nov 01 16:13 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Follow_Your_Heart.m4a"
+Nov 01 16:20 : player: played "albums/visions/Visions_Of_An_Inner_Mounting_Apocalypse_-_Meeting_Of_The_Spirits.m4a"
+Nov 02 07:21 : client: [5] opened from 127.0.0.1:44142
+Nov 02 07:22 : client: [5] closed
+Nov 02 07:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 07:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 07:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 07:25 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 07:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 07:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 07:28 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 07:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 07:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 07:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 07:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 07:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 07:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 07:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 07:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 07:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 07:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 07:39 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 07:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 07:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 07:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 07:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 07:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 07:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 07:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 07:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 07:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 07:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 07:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 07:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 07:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 07:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 07:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 07:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 07:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 07:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 07:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 07:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 08:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 08:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 08:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 08:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 08:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 08:05 : client: [6] opened from 127.0.0.1:44334
+Nov 02 08:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 08:14 : client: [6] closed
+Nov 02 08:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 08:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 08:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 08:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 08:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 08:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 08:20 : client: [7] opened from 127.0.0.1:44344
+Nov 02 08:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 08:53 : client: [7] closed
+Nov 02 08:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 08:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 08:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 08:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 08:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 08:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 09:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 09:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 09:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 02 09:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 02 09:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 02 09:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 02 09:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 02 09:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 02 09:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 02 09:08 : client: [8] opened from 127.0.0.1:44380
+Nov 02 09:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 02 09:17 : client: [8] closed
+Nov 02 13:15 : avahi: Client Disconnected, will reconnect shortly
+Nov 02 16:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 16:12 : avahi: Service 'Music Player @ x' successfully established.
+Nov 03 11:10 : client: [0] opened from 127.0.0.1:33306
+Nov 03 11:38 : client: [0] closed
+Nov 04 03:47 : avahi: Client Disconnected, will reconnect shortly
+Nov 04 03:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 03:53 : avahi: Service 'Music Player @ x' successfully established.

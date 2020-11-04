@@ -1,0 +1,56 @@
+####################################################
+## dipilibupap@gmail.com
+## Largely Inspire By crshd and Him .
+####################################################
+
+mpd_music_dir = "/home/x/Music/"
+mpd_host = "0.0.0.0"
+mpd_port = "6601"
+
+screen_switcher_mode = playlist, browser
+# startup_screen = clock
+
+# Playlist
+song_columns_list_format = "(10f)[blue]{l} (25)[red]{a} (40)[green]{t|f} (30)[cyan]{b}"
+now_playing_prefix = "$b$5»$7»$1» "
+now_playing_suffix = "$/b"
+playlist_display_mode = "columns" (classic/columns)
+autocenter_mode = "yes"
+centered_cursor = "yes"
+user_interface = "alternative"
+
+# Bars
+song_status_format = "$2%a $1• $3%t $1• $4%b {(Disc %d) }$1• $5%y$1"
+titles_visibility = "yes"
+
+# Browser
+browser_playlist_prefix = "$2plist »$9 "
+browser_display_mode = "columns" (classic/columns)
+
+# Colors
+colors_enabled = "yes"
+empty_tag_color = "cyan"
+header_window_color = "cyan"
+volume_color = "cyan"
+state_line_color = "cyan"
+state_flags_color = "cyan":b
+main_window_color = "cyan"
+color1 = "white"
+color2 = "green"
+progressbar_color = "cyan":b
+progressbar_elapsed_color = "green":b
+statusbar_color = "cyan"
+# statusbar_time_color = "cyan":b
+# player_state_color = "cyan":b
+alternative_ui_separator_color = "cyan":b
+window_border_color = "green"
+active_window_border = "red"
+
+visualizer_color = "red"
+
+# Othersl
+song_window_title_format = "MPD: {%a > }{%t}{ [%b{ Disc %d}]}|{%f}"
+search_engine_display_mode = "columns" (classic/columns)
+search_engine_default_search_mode = "2"
+follow_now_playing_lyrics = "yes"
+# display_screens_numbers_on_start = "yes"

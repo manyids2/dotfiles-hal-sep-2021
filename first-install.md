@@ -12,7 +12,7 @@ sudo ubuntu-drivers autoinstall
 
 check:  nvidia-smi
 
-Fri Oct 23 08:00:59 2020       
+Fri Oct 23 08:00:59 2020
 +-----------------------------------------------------------------------------+
 | NVIDIA-SMI 455.23.04    Driver Version: 455.23.04    CUDA Version: 11.1     |
 |-------------------------------+----------------------+----------------------+
@@ -24,7 +24,7 @@ Fri Oct 23 08:00:59 2020
 |  0%   43C    P8    13W / 125W |    218MiB /  5941MiB |      1%      Default |
 |                               |                      |                  N/A |
 +-------------------------------+----------------------+----------------------+
-                                                                               
+
 +-----------------------------------------------------------------------------+
 | Processes:                                                                  |
 |  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
@@ -36,7 +36,7 @@ Fri Oct 23 08:00:59 2020
 +-----------------------------------------------------------------------------+
 
 	lshw -c video
-	  *-display                 
+	  *-display
        description: VGA compatible controller
        product: TU116 [GeForce GTX 1660 SUPER]
        vendor: NVIDIA Corporation
@@ -51,7 +51,7 @@ Fri Oct 23 08:00:59 2020
 
 terminal stuff-
 
-alacritty 
+alacritty
 sudo apt install curl
 
 curl https://sh.rustup.rs -sSf | sh
@@ -139,8 +139,8 @@ sudo apt-get install typora
 
 # utils
 sudo apt install tree
-lshw - information about hardware configuration  
-lshw-gtk - graphical information about hardware configuration  
+lshw - information about hardware configuration
+lshw-gtk - graphical information about hardware configuration
 
 
 [stow](https://bastian.rieck.me/blog/posts/2019/dotfiles_stow/)
@@ -177,10 +177,10 @@ sudo apt install rofi
 
 # git flow
 sudo apt install git-flow
-cp https://raw.githubusercontent.com/bobthecow/git-flow-completion/master/git.fish to 
+cp https://raw.githubusercontent.com/bobthecow/git-flow-completion/master/git.fish to
 .config/fish/completions
 
-# starting gnu stow stuff 
+# starting gnu stow stuff
 sudo apt install stow
  - it actually works!
 
@@ -188,3 +188,142 @@ sudo apt install stow
 sudo add-apt-repository ppa:lazygit-team/release
 sudo apt-get update
 sudo apt-get install lazygit
+
+# distutils
+sudo apt-get install python3-distutils
+sudo apt-get install python3-apt
+
+# chrome
+sudo dpkg -i ./google-chrome...
+
+# yarn
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+sudo apt update && sudo apt install yarn
+
+# node
+curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+sudo apt-get install -y nodejs
+
+# nvim - basic config done
+
+# ssh config
+
+chmod 600 ~/.ssh/*
+chmod 644 ~/.ssh/config
+
+ForwardX11 yes
+Host ptak
+    HostName ptak.felk.cvut.cz
+    User qqmukund
+Host halmos
+    HostName halmos.felk.cvut.cz
+    User qqmukund
+Host lcraid
+    HostName lcraid.felk.cvut.cz
+    User qqmukund
+Host lcgpu
+    HostName lcgpu
+    HostKeyAlias lcgpu
+    User qqmukund
+    VerifyHostKeyDNS no
+    ProxyCommand ssh lcraid -W %h:%p
+Host lcgpu2
+    HostName lcgpu2
+    HostKeyAlias lcgpu2
+    User qqmukund
+    VerifyHostKeyDNS no
+    ProxyCommand ssh lcraid -W %h:%p
+Host lcgpu3
+    HostName lcgpu3
+    HostKeyAlias lcgpu3
+    User qqmukund
+    VerifyHostKeyDNS no
+    ProxyCommand ssh lcraid -W %h:%p
+Host boruvka
+    HostName boruvka
+    HostKeyAlias boruvka
+    User qqmukund
+    VerifyHostKeyDNS no
+    ProxyCommand ssh lcraid -W %h:%p
+
+ssh-keygen
+ssh-copy-id lcraid
+ssh-copy-id lcgpu
+...
+
+sudo apt-get install sshfs
+
+host='qqmukund@halmos.felk.cvut.cz'
+
+sshfs asks for password still
+- to check permissions
+stat -c '%a' .ssh/id_rsa.pub
+
+
+# data
+dirpath='/mnt/lascar/qqmukund'
+sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa "$host":"$dirpath" "$dirpath"
+
+# www
+dirpath='/mnt/personal/qqmukund'
+sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa "$host":"$dirpath" "$dirpath"
+
+# data
+dirpath='/mnt/lascar/qqmukund'
+sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa "$host":"$dirpath" "$dirpath"
+
+# www
+dirpath='/mnt/personal/qqmukund'
+sudo sshfs -o allow_other,IdentityFile=~/.ssh/id_rsa "$host":"$dirpath" "$dirpath"
+
+# virtial env
+/home/x/fd/projects/p38
+    - add to init.vim as well
+    - TODO: add to CocConfig
+
+# pylint
+pip install pylint
+
+# START WORKING, PULLING REST SLOWLY
+
+fixes
+- pip3 install wheel
+
+# fisher, and plugins
+fisher add jethrokuan/z
+fisher add joehillen/to-fish
+
+# copied mpd and ncmpcpp from harddisk
+
+# tmux - copy from hd
+
+# CUDA stuff
+wget https://developer.download.nvidia.com/compute/cuda/11.1.0/local_installers/cuda_11.1.0_455.23.05_linux.run
+sudo sh cuda_11.1.0_455.23.05_linux.run
+
+===========
+= Summary =
+===========
+
+Driver:   Not Selected
+Toolkit:  Installed in /usr/local/cuda-11.1/
+Samples:  Installed in /home/x/, but missing recommended libraries
+
+Please make sure that
+ -   PATH includes /usr/local/cuda-11.1/bin
+ -   LD_LIBRARY_PATH includes /usr/local/cuda-11.1/lib64, or, add /usr/local/cuda-11.1/lib64 to /etc/ld.so.conf and run ldconfig as root
+
+To uninstall the CUDA Toolkit, run cuda-uninstaller in /usr/local/cuda-11.1/bin
+*WARNING*: Incomplete installation! This installation did not install the CUDA Driver. A driver of version at least .00 is required for CUDA 11.1 functionality to work.
+To install the driver using this installer, run the following command, replacing <CudaInstaller> with the name of this run file:
+    sudo <CudaInstaller>.run --silent --driver
+
+Logfile is /var/log/cuda-installer.log
+
+# cuDNN
+tar -xzvf cudnn-x.x-linux-x64-v8.x.x.x.tgz
+etc.
+
+# torch, pytorch
+- finally, done
