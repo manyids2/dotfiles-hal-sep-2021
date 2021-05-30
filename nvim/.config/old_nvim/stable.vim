@@ -1,4 +1,3 @@
-
 set runtimepath^=/home/x/fd/projects/lsp-server-1/zett-server
 
 " ================ Plugins ==================== {{{
@@ -28,14 +27,19 @@ Plug 'lucasprag/simpleblack'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 
+" coc
+Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
+Plug 'neoclide/coc-prettier', { 'do': 'yarn install --frozen-lockfile' }
+
 " ide
 Plug 'junegunn/goyo.vim'
-Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
-Plug 'vimwiki/vimwiki'
 Plug 'godlygeek/tabular'
 Plug 'plasticboy/vim-markdown'
+Plug 'lervag/vimtex'
+Plug 'tmhedberg/SimpylFold'
+Plug 'masukomi/vim-markdown-folding'
 
 " autocomplete
 Plug 'SirVer/ultisnips'
@@ -106,6 +110,7 @@ set completeopt=menuone,noinsert
 " }}}
 
 " ================ Indentation ====================== {{{
+set conceallevel=2
 set shiftwidth=4
 set softtabstop=4
 set tabstop=4
@@ -153,6 +158,30 @@ function! HideStatusTabBuffer()
   endif
 endfunction
 
+function! s:Scratch (command, ...)
+   redir => lines
+   let saveMore = &more
+   set nomore
+   execute a:command
+   redir END
+   let &more = saveMore
+   call feedkeys("\<cr>")
+   new | setlocal buftype=nofile bufhidden=hide noswapfile
+   put=lines
+   if a:0 > 0
+      execute 'vglobal/'.a:1.'/delete'
+   endif
+   if a:command == 'scriptnames'
+      %substitute#^[[:space:]]*[[:digit:]]\+:[[:space:]]*##e
+   endif
+   silent %substitute/\%^\_s*\n\|\_s*\%$
+   let height = line('$') + 3
+   execute 'normal! z'.height."\<cr>"
+   0
+endfunction
+
+command! -nargs=? Scriptnames call <sid>Scratch('scriptnames', <f-args>)
+command! -nargs=+ Scratch call <sid>Scratch(<f-args>)
 
 " ================ Auto commands ====================== {{{
 augroup vimrc
@@ -164,6 +193,8 @@ autocmd vimrc InsertEnter * :set nocul                                          
 autocmd vimrc FocusGained,BufEnter * checktime                                  "Refresh file when vim gets focus
 " }}}
 
+command! -nargs=0 Prettier :CocCommand prettier.formatFile
+
 " ================ Mappings ==================== {{{
 let g:mapleader = " "
 
@@ -171,6 +202,9 @@ let g:mapleader = " "
 nnoremap <leader>gr :source ~/.config/nvim/init.vim<CR>
 map <c-s> :w<CR>
 imap <c-s> <c-o>:w<CR>
+
+" jumplist
+nnoremap <C-l> <C-i>
 
 
 " Buffer
@@ -219,8 +253,9 @@ nnoremap n nzz
 nnoremap N Nzz
 
 " Toggle buffer list
-nnoremap <C-p> :Files<CR>
+nnoremap <C-p> :GFiles<CR>
 nnoremap <C-q> :q<CR>
+nnoremap <Leader>o :copen<CR>
 nnoremap <Leader>q :cclose<CR>
 nnoremap <Leader>b :Buffers<CR>
 nnoremap <Leader>m :History<CR>
@@ -229,10 +264,10 @@ nnoremap <Leader>m :History<CR>
 nnoremap + <c-w>5>
 nnoremap _ <c-w>5<
 
-nnoremap <C-h> <C-w>h
-nnoremap <C-l> <C-w>l
-nnoremap <C-j> <C-w>j
-nnoremap <C-k> <C-w>k
+" nnoremap <C-h> <C-w>h
+" nnoremap <C-l> <C-w>l
+" nnoremap <C-j> <C-w>j
+" nnoremap <C-k> <C-w>k
 
 " Zoom / Restore window.
 function! s:ZoomToggle() abort
@@ -259,12 +294,15 @@ map Q <Nop>
 " Dispatch
 nnoremap <leader>gS :silent exec "!./.git/dispatch"<CR>
 nnoremap <leader>gs :!./.git/dispatch<CR>
+" nnoremap <leader>gt :!typora % &<CR>
+nnoremap <leader>gt :r! date<CR>
 
 :nmap <leader>n :CocCommand explorer<CR>
 
 " Remap keys for gotos
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)
+nmap <silent> g<C-space> :CocAction<CR>
 nnoremap <silent> K :call CocAction('doHover')<CR>
 
 xmap <leader>a  <Plug>(coc-codeaction-selected)
@@ -284,12 +322,13 @@ inoremap <m-d> <c-\><c-o>:PreviewScroll +1<cr>
 " }}}
 
 " ================ General Plugins ==================== {{{
-let g:python_host_prog = '/home/x/fd/projects/p38/bin/python'
-let g:python3_host_prog = '/home/x/fd/projects/p38/bin/python'
+let g:python_host_prog = '/home/x/ev/bin/python'
+let g:python3_host_prog = '/home/x/ev/bin/python'
 autocmd InsertLeave * if pumvisible() == 0|pclose|endif
 autocmd FileType json syntax match Comment +\/\/.\+$+
 autocmd FileType make setlocal noexpandtab softtabstop=0
 autocmd FileType xmenu setlocal noexpandtab softtabstop=0
+autocmd FileType markdown setlocal shiftwidth=2 softtabstop=2 tabstop=2
 " }}}
 
 " ================ Snippets ==================== {{{
@@ -308,6 +347,10 @@ let g:coc_snippet_next = '<tab>'
 
 
 "" ================ tex ======================== {{{
+set nocompatible
+if has("autocmd")
+  filetype plugin indent on
+endif
 
 let g:tex_flavor = 'latex'
 let g:Tex_MultipleCompileFormats='pdf,bibtex,pdf'
@@ -364,6 +407,8 @@ let g:pandoc#folding#fastfolds = 1
 "" ================ markdown ======================== {{{
 let g:vim_markdown_folding_disabled = 1
 let g:vim_markdown_folding_level = 2
+let g:vim_markdown_math = 1
+
 
 "" == TEMP STUFF == ""
 set list
@@ -371,3 +416,4 @@ set listchars=tab:>-
 
 hi Cursor guifg=black guibg=green gui=reverse
 set guicursor=a:block-blinkon100-Cursor/Cursor
+

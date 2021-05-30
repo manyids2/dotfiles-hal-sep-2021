@@ -1585,3 +1585,2642 @@ Nov 03 11:38 : client: [0] closed
 Nov 04 03:47 : avahi: Client Disconnected, will reconnect shortly
 Nov 04 03:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Nov 04 03:53 : avahi: Service 'Music Player @ x' successfully established.
+Nov 04 07:37 : client: [0] opened from 127.0.0.1:50130
+Nov 04 07:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 07:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 07:38 : client: [0] closed
+Nov 04 07:38 : client: [1] opened from 127.0.0.1:50134
+Nov 04 07:38 : client: [1] closed
+Nov 04 07:39 : client: [2] opened from 127.0.0.1:50136
+Nov 04 07:39 : client: [2] closed
+Nov 04 07:39 : client: [3] opened from 127.0.0.1:50138
+Nov 04 07:39 : client: [3] closed
+Nov 04 07:54 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 04 08:16 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 04 08:40 : ffmpeg/mp3float: Header missing
+Nov 04 08:40 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 04 08:40 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 04 08:57 : client: [4] opened from 127.0.0.1:50266
+Nov 04 09:04 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 04 09:20 : client: [4] closed
+Nov 04 09:48 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 5.avi"
+Nov 04 10:08 : client: [5] opened from 127.0.0.1:50298
+Nov 04 10:08 : client: [5] closed
+Nov 04 10:21 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 6.avi"
+Nov 05 08:56 : client: [6] opened from 127.0.0.1:52070
+Nov 05 08:57 : client: [6] closed
+Nov 05 09:13 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 05 09:35 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 05 09:46 : client: [7] opened from 127.0.0.1:52214
+Nov 05 09:46 : client: [7] closed
+Nov 05 09:59 : ffmpeg/mp3float: Header missing
+Nov 05 09:59 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 05 09:59 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 05 10:11 : client: [8] opened from 127.0.0.1:52246
+Nov 05 10:11 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 05 10:11 : client: [8] closed
+Nov 05 10:47 : client: [9] opened from 127.0.0.1:52288
+Nov 05 10:48 : client: [9] closed
+Nov 05 10:54 : client: [10] opened from 127.0.0.1:52322
+Nov 05 10:54 : client: [10] closed
+Nov 05 10:57 : player: played "albums/metal/Garden_of_Light_-_ISIS_HD.m4a"
+Nov 06 10:02 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 10:02 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 06 10:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:03 : avahi: Service 'Music Player @ x' successfully established.
+Nov 06 10:34 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 10:34 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 06 10:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:34 : avahi: Service 'Music Player @ x' successfully established.
+Nov 06 10:44 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 10:44 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 06 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 10:44 : avahi: Service 'Music Player @ x' successfully established.
+Nov 06 10:50 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 10:51 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 06 10:51 : avahi: Service 'Music Player @ x' successfully established.
+Nov 07 20:08 : avahi: Client Disconnected, will reconnect shortly
+Nov 07 20:08 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 07 20:10 : avahi: Service 'Music Player @ x' successfully established.
+Nov 08 07:06 : client: [0] opened from 127.0.0.1:60002
+Nov 08 07:06 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Nov 08 07:07 : client: [0] closed
+Nov 08 07:07 : client: [1] opened from 127.0.0.1:60004
+Nov 08 07:08 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 08 07:08 : client: [1] closed
+Nov 08 07:08 : client: [2] opened from 127.0.0.1:60006
+Nov 08 07:09 : client: [2] closed
+Nov 08 07:25 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 08 07:46 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 08 08:11 : ffmpeg/mp3float: Header missing
+Nov 08 08:11 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 08 08:11 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 08 08:24 : client: [3] opened from 127.0.0.1:60130
+Nov 08 08:24 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 08 08:24 : client: [3] closed
+Nov 08 17:24 : client: [4] opened from 127.0.0.1:33044
+Nov 08 17:24 : client: [4] closed
+Nov 08 17:58 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 6.avi"
+Nov 08 18:32 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 6.avi"
+Nov 08 18:38 : client: [5] opened from 127.0.0.1:33124
+Nov 08 18:38 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 6.avi"
+Nov 08 18:38 : client: [5] closed
+Nov 09 19:38 : client: [6] opened from 127.0.0.1:39008
+Nov 09 19:38 : client: [6] closed
+Nov 09 19:38 : client: [7] opened from 127.0.0.1:39010
+Nov 09 19:38 : client: [7] closed
+Nov 09 19:55 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 09 20:16 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 09 20:40 : ffmpeg/mp3float: Header missing
+Nov 09 20:40 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 09 20:41 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 09 20:53 : client: [8] opened from 127.0.0.1:39274
+Nov 09 20:53 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 09 20:53 : client: [8] closed
+Nov 10 10:16 : client: [9] opened from 127.0.0.1:41694
+Nov 10 10:16 : client: [9] closed
+Nov 10 10:24 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 10 10:32 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 10 10:39 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 10 10:46 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 10 10:48 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 10 10:51 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 10 11:02 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 10 11:11 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 10 11:19 : client: [10] opened from 127.0.0.1:41796
+Nov 10 11:20 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Nov 10 11:34 : client: [10] closed
+Nov 10 11:42 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 10 11:49 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 10 11:57 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 10 12:04 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 10 12:06 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 10 12:09 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 10 12:20 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 10 12:28 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 10 12:38 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Nov 10 21:26 : client: [11] opened from 127.0.0.1:43116
+Nov 10 21:26 : client: [11] closed
+Nov 10 21:26 : client: [12] opened from 127.0.0.1:43118
+Nov 10 21:26 : client: [12] closed
+Nov 10 22:22 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Nov 10 23:24 : client: [13] opened from 127.0.0.1:43260
+Nov 10 23:25 : player: played "albums/nick_drake/Jackson_C._Frank_1965_Full_Album.m4a"
+Nov 10 23:25 : client: [13] closed
+Nov 11 00:21 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Nov 11 07:00 : client: [14] opened from 127.0.0.1:44382
+Nov 11 07:01 : client: [14] closed
+Nov 11 07:06 : player: played "singles/sigur_ros/Mogwai_-_I_Know_You_Are_But_What_Am_I.m4a"
+Nov 11 07:13 : player: played "singles/sugar/Mogwai - Take Me Somewhere Nice-luM6oeCM7Yw.mp3"
+Nov 11 07:52 : client: [15] opened from 127.0.0.1:45076
+Nov 11 07:52 : player: played "albums/triphop/Mogwai_-_Happy_songs_for_happy_people._Full_Album.m4a"
+Nov 11 08:18 : client: [15] closed
+Nov 11 08:24 : player: played "singles/sigur_ros/Mogwai_-_I_Know_You_Are_But_What_Am_I.m4a"
+Nov 11 08:31 : player: played "singles/sugar/Mogwai - Take Me Somewhere Nice-luM6oeCM7Yw.mp3"
+Nov 11 09:13 : player: played "albums/triphop/Mogwai_-_Happy_songs_for_happy_people._Full_Album.m4a"
+Nov 11 20:33 : client: [16] opened from 127.0.0.1:49202
+Nov 11 20:33 : client: [16] closed
+Nov 11 20:38 : player: played "singles/sigur_ros/Mogwai_-_I_Know_You_Are_But_What_Am_I.m4a"
+Nov 11 20:45 : player: played "singles/sugar/Mogwai - Take Me Somewhere Nice-luM6oeCM7Yw.mp3"
+Nov 11 21:04 : client: [17] opened from 127.0.0.1:49290
+Nov 11 21:04 : player: played "albums/triphop/Mogwai_-_Happy_songs_for_happy_people._Full_Album.m4a"
+Nov 11 21:04 : client: [17] closed
+Nov 12 06:46 : client: [18] opened from 127.0.0.1:50052
+Nov 12 06:46 : client: [18] closed
+Nov 12 07:03 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 12 07:24 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 12 07:48 : ffmpeg/mp3float: Header missing
+Nov 12 07:48 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 12 07:49 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 12 08:11 : client: [19] opened from 127.0.0.1:50718
+Nov 12 08:11 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 12 08:43 : client: [19] closed
+Nov 12 09:00 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 1.avi"
+Nov 12 09:21 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Nov 12 09:46 : ffmpeg/mp3float: Header missing
+Nov 12 09:46 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Nov 12 09:46 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 3.avi"
+Nov 12 10:11 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 4.avi"
+Nov 12 10:15 : client: [20] opened from 127.0.0.1:46008
+Nov 12 10:16 : client: [20] closed
+Nov 12 10:19 : client: [21] opened from 127.0.0.1:46010
+Nov 12 10:19 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 5.avi"
+Nov 12 10:42 : client: [21] closed
+Nov 12 12:21 : avahi: Client Disconnected, will reconnect shortly
+Nov 12 14:08 : avahi: Service 'Music Player @ x' successfully established.
+Nov 14 11:53 : avahi: Client Disconnected, will reconnect shortly
+Nov 14 11:53 : avahi: Service 'Music Player @ x' successfully established.
+Nov 15 20:12 : client: [0] opened from 127.0.0.1:42630
+Nov 15 20:12 : client: [0] closed
+Nov 15 21:03 : player: played "albums/metal/Conditions of My Parole (Full Album) - Puscifer-Ug6_yS6-a4I.m4a"
+Nov 16 06:25 : client: [1] opened from 127.0.0.1:44536
+Nov 16 06:25 : client: [1] closed
+Nov 16 06:25 : client: [2] opened from 127.0.0.1:44538
+Nov 16 06:25 : client: [2] closed
+Nov 16 06:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 06:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 06:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 06:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 06:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 06:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 06:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 06:33 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 06:34 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 06:35 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 06:36 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 06:37 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 06:38 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 06:39 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 06:40 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 06:41 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 06:42 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 06:43 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 06:44 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 06:45 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 06:46 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 06:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 06:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 06:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 06:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 06:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 06:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 06:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 06:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 06:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 06:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 06:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 06:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 06:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 07:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 07:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 07:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 07:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 07:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 07:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 07:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 07:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 07:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 07:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 07:10 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 07:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 07:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 07:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 07:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 07:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 07:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 07:17 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 07:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 07:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 07:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 07:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 07:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 07:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 07:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 07:25 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 07:26 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 07:27 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 07:29 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 07:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 07:30 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 07:31 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 07:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 07:32 : client: [3] opened from 127.0.0.1:44756
+Nov 16 07:32 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 07:32 : client: [3] closed
+Nov 16 17:46 : client: [4] opened from 127.0.0.1:45814
+Nov 16 17:46 : client: [4] closed
+Nov 16 17:47 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 17:48 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 17:49 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 17:50 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 17:51 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 17:52 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 17:53 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 17:54 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 17:55 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 17:56 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 17:57 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 17:58 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 17:59 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 18:00 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 18:01 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 18:02 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 18:03 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 18:04 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 18:05 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 18:06 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 18:07 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 18:08 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 18:09 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 18:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 18:11 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 18:12 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 18:13 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 18:14 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 18:15 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 18:16 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 18:18 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 07 The Forest.mp3"
+Nov 16 18:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 08 Majuli Theme - End Credits.mp3"
+Nov 16 18:19 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 01 The City of Jorhat.mp3"
+Nov 16 18:20 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 02 Jitu at Home.mp3"
+Nov 16 18:21 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 03 Majuli Erosion.mp3"
+Nov 16 18:22 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 04 Nothing Is Safe From Humans.mp3"
+Nov 16 18:23 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 05 Diwali Festival.mp3"
+Nov 16 18:24 : client: [5] opened from 127.0.0.1:45862
+Nov 16 18:24 : player: played "albums/Mike Ritchie - Forest Man OST/Mike Ritchie - Forest Man OST - 06 10,000 Payengs.mp3"
+Nov 16 18:24 : client: [5] closed
+Nov 17 19:03 : client: [6] opened from 127.0.0.1:48422
+Nov 17 19:03 : client: [6] closed
+Nov 17 19:03 : client: [7] opened from 127.0.0.1:48424
+Nov 17 19:03 : client: [7] closed
+Nov 17 20:48 : player: played "albums/metal/Porcupine Tree - Arriving Somewhere... full concert DVD (2005).mp4"
+Nov 18 15:20 : client: [8] opened from 127.0.0.1:50454
+Nov 18 15:20 : client: [8] closed
+Nov 18 15:20 : client: [9] opened from 127.0.0.1:50456
+Nov 18 15:20 : client: [9] closed
+Nov 18 16:39 : client: [10] opened from 127.0.0.1:50582
+Nov 18 16:54 : player: played "albums/metal/Porcupine Tree - Arriving Somewhere... full concert DVD (2005).mp4"
+Nov 18 16:54 : client: [10] closed
+Nov 18 17:02 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 18 17:10 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 18 17:17 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 18 17:24 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 18 17:26 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 18 17:29 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 18 17:40 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 18 17:49 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 18 17:58 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Nov 18 19:33 : client: [11] opened from 127.0.0.1:50908
+Nov 18 19:33 : client: [11] closed
+Nov 18 19:41 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 18 19:49 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 18 19:56 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 18 20:03 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 18 20:05 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 18 20:08 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 18 20:19 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 18 20:28 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 18 20:37 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Nov 20 19:57 : client: [12] opened from 127.0.0.1:55348
+Nov 20 19:57 : client: [12] closed
+Nov 20 20:05 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 20 20:12 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 20 20:20 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 20 20:23 : client: [13] opened from 127.0.0.1:55402
+Nov 20 20:23 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 20 20:23 : client: [13] closed
+Nov 22 00:29 : client: [14] opened from 127.0.0.1:57438
+Nov 22 00:30 : client: [14] closed
+Nov 22 00:30 : client: [15] opened from 127.0.0.1:57504
+Nov 22 00:30 : client: [15] closed
+Nov 22 01:26 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Nov 23 18:54 : client: [16] opened from 127.0.0.1:33452
+Nov 23 18:54 : client: [16] closed
+Nov 23 19:01 : client: [17] opened from 127.0.0.1:33458
+Nov 23 19:01 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Nov 23 19:11 : client: [17] closed
+Nov 23 20:09 : client: [18] opened from 127.0.0.1:33814
+Nov 23 20:09 : client: [18] closed
+Nov 23 20:09 : client: [19] opened from 127.0.0.1:33860
+Nov 23 20:09 : client: [19] closed
+Nov 23 20:23 : client: [20] opened from 127.0.0.1:33884
+Nov 23 20:23 : player: played "albums/nick_drake/Jackson C. Frank (1965) (Full Album)-0va3F2PWBJc.m4a"
+Nov 23 20:23 : client: [20] closed
+Nov 24 08:45 : client: [21] opened from 127.0.0.1:34714
+Nov 24 08:54 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 24 09:01 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 24 09:09 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 24 09:16 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 24 09:18 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 24 09:21 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 24 09:32 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 24 09:37 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 24 09:43 : client: [21] closed
+Nov 24 09:43 : client: [22] opened from 127.0.0.1:34758
+Nov 24 09:43 : client: [22] closed
+Nov 24 09:48 : player: played "singles/hiphop/Tech_N9ne_-_Worldwide_Choppers_Feat._Busta_Rhymes_Yelawolf_Twisted_Insane..._OFFICIAL_AUDIO.m4a"
+Nov 25 09:17 : client: [23] opened from 127.0.0.1:45102
+Nov 25 09:25 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 25 09:33 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 25 09:40 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 25 09:47 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 25 09:49 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 25 09:52 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 25 10:03 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 25 10:03 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 25 10:06 : client: [23] closed
+Nov 26 09:54 : client: [24] opened from 127.0.0.1:46976
+Nov 26 09:54 : client: [24] closed
+Nov 26 09:54 : client: [25] opened from 127.0.0.1:46980
+Nov 26 10:02 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 26 10:09 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 26 10:17 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 26 10:24 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 26 10:26 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 26 10:29 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 26 10:40 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 26 11:04 : client: [25] closed
+Nov 29 08:11 : client: [26] opened from 127.0.0.1:53606
+Nov 29 08:19 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 29 08:27 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 29 08:35 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 29 08:42 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 29 08:44 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 29 08:47 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 29 08:58 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 29 09:06 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 29 09:07 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Nov 29 09:45 : client: [26] closed
+Nov 30 08:58 : client: [27] opened from 127.0.0.1:55926
+Nov 30 09:07 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Nov 30 09:14 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Nov 30 09:22 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Nov 30 09:28 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Nov 30 09:31 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Nov 30 09:34 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Nov 30 09:44 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Nov 30 10:19 : client: [27] closed
+Nov 30 10:49 : avahi: Client Disconnected, will reconnect shortly
+Nov 30 10:49 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Nov 30 13:57 : avahi: Service 'Music Player @ x' successfully established.
+Dec 01 10:25 : client: [0] opened from 127.0.0.1:46634
+Dec 01 10:25 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Dec 01 10:45 : client: [0] closed
+Dec 01 13:04 : avahi: Client Disconnected, will reconnect shortly
+Dec 01 15:21 : avahi: Service 'Music Player @ x' successfully established.
+Dec 01 16:00 : avahi: Client Disconnected, will reconnect shortly
+Dec 01 16:02 : avahi: Service 'Music Player @ x' successfully established.
+Dec 02 07:34 : avahi: Client Disconnected, will reconnect shortly
+Dec 02 07:36 : avahi: Service 'Music Player @ x' successfully established.
+Dec 02 09:08 : client: [0] opened from 127.0.0.1:32802
+Dec 02 09:37 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Dec 02 09:44 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Dec 02 09:52 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Dec 02 09:59 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Dec 02 10:01 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Dec 02 10:04 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Dec 02 10:15 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Dec 02 10:23 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Dec 02 15:19 : client: [0] closed
+Dec 06 21:54 : avahi: Client Disconnected, will reconnect shortly
+Dec 06 21:54 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/09 - Hym.mp3"
+Dec 06 21:55 : avahi: Service 'Music Player @ x' successfully established.
+Dec 07 06:45 : client: [0] opened from 127.0.0.1:57956
+Dec 07 06:53 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Dec 07 07:00 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Dec 07 07:08 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Dec 07 07:15 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Dec 07 07:17 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Dec 07 07:20 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Dec 07 07:31 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Dec 07 07:33 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Dec 07 08:29 : client: [0] closed
+Dec 07 08:48 : avahi: Client Disconnected, will reconnect shortly
+Dec 07 11:21 : avahi: Service 'Music Player @ x' successfully established.
+Dec 08 08:05 : client: [0] opened from 127.0.0.1:38278
+Dec 08 08:47 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Dec 08 08:54 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Dec 08 09:02 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Dec 08 09:09 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Dec 08 09:11 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Dec 08 09:14 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Dec 08 09:25 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Dec 08 09:26 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Dec 08 09:46 : client: [0] closed
+Dec 09 10:22 : avahi: Client Disconnected, will reconnect shortly
+Dec 09 12:53 : avahi: Service 'Music Player @ x' successfully established.
+Dec 09 15:43 : client: [0] opened from 127.0.0.1:60296
+Dec 09 15:44 : client: [0] closed
+Dec 09 15:56 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 15:56 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 09 15:58 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 09 16:03 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 16:04 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 09 16:09 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 09 16:10 : client: [1] opened from 127.0.0.1:60374
+Dec 09 16:10 : client: [1] closed
+Dec 09 16:14 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 09 16:21 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 09 17:58 : client: [2] opened from 127.0.0.1:60564
+Dec 09 17:58 : client: [2] closed
+Dec 09 18:10 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 18:10 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 09 18:12 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 09 18:18 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 18:18 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 09 18:23 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 09 18:29 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 09 18:35 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 09 20:21 : client: [3] opened from 127.0.0.1:60930
+Dec 09 20:21 : client: [3] closed
+Dec 09 20:33 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 20:33 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 09 20:35 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 09 20:41 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 09 20:41 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 09 20:46 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 09 20:52 : client: [4] opened from 127.0.0.1:60972
+Dec 09 20:52 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 09 20:52 : client: [4] closed
+Dec 11 09:07 : avahi: Client Disconnected, will reconnect shortly
+Dec 11 14:57 : avahi: Service 'Music Player @ x' successfully established.
+Dec 11 19:16 : client: [0] opened from 127.0.0.1:36662
+Dec 11 19:28 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 11 19:28 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 11 19:38 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 08:35 : client: [0] closed
+Dec 12 08:40 : client: [1] opened from 127.0.0.1:37190
+Dec 12 08:40 : client: [1] closed
+Dec 12 16:31 : client: [2] opened from 127.0.0.1:38286
+Dec 12 16:31 : client: [2] closed
+Dec 12 16:31 : client: [3] opened from 127.0.0.1:38288
+Dec 12 16:31 : client: [3] closed
+Dec 12 16:43 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 16:43 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 16:45 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 16:51 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 16:51 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 16:56 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 12 17:02 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 12 17:08 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 12 17:17 : client: [4] opened from 127.0.0.1:38334
+Dec 12 17:17 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 17:45 : client: [4] closed
+Dec 12 17:57 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 17:58 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 18:00 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 18:05 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 18:05 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 18:10 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 12 18:16 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 12 18:22 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 12 18:35 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 18:35 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 18:37 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 18:42 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 18:43 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 18:48 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 12 18:53 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 12 19:00 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 12 19:12 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 19:12 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 19:14 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 19:19 : client: [5] opened from 127.0.0.1:38448
+Dec 12 19:19 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 19:44 : client: [5] closed
+Dec 12 19:56 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 19:56 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 19:58 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 20:04 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 20:04 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 20:09 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 12 20:14 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+Dec 12 20:21 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+Dec 12 20:33 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 20:33 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 20:36 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 20:41 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 20:41 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+Dec 12 20:46 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+Dec 12 20:47 : client: [6] opened from 127.0.0.1:38544
+Dec 12 20:47 : client: [6] closed
+Dec 12 20:59 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+Dec 12 21:00 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+Dec 12 21:00 : client: [7] opened from 127.0.0.1:38554
+Dec 12 21:00 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+Dec 12 22:57 : client: [7] closed
+Dec 13 16:44 : client: [8] opened from 127.0.0.1:39696
+Dec 13 16:46 : client: [8] closed
+Dec 13 16:47 : client: [9] opened from 127.0.0.1:39712
+Dec 13 16:47 : client: [9] closed
+Dec 14 07:09 : avahi: Client Disconnected, will reconnect shortly
+Dec 14 07:09 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Dec 14 07:10 : ffmpeg/mp3float: Header missing
+Dec 14 07:10 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Dec 14 07:10 : avahi: Service 'Music Player @ x' successfully established.
+Dec 14 08:59 : avahi: Client Disconnected, will reconnect shortly
+Dec 14 08:59 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Dec 14 13:10 : ffmpeg/mp3float: Header missing
+Dec 14 13:10 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Dec 14 13:10 : avahi: Service 'Music Player @ x' successfully established.
+Dec 16 07:27 : avahi: Client Disconnected, will reconnect shortly
+Dec 16 07:27 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Dec 16 12:44 : ffmpeg/mp3float: Header missing
+Dec 16 12:44 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Dec 16 12:44 : avahi: Service 'Music Player @ x' successfully established.
+Dec 17 11:01 : avahi: Client Disconnected, will reconnect shortly
+Dec 17 11:01 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Dec 17 14:34 : ffmpeg/mp3float: Header missing
+Dec 17 14:34 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Dec 17 14:34 : avahi: Service 'Music Player @ x' successfully established.
+Dec 20 09:03 : client: [0] opened from 127.0.0.1:35090
+Dec 20 09:03 : player: played "albums/Cello Suites (Rostropovich)/Mstislav Rostropovich - Bach Cello Suites 2.avi"
+Dec 20 09:10 : player: played "albums/isis/Wavering Radiant/Isis_-_20_Minutes_40_Years.mp3"
+Dec 20 09:19 : player: played "albums/isis/Wavering Radiant/Isis_-_Ghost_Key.mp3"
+Dec 20 09:26 : player: played "albums/isis/Wavering Radiant/Isis_-_Hall_of_the_Dead.mp3"
+Dec 20 09:37 : player: played "albums/isis/Wavering Radiant/Isis_-_Hand_of_the_Host.mp3"
+Dec 20 09:46 : player: played "albums/isis/Wavering Radiant/Isis_-_Stone_to_Wake_a_Serpent.mp3"
+Dec 20 09:55 : player: played "albums/isis/Wavering Radiant/Isis_-_Threshold_of_Transformation.mp3"
+Dec 20 09:57 : player: played "albums/isis/Wavering Radiant/Isis_-_Wavering_Radiant.mp3"
+Dec 20 10:01 : player: played "albums/isis/Wavering Radiant/Isis_-_20_Minutes_40_Years.mp3"
+Dec 20 10:33 : client: [0] closed
+Dec 23 06:44 : client: [1] opened from 127.0.0.1:44466
+Dec 23 06:54 : player: played "singles/sigur_ros/Sigur Ros - Svefn-g-englar 128 kbps .m4a"
+Dec 23 07:02 : player: played "singles/sigur_ros/Sigur Rós - Ágætis Byrjun 128 kbps .m4a"
+Dec 23 07:14 : player: played "singles/sigur_ros/Sigur_Ros_-_Untitled_8_Popplagio.m4a"
+Dec 23 07:34 : player: played "albums/triphop/Sigur_Ros_Takk..._Full_Album.m4a"
+Dec 23 08:05 : client: [1] closed
+Dec 23 08:06 : client: [2] opened from 127.0.0.1:44514
+Dec 23 08:08 : client: [2] closed
+Dec 23 08:09 : player: played "albums/triphop/the locket-Atlas.mp4"
+Dec 23 08:34 : client: [3] opened from 127.0.0.1:44526
+Dec 23 08:34 : player: played "albums/triphop/Dead_Can_Dance_-_Anastasis_full_album_excellent_sound_quality.m4a"
+Dec 23 08:54 : client: [3] closed
+Dec 23 10:01 : client: [4] opened from 127.0.0.1:45316
+Dec 23 10:02 : client: [4] closed
+Dec 23 10:10 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/01 - The Beginning and the End.mp3"
+Dec 23 10:17 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/02 - The Other.mp3"
+Dec 23 10:25 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/03 - False Light.mp3"
+Dec 23 10:31 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/04 - Carry.mp3"
+Dec 23 10:33 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/05 - (Untitled).mp3"
+Dec 23 10:37 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/06 - Maritime.mp3"
+Dec 23 10:47 : client: [5] opened from 127.0.0.1:45366
+Dec 23 10:47 : client: [5] closed
+Dec 23 10:47 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/07 - Weight.mp3"
+Dec 25 17:32 : client: [6] opened from 127.0.0.1:38602
+Dec 25 17:32 : player: played "albums/isis/Isis/Albums/2002 - Oceanic/08 - From Sinking.mp3"
+Dec 25 17:50 : player: played "albums/hiphop/Dj Muggs vs Ill Bill - Kill Devil Hills (2010) [ full album ]-d35npekNhWo.mp3"
+Dec 25 17:50 : client: [6] closed
+Dec 26 09:55 : client: [7] opened from 127.0.0.1:46106
+Dec 26 09:55 : update: added /Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4
+Dec 26 09:55 : update: added /Recording_59.m4a
+Dec 26 09:55 : update: added /Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm
+Dec 26 09:55 : update: added singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm
+Dec 26 09:55 : player: played "Recording_59.m4a"
+Dec 26 09:56 : player: played "Recording_59.m4a"
+Dec 26 09:57 : player: played "Recording_59.m4a"
+Dec 26 09:57 : player: played "Recording_59.m4a"
+Dec 26 09:58 : player: played "Recording_59.m4a"
+Dec 26 09:59 : player: played "Recording_59.m4a"
+Dec 26 09:59 : player: played "Recording_59.m4a"
+Dec 26 10:00 : player: played "Recording_59.m4a"
+Dec 26 10:00 : client: [7] closed
+Dec 26 10:01 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 26 10:01 : player: played "Recording_59.m4a"
+Dec 26 10:17 : client: [8] opened from 127.0.0.1:46172
+Dec 26 10:17 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Dec 26 10:18 : player: played "Recording_59.m4a"
+Dec 26 10:18 : player: played "Recording_59.m4a"
+Dec 26 10:19 : player: played "Recording_59.m4a"
+Dec 26 10:20 : player: played "Recording_59.m4a"
+Dec 26 10:20 : player: played "Recording_59.m4a"
+Dec 26 10:23 : client: [8] closed
+Dec 26 11:10 : client: [9] opened from 127.0.0.1:46210
+Dec 26 11:11 : player: played "Recording_59.m4a"
+Dec 26 11:11 : player: played "Recording_59.m4a"
+Dec 26 11:11 : player: played "Recording_59.m4a"
+Dec 26 11:11 : client: [9] closed
+Dec 26 18:45 : client: [10] opened from 127.0.0.1:41992
+Dec 26 18:46 : player: played "Recording_59.m4a"
+Dec 26 18:46 : player: played "Recording_59.m4a"
+Dec 26 18:47 : player: played "Recording_59.m4a"
+Dec 26 18:48 : player: played "Recording_59.m4a"
+Dec 26 18:48 : player: played "Recording_59.m4a"
+Dec 26 18:49 : player: played "Recording_59.m4a"
+Dec 26 18:50 : player: played "Recording_59.m4a"
+Dec 26 18:50 : player: played "Recording_59.m4a"
+Dec 26 18:51 : player: played "Recording_59.m4a"
+Dec 26 18:52 : player: played "Recording_59.m4a"
+Dec 26 18:52 : player: played "Recording_59.m4a"
+Dec 26 18:53 : player: played "Recording_59.m4a"
+Dec 26 18:54 : player: played "Recording_59.m4a"
+Dec 26 18:54 : player: played "Recording_59.m4a"
+Dec 26 18:55 : player: played "Recording_59.m4a"
+Dec 26 18:56 : player: played "Recording_59.m4a"
+Dec 26 18:56 : player: played "Recording_59.m4a"
+Dec 26 18:57 : player: played "Recording_59.m4a"
+Dec 26 18:57 : client: [10] closed
+Dec 26 18:58 : player: played "Recording_59.m4a"
+Dec 26 18:59 : player: played "Recording_59.m4a"
+Dec 26 18:59 : player: played "Recording_59.m4a"
+Dec 26 19:00 : player: played "Recording_59.m4a"
+Dec 26 19:01 : player: played "Recording_59.m4a"
+Dec 26 19:01 : player: played "Recording_59.m4a"
+Dec 26 19:02 : player: played "Recording_59.m4a"
+Dec 26 19:03 : player: played "Recording_59.m4a"
+Dec 26 19:03 : player: played "Recording_59.m4a"
+Dec 26 19:04 : player: played "Recording_59.m4a"
+Dec 26 19:05 : player: played "Recording_59.m4a"
+Dec 26 19:05 : player: played "Recording_59.m4a"
+Dec 26 19:06 : player: played "Recording_59.m4a"
+Dec 26 19:07 : player: played "Recording_59.m4a"
+Dec 26 19:07 : player: played "Recording_59.m4a"
+Dec 26 19:08 : player: played "Recording_59.m4a"
+Dec 26 19:09 : player: played "Recording_59.m4a"
+Dec 26 19:09 : player: played "Recording_59.m4a"
+Dec 26 19:10 : player: played "Recording_59.m4a"
+Dec 26 19:11 : player: played "Recording_59.m4a"
+Dec 26 19:11 : player: played "Recording_59.m4a"
+Dec 26 19:12 : player: played "Recording_59.m4a"
+Dec 26 19:12 : client: [11] opened from 127.0.0.1:51484
+Dec 26 19:12 : player: played "Recording_59.m4a"
+Dec 26 19:32 : client: [11] closed
+Dec 26 19:33 : player: played "Recording_59.m4a"
+Dec 26 19:34 : player: played "Recording_59.m4a"
+Dec 26 19:34 : player: played "Recording_59.m4a"
+Dec 26 19:35 : player: played "Recording_59.m4a"
+Dec 26 19:36 : player: played "Recording_59.m4a"
+Dec 26 19:36 : player: played "Recording_59.m4a"
+Dec 26 19:37 : player: played "Recording_59.m4a"
+Dec 26 19:38 : player: played "Recording_59.m4a"
+Dec 26 19:38 : player: played "Recording_59.m4a"
+Dec 26 19:39 : player: played "Recording_59.m4a"
+Dec 26 19:40 : player: played "Recording_59.m4a"
+Dec 26 19:40 : player: played "Recording_59.m4a"
+Dec 26 19:41 : player: played "Recording_59.m4a"
+Dec 26 19:42 : player: played "Recording_59.m4a"
+Dec 26 19:42 : player: played "Recording_59.m4a"
+Dec 26 19:43 : player: played "Recording_59.m4a"
+Dec 26 19:44 : player: played "Recording_59.m4a"
+Dec 26 19:44 : player: played "Recording_59.m4a"
+Dec 26 19:45 : player: played "Recording_59.m4a"
+Dec 26 19:46 : player: played "Recording_59.m4a"
+Dec 26 19:46 : player: played "Recording_59.m4a"
+Dec 26 19:47 : player: played "Recording_59.m4a"
+Dec 26 19:48 : player: played "Recording_59.m4a"
+Dec 26 19:48 : player: played "Recording_59.m4a"
+Dec 26 19:49 : player: played "Recording_59.m4a"
+Dec 26 19:50 : player: played "Recording_59.m4a"
+Dec 26 19:51 : player: played "Recording_59.m4a"
+Dec 26 19:51 : player: played "Recording_59.m4a"
+Dec 26 19:52 : player: played "Recording_59.m4a"
+Dec 26 19:53 : player: played "Recording_59.m4a"
+Dec 26 19:53 : player: played "Recording_59.m4a"
+Dec 26 19:54 : player: played "Recording_59.m4a"
+Dec 26 19:55 : player: played "Recording_59.m4a"
+Dec 26 19:55 : player: played "Recording_59.m4a"
+Dec 26 19:56 : player: played "Recording_59.m4a"
+Dec 26 19:57 : player: played "Recording_59.m4a"
+Dec 26 19:57 : player: played "Recording_59.m4a"
+Dec 26 19:58 : player: played "Recording_59.m4a"
+Dec 26 19:59 : player: played "Recording_59.m4a"
+Dec 26 19:59 : player: played "Recording_59.m4a"
+Dec 26 20:00 : player: played "Recording_59.m4a"
+Dec 26 20:01 : player: played "Recording_59.m4a"
+Dec 26 20:01 : player: played "Recording_59.m4a"
+Dec 26 20:02 : player: played "Recording_59.m4a"
+Dec 26 20:03 : player: played "Recording_59.m4a"
+Dec 26 20:03 : player: played "Recording_59.m4a"
+Dec 26 20:04 : player: played "Recording_59.m4a"
+Dec 26 20:05 : player: played "Recording_59.m4a"
+Dec 26 20:05 : player: played "Recording_59.m4a"
+Dec 26 20:06 : player: played "Recording_59.m4a"
+Dec 26 20:07 : player: played "Recording_59.m4a"
+Dec 26 20:07 : player: played "Recording_59.m4a"
+Dec 26 20:08 : player: played "Recording_59.m4a"
+Dec 26 20:09 : player: played "Recording_59.m4a"
+Dec 26 20:09 : player: played "Recording_59.m4a"
+Dec 26 20:10 : player: played "Recording_59.m4a"
+Dec 26 20:11 : player: played "Recording_59.m4a"
+Dec 26 20:11 : player: played "Recording_59.m4a"
+Dec 26 20:12 : player: played "Recording_59.m4a"
+Dec 26 20:13 : player: played "Recording_59.m4a"
+Dec 26 20:13 : player: played "Recording_59.m4a"
+Dec 26 20:14 : player: played "Recording_59.m4a"
+Dec 26 20:15 : player: played "Recording_59.m4a"
+Dec 26 20:15 : player: played "Recording_59.m4a"
+Dec 26 20:16 : player: played "Recording_59.m4a"
+Dec 26 20:17 : player: played "Recording_59.m4a"
+Dec 26 20:17 : player: played "Recording_59.m4a"
+Dec 26 20:18 : player: played "Recording_59.m4a"
+Dec 26 20:19 : player: played "Recording_59.m4a"
+Dec 26 20:19 : player: played "Recording_59.m4a"
+Dec 26 20:20 : player: played "Recording_59.m4a"
+Dec 26 20:21 : player: played "Recording_59.m4a"
+Dec 26 20:21 : player: played "Recording_59.m4a"
+Dec 26 20:22 : player: played "Recording_59.m4a"
+Dec 26 20:23 : player: played "Recording_59.m4a"
+Dec 26 20:23 : player: played "Recording_59.m4a"
+Dec 26 20:24 : player: played "Recording_59.m4a"
+Dec 26 20:25 : player: played "Recording_59.m4a"
+Dec 26 20:25 : player: played "Recording_59.m4a"
+Dec 26 20:26 : player: played "Recording_59.m4a"
+Dec 26 20:27 : player: played "Recording_59.m4a"
+Dec 26 20:27 : player: played "Recording_59.m4a"
+Dec 26 20:28 : player: played "Recording_59.m4a"
+Dec 26 20:29 : player: played "Recording_59.m4a"
+Dec 26 20:29 : player: played "Recording_59.m4a"
+Dec 26 20:30 : player: played "Recording_59.m4a"
+Dec 26 20:31 : player: played "Recording_59.m4a"
+Dec 26 20:32 : player: played "Recording_59.m4a"
+Dec 26 20:32 : player: played "Recording_59.m4a"
+Dec 26 20:33 : player: played "Recording_59.m4a"
+Dec 26 20:34 : player: played "Recording_59.m4a"
+Dec 26 20:34 : player: played "Recording_59.m4a"
+Dec 26 20:35 : player: played "Recording_59.m4a"
+Dec 26 20:36 : player: played "Recording_59.m4a"
+Dec 26 20:36 : player: played "Recording_59.m4a"
+Dec 26 20:37 : player: played "Recording_59.m4a"
+Dec 26 20:38 : player: played "Recording_59.m4a"
+Dec 26 20:38 : player: played "Recording_59.m4a"
+Dec 26 20:39 : player: played "Recording_59.m4a"
+Dec 26 20:40 : player: played "Recording_59.m4a"
+Dec 26 20:40 : player: played "Recording_59.m4a"
+Dec 26 20:41 : player: played "Recording_59.m4a"
+Dec 26 20:42 : player: played "Recording_59.m4a"
+Dec 26 20:42 : player: played "Recording_59.m4a"
+Dec 26 20:43 : player: played "Recording_59.m4a"
+Dec 26 20:44 : player: played "Recording_59.m4a"
+Dec 26 20:44 : player: played "Recording_59.m4a"
+Dec 26 20:45 : player: played "Recording_59.m4a"
+Dec 26 20:46 : player: played "Recording_59.m4a"
+Dec 26 20:46 : player: played "Recording_59.m4a"
+Dec 26 20:47 : player: played "Recording_59.m4a"
+Dec 26 20:48 : player: played "Recording_59.m4a"
+Dec 26 20:48 : player: played "Recording_59.m4a"
+Dec 26 20:49 : player: played "Recording_59.m4a"
+Dec 26 20:50 : player: played "Recording_59.m4a"
+Dec 26 20:50 : player: played "Recording_59.m4a"
+Dec 26 20:51 : player: played "Recording_59.m4a"
+Dec 26 20:52 : player: played "Recording_59.m4a"
+Dec 26 20:52 : player: played "Recording_59.m4a"
+Dec 26 20:53 : player: played "Recording_59.m4a"
+Dec 26 20:54 : player: played "Recording_59.m4a"
+Dec 26 20:54 : player: played "Recording_59.m4a"
+Dec 26 20:55 : player: played "Recording_59.m4a"
+Dec 26 20:56 : player: played "Recording_59.m4a"
+Dec 26 20:56 : player: played "Recording_59.m4a"
+Dec 26 20:57 : player: played "Recording_59.m4a"
+Dec 26 20:58 : player: played "Recording_59.m4a"
+Dec 26 20:58 : player: played "Recording_59.m4a"
+Dec 26 20:59 : client: [12] opened from 127.0.0.1:47804
+Dec 26 20:59 : player: played "Recording_59.m4a"
+Dec 26 20:59 : client: [12] closed
+Dec 27 08:00 : client: [13] opened from 127.0.0.1:49094
+Dec 27 08:01 : player: played "Recording_59.m4a"
+Dec 27 08:02 : player: played "Recording_59.m4a"
+Dec 27 08:02 : player: played "Recording_59.m4a"
+Dec 27 08:03 : player: played "Recording_59.m4a"
+Dec 27 08:04 : player: played "Recording_59.m4a"
+Dec 27 08:04 : player: played "Recording_59.m4a"
+Dec 27 08:05 : player: played "Recording_59.m4a"
+Dec 27 08:06 : player: played "Recording_59.m4a"
+Dec 27 08:06 : player: played "Recording_59.m4a"
+Dec 27 08:07 : player: played "Recording_59.m4a"
+Dec 27 08:08 : player: played "Recording_59.m4a"
+Dec 27 08:08 : player: played "Recording_59.m4a"
+Dec 27 08:09 : player: played "Recording_59.m4a"
+Dec 27 08:10 : player: played "Recording_59.m4a"
+Dec 27 08:10 : player: played "Recording_59.m4a"
+Dec 27 08:10 : player: played "Recording_59.m4a"
+Dec 27 08:10 : client: [13] closed
+Dec 28 06:16 : client: [14] opened from 127.0.0.1:33160
+Dec 28 06:17 : update: added recs/ZOOM0005_TrLR.WAV
+Dec 28 06:18 : player: played "recs/ZOOM0005_TrLR.WAV"
+Dec 28 06:18 : client: [14] closed
+Dec 28 06:24 : client: [15] opened from 127.0.0.1:33164
+Dec 28 06:24 : update: added recs/rec59-reverb.mp3
+Dec 28 06:25 : client: [15] closed
+Dec 28 06:25 : player: played "recs/rec59-reverb.mp3"
+Dec 28 06:27 : player: played "recs/rec59-reverb.mp3"
+Dec 28 06:28 : player: played "recs/rec59-reverb.mp3"
+Dec 28 06:29 : player: played "recs/rec59-reverb.mp3"
+Dec 28 06:30 : client: [16] opened from 127.0.0.1:33248
+Dec 28 06:30 : player: played "recs/rec59-reverb.mp3"
+Dec 28 06:47 : client: [16] closed
+Dec 28 08:01 : client: [17] opened from 127.0.0.1:33386
+Dec 28 08:02 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:03 : player: played "Recording_59.m4a"
+Dec 28 08:04 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:04 : player: played "Recording_59.m4a"
+Dec 28 08:06 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:07 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:08 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:09 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:10 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:11 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:13 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:32 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:34 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:35 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:35 : player: played "recs/rec59-reverb.mp3"
+Dec 28 08:43 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/01 - Wrists of Kings.mp3"
+Dec 28 08:51 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/02 - Not in Rivers, but in Drops.mp3"
+Dec 28 08:58 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/03 - Dulcinea.mp3"
+Dec 28 09:07 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/04 - Over Root and Thorn.mp3"
+Dec 28 09:13 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/05 - 1000 Shards.mp3"
+Dec 28 09:16 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/06 - All Out of Time, All Into Space.mp3"
+Dec 28 09:23 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/07 - Holy Tears.mp3"
+Dec 28 09:31 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/08 - Firdous E Bareen.mp3"
+Dec 28 09:40 : player: played "albums/isis/Isis/Albums/2006 - In The Absence Of Truth/09 - Garden of Light.mp3"
+Dec 28 09:42 : client: [17] closed
+Dec 28 09:42 : client: [18] opened from 127.0.0.1:33428
+Dec 28 09:42 : update: added recs/alsa/test.wav
+Dec 28 09:42 : update: added recs/alsa/out.mp3
+Dec 28 09:44 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:45 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:46 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:47 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:48 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:49 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:50 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:51 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:53 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:54 : player: played "recs/rec59-reverb.mp3"
+Dec 28 09:55 : player: played "recs/rec59-reverb.mp3"
+Dec 28 10:17 : client: [18] closed
+Dec 28 11:00 : client: [19] opened from 127.0.0.1:33924
+Dec 28 11:00 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:01 : client: [19] closed
+Dec 28 11:01 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:02 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:03 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:05 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:06 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:07 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:08 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:09 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:10 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:11 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:12 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:14 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:14 : client: [20] opened from 127.0.0.1:33932
+Dec 28 11:14 : player: played "recs/rec59-reverb.mp3"
+Dec 28 11:14 : client: [20] closed
+Dec 28 12:52 : client: [21] opened from 127.0.0.1:34098
+Dec 28 12:53 : player: played "recs/rec59-reverb.mp3"
+Dec 28 12:53 : client: [21] closed
+Dec 28 13:39 : client: [22] opened from 127.0.0.1:34202
+Dec 28 13:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 28 13:40 : client: [22] closed
+Dec 28 14:08 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 28 14:08 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Dec 28 15:14 : client: [23] opened from 127.0.0.1:54166
+Dec 28 15:15 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 28 15:15 : client: [23] closed
+Dec 28 15:15 : player: played "recs/rec59-reverb.mp3"
+Dec 28 15:16 : player: played "recs/rec59-reverb.mp3"
+Dec 28 15:17 : player: played "recs/rec59-reverb.mp3"
+Dec 28 15:18 : client: [24] opened from 127.0.0.1:54196
+Dec 28 15:18 : player: played "recs/rec59-reverb.mp3"
+Dec 28 15:21 : client: [24] closed
+Dec 28 15:36 : client: [25] opened from 127.0.0.1:54206
+Dec 28 15:36 : client: [25] closed
+Dec 28 15:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 28 15:37 : player: played "recs/rec59-reverb.mp3"
+Dec 28 16:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Dec 28 16:06 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Dec 28 16:07 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Dec 28 16:07 : player: played "recs/rec59-reverb.mp3"
+Dec 28 16:17 : client: [26] opened from 127.0.0.1:39668
+Dec 28 16:20 : client: [26] closed
+Dec 29 15:27 : client: [27] opened from 127.0.0.1:36430
+Dec 29 15:27 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Dec 29 15:27 : update: removing recs/alsa/test.wav
+Dec 29 15:27 : update: removing recs/alsa/out.mp3
+Dec 29 15:27 : update: added recs/alsa/recording3.wav
+Dec 29 15:27 : audiofile: unrecognized audio file format
+Dec 29 15:27 : audiofile: unrecognized audio file format
+Dec 29 15:28 : player: played "recs/alsa/recording3.wav"
+Dec 29 15:35 : player: played "recs/alsa/recording3.wav"
+Dec 29 16:00 : client: [27] closed
+Dec 29 16:44 : client: [28] opened from 127.0.0.1:36530
+Dec 29 16:44 : update: added recs/recording9.mp3
+Dec 29 16:44 : update: added recs/alsa/recording9.wav
+Dec 29 16:45 : player: played "recs/recording9.mp3"
+Dec 29 16:46 : player: played "recs/recording9.mp3"
+Dec 29 16:47 : player: played "recs/recording9.mp3"
+Dec 29 16:58 : player: played "recs/recording9.mp3"
+Dec 29 16:59 : player: played "recs/rec59-reverb.mp3"
+Dec 29 17:00 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:00 : player: played "recs/recording9.mp3"
+Dec 29 17:01 : client: [28] closed
+Dec 29 17:01 : client: [29] opened from 127.0.0.1:36542
+Dec 29 17:03 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:04 : player: played "recs/Recording (86).amr"
+Dec 29 17:09 : player: played "recs/Recording (87).amr"
+Dec 29 17:10 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:10 : player: played "recs/recording9.mp3"
+Dec 29 17:11 : client: [29] closed
+Dec 29 17:17 : client: [30] opened from 127.0.0.1:36550
+Dec 29 17:18 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:19 : player: played "recs/recording9.mp3"
+Dec 29 17:28 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:28 : player: played "recs/recording9.mp3"
+Dec 29 17:31 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:31 : ffmpeg/amr: Estimating duration from bitrate, this may be inaccurate
+Dec 29 17:33 : player: played "recs/Recording (86).amr"
+Dec 29 17:51 : client: [30] closed
+Dec 29 17:54 : client: [31] opened from 127.0.0.1:36566
+Dec 29 17:54 : update: removing recs/alsa/recording3.wav
+Dec 29 17:54 : update: added recs/alsa/basslines/line1.wav
+Dec 29 17:54 : player: played "recs/alsa/basslines/line1.wav"
+Dec 29 18:26 : update: added recs/alsa/recording11.wav
+Dec 29 18:26 : update: added recs/alsa/recording10.wav
+Dec 29 18:26 : update: added recs/alsa/recording12.wav
+Dec 29 18:27 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:27 : client: [31] closed
+Dec 29 18:28 : client: [32] opened from 127.0.0.1:36610
+Dec 29 18:29 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:29 : client: [32] closed
+Dec 29 18:29 : client: [33] opened from 127.0.0.1:36612
+Dec 29 18:31 : player: played "recs/rec59-reverb.mp3"
+Dec 29 18:32 : player: played "recs/recording9.mp3"
+Dec 29 18:32 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:34 : player: played "recs/rec59-reverb.mp3"
+Dec 29 18:35 : player: played "recs/recording9.mp3"
+Dec 29 18:35 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:36 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:36 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:38 : player: played "recs/recording9.mp3"
+Dec 29 18:39 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:40 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:40 : client: [33] closed
+Dec 29 18:40 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:41 : player: played "recs/rec59-reverb.mp3"
+Dec 29 18:42 : player: played "recs/recording9.mp3"
+Dec 29 18:43 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:44 : player: played "recs/rec59-reverb.mp3"
+Dec 29 18:45 : player: played "recs/recording9.mp3"
+Dec 29 18:46 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:47 : player: played "recs/rec59-reverb.mp3"
+Dec 29 18:48 : player: played "recs/recording9.mp3"
+Dec 29 18:48 : player: played "recs/alsa/recording12.wav"
+Dec 29 18:48 : client: [34] opened from 127.0.0.1:36626
+Dec 29 18:48 : player: played "recs/rec59-reverb.mp3"
+Dec 29 19:15 : client: [34] closed
+Dec 29 19:16 : player: played "recs/rec59-reverb.mp3"
+Dec 29 19:17 : client: [35] opened from 127.0.0.1:36690
+Dec 29 19:17 : player: played "recs/recording9.mp3"
+Dec 29 19:17 : client: [35] closed
+Dec 29 19:23 : client: [36] opened from 127.0.0.1:36698
+Dec 29 19:23 : client: [36] closed
+Dec 29 19:24 : client: [37] opened from 127.0.0.1:36700
+Dec 29 19:24 : update: removing recs/recording9.mp3
+Dec 29 19:24 : update: removing recs/rec59-reverb.mp3
+Dec 29 19:24 : update: added recs/mp3s/recording9.mp3
+Dec 29 19:24 : update: added recs/mp3s/rec59-reverb.mp3
+Dec 29 19:24 : update: added recs/mp3s/recording12.mp3
+Dec 29 19:24 : update: removing recs/alsa/recording11.wav
+Dec 29 19:24 : update: removing recs/alsa/recording10.wav
+Dec 29 19:25 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:26 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:26 : client: [37] closed
+Dec 29 19:27 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:28 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:29 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:30 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:30 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:31 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:32 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:33 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:34 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:35 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:35 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:36 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:37 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:38 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:39 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:40 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:40 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:41 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:42 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:43 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:44 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:45 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:45 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:46 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:47 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:48 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:49 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:50 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:50 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:51 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:52 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:53 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:54 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:55 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:55 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:56 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 19:57 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 19:58 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 19:59 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:00 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:00 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:01 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:02 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:03 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:04 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:05 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:05 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:06 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:07 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:08 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:09 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:10 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:10 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:11 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:12 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:13 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:14 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:15 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:15 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:16 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:17 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:18 : player: played "recs/mp3s/recording12.mp3"
+Dec 29 20:19 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 29 20:20 : player: played "recs/mp3s/recording9.mp3"
+Dec 29 20:20 : client: [38] opened from 127.0.0.1:36904
+Dec 29 20:26 : client: [38] closed
+Dec 30 09:32 : client: [39] opened from 127.0.0.1:38706
+Dec 30 09:33 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:34 : player: played "recs/mp3s/recording9.mp3"
+Dec 30 09:34 : player: played "recs/mp3s/recording12.mp3"
+Dec 30 09:35 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:38 : client: [39] closed
+Dec 30 09:39 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:40 : player: played "recs/mp3s/recording9.mp3"
+Dec 30 09:41 : player: played "recs/mp3s/recording12.mp3"
+Dec 30 09:42 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:43 : player: played "recs/mp3s/recording9.mp3"
+Dec 30 09:43 : player: played "recs/mp3s/recording12.mp3"
+Dec 30 09:44 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:45 : player: played "recs/mp3s/recording9.mp3"
+Dec 30 09:46 : player: played "recs/mp3s/recording12.mp3"
+Dec 30 09:47 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 30 09:47 : client: [40] opened from 127.0.0.1:38780
+Dec 30 09:48 : player: played "recs/mp3s/recording9.mp3"
+Dec 30 09:48 : player: played "recs/mp3s/recording12.mp3"
+Dec 30 09:48 : client: [40] closed
+Dec 31 06:43 : client: [41] opened from 127.0.0.1:42820
+Dec 31 06:44 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:45 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:45 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:46 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:47 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:48 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:49 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:50 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:50 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:51 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:52 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:53 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:54 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:55 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:55 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:56 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 06:57 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 06:58 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 06:59 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:00 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:00 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:01 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:02 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:03 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:04 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:05 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:05 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:06 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:07 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:08 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:09 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:10 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:10 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:11 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:12 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:13 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:14 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:15 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:15 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:16 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:17 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:18 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:19 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:20 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:20 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:21 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:22 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:23 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:24 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:25 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:25 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:26 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:27 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:28 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:29 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:30 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 07:30 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 07:31 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 07:31 : client: [41] closed
+Dec 31 23:37 : client: [42] opened from 127.0.0.1:44176
+Dec 31 23:37 : update: added recs/alsa/session1/session1-recording3.mp3
+Dec 31 23:37 : update: added recs/alsa/session1/recording3.wav
+Dec 31 23:38 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Dec 31 23:39 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 23:40 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 23:40 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 23:41 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Dec 31 23:42 : player: played "recs/mp3s/rec59-reverb.mp3"
+Dec 31 23:43 : player: played "recs/mp3s/recording9.mp3"
+Dec 31 23:43 : player: played "recs/mp3s/recording12.mp3"
+Dec 31 23:43 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 01 00:42 : client: [42] closed
+Jan 01 09:14 : client: [43] opened from 127.0.0.1:45416
+Jan 01 09:14 : update: added recs/alsa/session1/recording4.wav
+Jan 01 09:14 : update: added recs/alsa/session1/recording5.wav
+Jan 01 09:14 : update: added recs/alsa/session1/session1-recording5.mp3
+Jan 01 09:14 : client: [43] closed
+Jan 01 09:18 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:18 : client: [44] opened from 127.0.0.1:45464
+Jan 01 09:20 : client: [44] closed
+Jan 01 09:22 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:23 : client: [45] opened from 127.0.0.1:45500
+Jan 01 09:26 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:29 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:31 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 01 09:32 : player: played "recs/mp3s/recording9.mp3"
+Jan 01 09:32 : player: played "recs/mp3s/recording12.mp3"
+Jan 01 09:32 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 01 09:36 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:40 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 09:41 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 01 09:42 : player: played "recs/mp3s/recording9.mp3"
+Jan 01 09:43 : player: played "recs/mp3s/recording12.mp3"
+Jan 01 09:43 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 01 09:47 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:10 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:11 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:11 : client: [45] closed
+Jan 01 10:40 : client: [46] opened from 127.0.0.1:45560
+Jan 01 10:40 : update: added recs/alsa/session1/session1-recording6.mp3
+Jan 01 10:40 : update: added recs/alsa/session1/recording6.wav
+Jan 01 10:40 : client: [46] closed
+Jan 01 10:41 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 10:42 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 10:42 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 10:42 : client: [47] opened from 127.0.0.1:45594
+Jan 01 10:46 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:50 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:52 : client: [47] closed
+Jan 01 10:53 : client: [48] opened from 127.0.0.1:45636
+Jan 01 10:54 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 10:56 : client: [48] closed
+Jan 01 10:56 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 10:56 : client: [49] opened from 127.0.0.1:45648
+Jan 01 11:00 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 11:34 : client: [49] closed
+Jan 01 20:14 : client: [50] opened from 127.0.0.1:46088
+Jan 01 20:18 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 20:40 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 20:44 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 20:46 : client: [50] closed
+Jan 01 20:46 : client: [51] opened from 127.0.0.1:46104
+Jan 01 20:48 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 01 20:49 : client: [51] closed
+Jan 01 20:49 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 20:50 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 01 20:51 : player: played "recs/mp3s/recording9.mp3"
+Jan 01 20:51 : player: played "recs/mp3s/recording12.mp3"
+Jan 01 20:51 : client: [52] opened from 127.0.0.1:46154
+Jan 01 20:52 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 01 20:53 : client: [52] closed
+Jan 02 10:45 : client: [53] opened from 127.0.0.1:47052
+Jan 02 10:46 : client: [53] closed
+Jan 02 10:47 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 10:48 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 10:48 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 10:48 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 10:49 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 10:53 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:03 : client: [54] opened from 127.0.0.1:47106
+Jan 02 11:03 : client: [54] closed
+Jan 02 11:04 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:05 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:05 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:06 : client: [55] opened from 127.0.0.1:47142
+Jan 02 11:06 : client: [55] closed
+Jan 02 11:06 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:06 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:07 : client: [56] opened from 127.0.0.1:47156
+Jan 02 11:07 : client: [56] closed
+Jan 02 11:07 : client: [57] opened from 127.0.0.1:47158
+Jan 02 11:07 : client: [57] closed
+Jan 02 11:09 : client: [58] opened from 127.0.0.1:47176
+Jan 02 11:09 : client: [58] closed
+Jan 02 11:10 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:11 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:12 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:13 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:13 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:14 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:18 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:19 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:20 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:20 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:21 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:22 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:23 : client: [59] opened from 127.0.0.1:47232
+Jan 02 11:23 : client: [59] closed
+Jan 02 11:25 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:26 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:27 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:28 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:28 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:29 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:33 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:34 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:35 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:35 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:36 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:37 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:40 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:42 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:43 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:43 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:43 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:44 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:48 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:49 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:50 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:50 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:51 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:52 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 11:56 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 11:57 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 11:58 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 11:58 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 11:59 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 11:59 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 12:03 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 12:04 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 02 12:05 : player: played "recs/mp3s/recording9.mp3"
+Jan 02 12:06 : player: played "recs/mp3s/recording12.mp3"
+Jan 02 12:06 : client: [60] opened from 127.0.0.1:47322
+Jan 02 12:06 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 02 12:07 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 02 12:10 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 02 12:11 : client: [60] closed
+Jan 03 09:05 : client: [61] opened from 127.0.0.1:59194
+Jan 03 09:06 : client: [61] closed
+Jan 03 09:07 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 03 09:07 : client: [62] opened from 127.0.0.1:59202
+Jan 03 09:07 : client: [62] closed
+Jan 03 09:10 : player: played "recs/alsa/session1/session1-recording5.mp3"
+Jan 03 10:31 : client: [63] opened from 127.0.0.1:59480
+Jan 03 10:31 : update: added recs/alsa/session1/recording7.wav
+Jan 03 10:31 : update: added recs/alsa/session1/recording8.wav
+Jan 03 10:31 : update: added recs/alsa/session1/session1-recording8.mp3
+Jan 03 10:31 : update: added recs/alsa/session1/recording10.wav
+Jan 03 10:31 : update: added recs/alsa/session1/recording9.wav
+Jan 03 10:31 : update: added recs/alsa/session1/session1-recording9.mp3
+Jan 03 10:31 : update: added recs/alsa/session1/session1-recording10.mp3
+Jan 03 10:31 : update: added recs/alsa/session1/session1-recording7.mp3
+Jan 03 10:31 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:32 : player: played "recs/alsa/session1/session1-recording7.mp3"
+Jan 03 10:33 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 03 10:33 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:34 : player: played "recs/alsa/session1/session1-recording7.mp3"
+Jan 03 10:35 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:35 : client: [63] closed
+Jan 03 10:35 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:36 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:36 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:36 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:37 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:37 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:38 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:38 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:38 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:39 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:39 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:40 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:40 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:40 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:41 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:41 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:42 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:42 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:42 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:43 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:43 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:43 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:44 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:44 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:45 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:45 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:45 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:46 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:46 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:47 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:47 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:47 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:48 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:48 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:49 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:49 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:49 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:50 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:50 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:51 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:51 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 10:51 : client: [64] opened from 127.0.0.1:59492
+Jan 03 10:51 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 11:14 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 03 11:35 : client: [64] closed
+Jan 05 06:55 : client: [65] opened from 127.0.0.1:37236
+Jan 05 06:56 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 05 06:57 : player: played "recs/mp3s/recording9.mp3"
+Jan 05 06:58 : player: played "recs/mp3s/recording12.mp3"
+Jan 05 06:58 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 05 06:59 : player: played "recs/mp3s/recording12.mp3"
+Jan 05 06:59 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 05 07:00 : player: played "recs/alsa/session1/session1-recording6.mp3"
+Jan 05 07:01 : player: played "recs/alsa/session1/session1-recording7.mp3"
+Jan 05 07:01 : player: played "recs/alsa/session1/session1-recording10.mp3"
+Jan 05 07:02 : player: played "recs/mp3s/rec59-reverb.mp3"
+Jan 05 07:03 : player: played "recs/mp3s/recording9.mp3"
+Jan 05 07:03 : player: played "recs/mp3s/recording12.mp3"
+Jan 05 07:07 : client: [65] closed
+Jan 06 07:40 : client: [66] opened from 127.0.0.1:39560
+Jan 06 07:40 : player: played "recs/alsa/session1/session1-recording3.mp3"
+Jan 06 07:40 : client: [66] closed
+Jan 06 07:41 : client: [67] opened from 127.0.0.1:39564
+Jan 06 07:41 : client: [67] closed
+Jan 06 07:42 : client: [68] opened from 127.0.0.1:39566
+Jan 06 07:42 : client: [68] closed
+Jan 06 07:42 : client: [69] opened from 127.0.0.1:39568
+Jan 06 07:42 : client: [69] closed
+Jan 06 07:49 : player: played "singles/sigur_ros/Sigur Rós - Ágætis Byrjun 128 kbps .m4a"
+Jan 06 07:59 : player: played "singles/sigur_ros/Sigur Ros - Svefn-g-englar 128 kbps .m4a"
+Jan 06 08:11 : player: played "singles/sigur_ros/Sigur_Ros_-_Untitled_8_Popplagio.m4a"
+Jan 06 08:31 : client: [70] opened from 127.0.0.1:39730
+Jan 06 08:31 : player: played "albums/triphop/Sigur_Ros_Takk..._Full_Album.m4a"
+Jan 06 08:31 : client: [70] closed
+Jan 06 09:37 : client: [71] opened from 127.0.0.1:40188
+Jan 06 09:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 09:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 09:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 09:43 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 09:49 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 09:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 09:49 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 09:55 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 09:55 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 09:55 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:01 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:01 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:01 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:06 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:07 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:12 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:12 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:12 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:18 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:18 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:18 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:18 : client: [71] closed
+Jan 06 10:40 : client: [72] opened from 127.0.0.1:40394
+Jan 06 10:40 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:45 : client: [72] closed
+Jan 06 10:45 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:45 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:45 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:51 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:51 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:51 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 10:57 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 10:57 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 10:57 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 11:03 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 11:03 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 11:03 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 11:09 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 11:09 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 11:09 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 11:14 : client: [73] opened from 127.0.0.1:40668
+Jan 06 11:15 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 11:15 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 11:15 : client: [73] closed
+Jan 06 11:47 : client: [74] opened from 127.0.0.1:40712
+Jan 06 11:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 11:53 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 11:53 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 11:53 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 11:56 : client: [74] closed
+Jan 06 11:59 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 11:59 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 11:59 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:05 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 12:05 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 12:05 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:05 : client: [75] opened from 127.0.0.1:40766
+Jan 06 12:05 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:22 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 12:27 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 12:27 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 12:27 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:33 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 12:33 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 12:33 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:39 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 12:39 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 06 12:39 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 06 12:45 : client: [75] closed
+Jan 06 12:45 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 06 12:45 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 04:41 : avahi: Client Disconnected, will reconnect shortly
+Jan 07 05:08 : avahi: Service 'Music Player @ x' successfully established.
+Jan 07 09:51 : client: [0] opened from 127.0.0.1:59938
+Jan 07 09:52 : client: [0] closed
+Jan 07 17:13 : client: [1] opened from 127.0.0.1:32950
+Jan 07 17:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:14 : client: [1] closed
+Jan 07 17:19 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:19 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:19 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:25 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:25 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:25 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:31 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:31 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:31 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:37 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:37 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:43 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:49 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Jan 07 17:49 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 07 17:49 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:51 : client: [2] opened from 127.0.0.1:33024
+Jan 07 17:51 : player: played "singles/jazz/Nina Simone - I Wish I Knew (How It Would Feel To Be Free) (Live at Montreux, 1976)-vq3sdF0YXkM.webm"
+Jan 07 17:51 : client: [2] closed
+Jan 08 14:55 : client: [3] opened from 127.0.0.1:34536
+Jan 08 14:56 : update: added old/Multiple-Kernel_Local-Patch_Descriptor_BMVC_2017.mkv
+Jan 08 14:56 : update: added old/Yellow_Coldplay_-_Calum_Graham_-_Harp_Guitar.m4a
+Jan 08 14:56 : update: added old/Light_of_the_Seven_-_Game_of_Thrones_Piano_Version.m4a
+Jan 08 14:56 : update: added old/Alice_Coltrane_-_Turiya_And_Ramakrishna.mp3
+Jan 08 14:56 : update: added old/elgar_1.mp3
+Jan 08 14:56 : update: added old/aaditya hrudayam.mp3
+Jan 08 14:56 : update: added old/Incubus_-_Morning_View_Sessions_Concert.mp3
+Jan 08 14:56 : update: added old/Maboroshi.mp3
+Jan 08 14:56 : update: added old/IMSLP78150-PMLP43440-brahms_op38.mp3
+Jan 08 14:56 : update: added old/kyahua.mp3
+Jan 08 14:56 : update: added old/Best_of_Trip-Hop_Downtempo_Lo-Fi_Nujazz_Tracks_I_Missed_Re-Re-Upload.m4a
+Jan 08 14:56 : update: added old/Debussy_Arabesque_1_Piano_Solo_animation_ver._2.mp3
+Jan 08 14:56 : update: added old/90_s_Underground_Hip_Hop_-_Rare_Classic_14_Tracks.mp3
+Jan 08 14:56 : update: added old/The Great Moghuls-Zrbh0ZH16pQ.mkv
+Jan 08 14:56 : update: added old/Bert_Jansch_-_Alman.m4a
+Jan 08 14:56 : update: added old/DIMMU_BORGIR_-_Kings_Of_The_Carnival_Creation_OFFICIAL_LIVE.m4a
+Jan 08 14:56 : update: added old/Unknown_Artist_-_Untitled_02.mp3
+Jan 08 14:56 : update: added old/Touch_It_Remix.m4a
+Jan 08 14:56 : update: added old/fugue_-_contrapoint_1994.mp3
+Jan 08 14:56 : update: added old/SPIN_Sessions_-_Gary_Clark_Jr._When_My_Train_Pulls_In.mp3
+Jan 08 14:56 : update: added old/Gladiator_Soundtrack_Elysium_Honor_Him_Now_We_Are_Free.m4a
+Jan 08 14:56 : update: added old/Outkast_-_Ms._Jackson_Party_Pupils_Cover_Remix_FreshMixes_Best_Music.m4a
+Jan 08 14:56 : update: added old/Thrust_-_Past_Present_Future_EP.mp3
+Jan 08 14:56 : update: added old/Ghost_in_the_Shell_-_Inner_Universe.m4a
+Jan 08 14:56 : update: added old/Jazz_Got_Me.mp3
+Jan 08 14:56 : update: added old/Jon_Gomm_-_Passionflower.m4a
+Jan 08 14:56 : update: added old/Fkj_Masego_-_Tadow.m4a
+Jan 08 14:56 : update: added old/34_Boxing_Counters_To_The_Jab_In_90_Seconds.webm
+Jan 08 14:56 : update: added old/Scorpions_-_Wind_Of_Change.m4a
+Jan 08 14:56 : update: added old/Fkj_Masego_-_Tadow.webm
+Jan 08 14:56 : update: added old/Death_-_A_Moment_Of_Clarity_Lyric_Video.m4a
+Jan 08 14:56 : update: added old/Ghost_in_the_Shell_-_Inner_Universe.mp3
+Jan 08 14:56 : update: added old/Eric_Dolphy_and_Charles_Mingus_-_Stormy_weather.m4a
+Jan 08 14:56 : update: added old/Archive_Bullets_Cyberpunk_2077.m4a
+Jan 08 14:56 : update: added old/Meshuggah_-_New_millennium_cyanide_christ+Stengah+The_mouth_licking..._Live_at_Montreal_with_lyrics.mp3
+Jan 08 14:56 : update: added old/90_s_Underground_Hip_Hop_-_Rare_Tracks.mp3
+Jan 08 14:56 : update: added old/Anti-Lilly_Phoniks_-_Stories_From_The_Brass_Section.mp3
+Jan 08 14:56 : update: added old/Inner_Universe_full_song.m4a
+Jan 08 14:56 : update: added old/Cradle_Of_Filth_-_Hallowed_Be_Thy_Name.mkv
+Jan 08 14:56 : update: added old/Led_Zeppelin_-_Stairway_To_Heaven_Legendado_Traducao_PTBR.m4a
+Jan 08 14:56 : update: added old/ana_cello_1_prelude.webm
+Jan 08 14:56 : update: added old/Jazz_Liberatorz_-_Speak_The_Language_Instrumental.mp3
+Jan 08 14:56 : update: added old/Game_of_Thrones_-_Season_6_OST_-_Light_of_the_Seven_EP_10_Trial_scene.m4a
+Jan 08 14:56 : update: added old/Shortie_No_Mass_-_Like_This_U_Like_My_Style.mp3
+Jan 08 14:56 : update: added old/Whole_Wide_World_feat._Flying_Lotus_Pattie_Blingh.mp3
+Jan 08 14:56 : update: added old/Linkin_Park_-_Reanimation_-_2002_Full_Album.m4a
+Jan 08 14:56 : update: added old/Anti_Lilly_Phoniks_-_That_s_The_World_-_full_album_2019.mp3
+Jan 08 14:56 : update: added old/The_Best_Boxer_NO_ONE_HAS_HEARD_OF.mkv
+Jan 08 14:56 : update: added old/Jazz_Liberatorz_Feat._Declaime_-_Music_makes_the_world_go_round.mp3
+Jan 08 14:56 : update: added /Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv
+Jan 08 14:56 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 08 15:20 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 15:45 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 15:54 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 15:54 : client: [3] closed
+Jan 08 16:29 : client: [4] opened from 127.0.0.1:34626
+Jan 08 16:53 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 17:18 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 17:20 : client: [4] closed
+Jan 08 17:26 : client: [5] opened from 127.0.0.1:34650
+Jan 08 17:27 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 08 17:53 : client: [5] closed
+Jan 09 08:38 : client: [6] opened from 127.0.0.1:35660
+Jan 09 08:40 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Jan 09 08:41 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Jan 09 08:43 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Jan 09 08:44 : client: [6] closed
+Jan 09 08:49 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Jan 09 08:51 : client: [7] opened from 127.0.0.1:35776
+Jan 09 08:52 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Jan 09 08:53 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Jan 09 08:57 : client: [7] closed
+Jan 09 08:57 : client: [8] opened from 127.0.0.1:35832
+Jan 09 08:59 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Jan 09 09:08 : client: [8] closed
+Jan 09 14:07 : avahi: Client Disconnected, will reconnect shortly
+Jan 09 16:55 : avahi: Service 'Music Player @ x' successfully established.
+Jan 09 20:56 : client: [0] opened from 127.0.0.1:51560
+Jan 09 20:56 : client: [0] closed
+Jan 09 20:56 : client: [1] opened from 127.0.0.1:51568
+Jan 09 20:56 : client: [1] closed
+Jan 09 21:12 : client: [2] opened from 127.0.0.1:51636
+Jan 09 21:12 : client: [2] closed
+Jan 09 21:18 : client: [3] opened from 127.0.0.1:51640
+Jan 09 21:21 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 09 21:22 : client: [3] closed
+Jan 10 23:08 : client: [4] opened from 127.0.0.1:52916
+Jan 10 23:37 : player: played "albums/nick_drake/NickDrake-PinkMoon.m4a"
+Jan 11 06:10 : client: [4] closed
+Jan 12 08:45 : client: [5] opened from 127.0.0.1:56342
+Jan 12 09:30 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Jan 12 09:39 : client: [5] closed
+Jan 13 16:34 : client: [6] opened from 127.0.0.1:60096
+Jan 13 16:42 : client: [6] closed
+Jan 13 23:50 : client: [7] opened from 127.0.0.1:60682
+Jan 13 23:51 : update: added recs/mp3s/Recording_63.m4a
+Jan 13 23:51 : update: added recs/mp3s/rec63-reverb.mp3
+Jan 13 23:51 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:02 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:03 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:04 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:05 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:06 : player: played "recs/mp3s/rec63-reverb.mp3"
+Jan 14 00:38 : player: played "albums/nick_drake/NickDrake-PinkMoon.m4a"
+Jan 14 07:11 : client: [7] closed
+Jan 14 15:14 : client: [8] opened from 127.0.0.1:33248
+Jan 14 15:14 : update: removing recs/alsa/recording9.wav
+Jan 14 15:14 : update: removing recs/alsa/recording12.wav
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording8.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording5.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording3.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording9.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording10.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording6.mp3
+Jan 14 15:14 : update: added recs/alsa/mp3s/session1-recording7.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording8-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording4-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording12-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording7-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording9-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/rec59-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording6-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording1-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording10-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/rec63-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording5-reverb.mp3
+Jan 14 15:14 : update: added recs/alsa/reverb/recording3-reverb.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording9.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording8.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording7.mp3
+Jan 14 15:14 : update: added recs/alsa/session1/recording12.wav
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording6.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording5.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording3.mp3
+Jan 14 15:14 : update: removing recs/alsa/session1/session1-recording10.mp3
+Jan 14 15:14 : update: added recs/alsa/session1/recording1.wav
+Jan 14 15:16 : player: played "recs/alsa/reverb/rec59-reverb.mp3"
+Jan 14 15:16 : client: [8] closed
+Jan 15 08:29 : avahi: Client Disconnected, will reconnect shortly
+Jan 15 08:30 : avahi: Service 'Music Player @ x' successfully established.
+Jan 15 08:35 : client: [0] opened from 127.0.0.1:53016
+Jan 15 08:36 : player: played "recs/alsa/reverb/rec59-reverb.mp3"
+Jan 15 08:37 : player: played "recs/alsa/reverb/rec63-reverb.mp3"
+Jan 15 08:38 : player: played "recs/alsa/reverb/recording1-reverb.mp3"
+Jan 15 08:39 : player: played "recs/alsa/reverb/recording3-reverb.mp3"
+Jan 15 08:39 : player: played "recs/alsa/reverb/recording4-reverb.mp3"
+Jan 15 08:43 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 15 08:59 : client: [0] closed
+Jan 15 09:03 : client: [1] opened from 127.0.0.1:53028
+Jan 15 09:03 : player: played "recs/alsa/reverb/recording6-reverb.mp3"
+Jan 15 09:55 : client: [1] closed
+Jan 15 09:57 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 15 10:00 : client: [2] opened from 127.0.0.1:53054
+Jan 15 10:04 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 15 10:22 : client: [2] closed
+Jan 15 10:48 : client: [3] opened from 127.0.0.1:53074
+Jan 15 10:48 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 15 10:48 : client: [3] closed
+Jan 16 07:48 : client: [4] opened from 127.0.0.1:54180
+Jan 16 07:49 : player: played "recs/alsa/reverb/rec59-reverb.mp3"
+Jan 16 07:50 : player: played "recs/alsa/reverb/rec63-reverb.mp3"
+Jan 16 07:51 : player: played "recs/alsa/reverb/recording1-reverb.mp3"
+Jan 16 07:51 : player: played "recs/alsa/reverb/recording3-reverb.mp3"
+Jan 16 07:52 : player: played "recs/alsa/reverb/recording4-reverb.mp3"
+Jan 16 07:56 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 07:59 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:03 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:07 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:11 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:15 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:18 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:22 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:26 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:30 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:34 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:37 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:41 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:45 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:49 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 08:49 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Jan 16 09:10 : client: [4] closed
+Jan 16 09:44 : client: [5] opened from 127.0.0.1:54366
+Jan 16 09:58 : client: [5] closed
+Jan 16 10:00 : client: [6] opened from 127.0.0.1:54416
+Jan 16 10:41 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 16 10:56 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 16 10:56 : client: [6] closed
+Jan 17 08:42 : avahi: Client Disconnected, will reconnect shortly
+Jan 17 09:23 : avahi: Service 'Music Player @ x' successfully established.
+Jan 17 09:25 : avahi: Client Disconnected, will reconnect shortly
+Jan 17 09:38 : avahi: Service 'Music Player @ x' successfully established.
+Jan 18 16:35 : client: [0] opened from 127.0.0.1:43988
+Jan 18 17:30 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 18 17:30 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 18 18:41 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 18 19:05 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 18 19:24 : client: [0] closed
+Jan 18 19:26 : client: [1] opened from 127.0.0.1:44194
+Jan 18 19:26 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 18 19:26 : client: [1] closed
+Jan 19 12:59 : client: [2] opened from 127.0.0.1:46058
+Jan 19 12:59 : client: [2] closed
+Jan 19 12:59 : client: [3] opened from 127.0.0.1:46060
+Jan 19 12:59 : client: [3] closed
+Jan 19 13:06 : client: [4] opened from 127.0.0.1:46122
+Jan 19 13:06 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 13:06 : client: [4] closed
+Jan 19 14:55 : client: [5] opened from 127.0.0.1:46502
+Jan 19 14:56 : client: [5] closed
+Jan 19 14:56 : client: [6] opened from 127.0.0.1:46512
+Jan 19 14:56 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 14:56 : client: [6] closed
+Jan 19 16:31 : client: [7] opened from 127.0.0.1:46756
+Jan 19 16:31 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 16:56 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 17:05 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 17:10 : client: [7] closed
+Jan 19 21:11 : client: [8] opened from 127.0.0.1:47362
+Jan 19 21:11 : client: [8] closed
+Jan 19 21:11 : client: [9] opened from 127.0.0.1:47368
+Jan 19 21:11 : client: [9] closed
+Jan 19 21:36 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 19 22:37 : client: [10] opened from 127.0.0.1:47568
+Jan 19 23:05 : player: played "albums/nick_drake/NickDrake-PinkMoon.m4a"
+Jan 20 08:12 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 08:23 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 10:54 : client: [10] closed
+Jan 20 11:06 : client: [11] opened from 127.0.0.1:47984
+Jan 20 11:06 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 12:20 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 20 13:07 : client: [11] closed
+Jan 20 13:26 : client: [12] opened from 127.0.0.1:48130
+Jan 20 13:26 : client: [12] closed
+Jan 20 16:09 : client: [13] opened from 127.0.0.1:48216
+Jan 20 16:34 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 17:45 : client: [13] closed
+Jan 20 17:46 : client: [14] opened from 127.0.0.1:48308
+Jan 20 17:46 : client: [14] closed
+Jan 20 18:10 : client: [15] opened from 127.0.0.1:48384
+Jan 20 18:10 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 18:10 : client: [15] closed
+Jan 20 19:35 : client: [16] opened from 127.0.0.1:48506
+Jan 20 19:42 : client: [16] closed
+Jan 20 19:42 : client: [17] opened from 127.0.0.1:48510
+Jan 20 19:44 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 20 22:13 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Jan 21 10:18 : client: [17] closed
+Jan 22 07:03 : avahi: Client Disconnected, will reconnect shortly
+Jan 22 07:03 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 28 14:16 : avahi: Service 'Music Player @ x' successfully established.
+Jan 28 14:33 : client: [0] opened from 127.0.0.1:48724
+Jan 28 14:33 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 28 14:33 : client: [0] closed
+Jan 28 14:33 : client: [1] opened from 127.0.0.1:48726
+Jan 28 14:34 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Jan 28 14:34 : client: [1] closed
+Feb 02 21:57 : avahi: Client Disconnected, will reconnect shortly
+Feb 03 07:00 : avahi: Service 'Music Player @ x' successfully established.
+Feb 07 23:42 : avahi: Client Disconnected, will reconnect shortly
+Feb 08 08:30 : avahi: Service 'Music Player @ x' successfully established.
+Feb 09 00:22 : avahi: Client Disconnected, will reconnect shortly
+Feb 09 08:16 : avahi: Service 'Music Player @ x' successfully established.
+Feb 10 23:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 11 07:36 : avahi: Service 'Music Player @ x' successfully established.
+Feb 12 16:08 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 16:14 : avahi: Service 'Music Player @ x' successfully established.
+Feb 12 16:16 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 16:17 : avahi: Service 'Music Player @ x' successfully established.
+Feb 13 00:28 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 08:41 : avahi: Service 'Music Player @ x' successfully established.
+Feb 15 13:27 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 09:50 : avahi: Service 'Music Player @ x' successfully established.
+Feb 17 12:32 : client: [0] opened from 127.0.0.1:46034
+Feb 17 12:32 : client: [0] closed
+Feb 17 12:57 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 17 15:46 : avahi: Client Disconnected, will reconnect shortly
+Feb 17 15:46 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Feb 17 15:46 : avahi: Service 'Music Player @ x' successfully established.
+Feb 18 21:29 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 21:29 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Feb 18 21:30 : avahi: Service 'Music Player @ x' successfully established.
+Feb 18 21:46 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 21:46 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Feb 19 07:29 : avahi: Service 'Music Player @ x' successfully established.
+Feb 27 13:38 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 13:38 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Feb 27 13:51 : avahi: Service 'Music Player @ x' successfully established.
+Feb 28 10:48 : client: [0] opened from 127.0.0.1:40970
+Feb 28 10:53 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 10:58 : client: [0] closed
+Feb 28 11:22 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:27 : client: [1] opened from 127.0.0.1:41080
+Feb 28 12:29 : client: [1] closed
+Feb 28 12:31 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 28 12:31 : client: [2] opened from 127.0.0.1:41100
+Feb 28 12:31 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:31 : client: [2] closed
+Feb 28 12:31 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 12:32 : avahi: Service 'Music Player @ x' successfully established.
+Feb 28 12:32 : client: [0] opened from 127.0.0.1:36840
+Feb 28 12:34 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:34 : client: [0] closed
+Feb 28 12:35 : client: [1] opened from 127.0.0.1:36854
+Feb 28 12:35 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:36 : client: [1] closed
+Feb 28 12:36 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 28 12:37 : client: [2] opened from 127.0.0.1:36864
+Feb 28 12:37 : client: [2] closed
+Feb 28 12:37 : client: [3] opened from 127.0.0.1:36868
+Feb 28 12:37 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:49 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 12:57 : client: [3] closed
+Feb 28 15:01 : client: [4] opened from 127.0.0.1:37114
+Feb 28 15:02 : client: [4] closed
+Feb 28 15:02 : client: [5] opened from 127.0.0.1:37116
+Feb 28 15:02 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Feb 28 15:07 : client: [5] closed
+Feb 28 21:56 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 21:58 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 01 08:06 : avahi: Service 'Music Player @ x' successfully established.
+Mar 02 12:34 : client: [0] opened from 127.0.0.1:41326
+Mar 02 12:53 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 02 12:53 : client: [0] closed
+Mar 05 21:47 : client: [1] opened from 127.0.0.1:60792
+Mar 05 22:16 : player: played "albums/nick_drake/NickDrake-PinkMoon.m4a"
+Mar 06 07:18 : client: [1] closed
+Mar 07 10:13 : client: [2] opened from 127.0.0.1:51028
+Mar 07 10:13 : client: [2] closed
+Mar 07 10:38 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 07 10:58 : client: [3] opened from 127.0.0.1:51390
+Mar 07 10:58 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 07 10:58 : client: [3] closed
+Mar 07 21:37 : avahi: Client Disconnected, will reconnect shortly
+Mar 07 21:53 : avahi: Service 'Music Player @ x' successfully established.
+Mar 07 21:53 : client: [0] opened from 127.0.0.1:56392
+Mar 07 21:53 : client: [0] closed
+Mar 07 22:01 : client: [1] opened from 127.0.0.1:56478
+Mar 07 22:02 : client: [1] closed
+Mar 08 19:17 : client: [2] opened from 127.0.0.1:39514
+Mar 08 19:17 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 08 19:17 : client: [2] closed
+Mar 08 19:17 : client: [3] opened from 127.0.0.1:39522
+Mar 08 19:30 : client: [3] closed
+Mar 08 19:30 : client: [4] opened from 127.0.0.1:39624
+Mar 08 19:30 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Mar 08 19:30 : client: [4] closed
+Mar 09 17:50 : client: [5] opened from 127.0.0.1:51288
+Mar 09 17:50 : client: [5] closed
+Mar 10 15:33 : client: [6] opened from 127.0.0.1:33852
+Mar 10 15:33 : client: [6] closed
+Mar 10 16:36 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Mar 10 17:40 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Mar 10 18:02 : client: [7] opened from 127.0.0.1:59956
+Mar 10 18:03 : client: [7] closed
+Mar 10 21:53 : client: [8] opened from 127.0.0.1:42736
+Mar 10 21:53 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Mar 10 21:54 : client: [8] closed
+Mar 10 21:54 : client: [9] opened from 127.0.0.1:42738
+Mar 10 21:54 : client: [9] closed
+Mar 10 22:22 : player: played "albums/nick_drake/NickDrake-PinkMoon.m4a"
+Mar 11 08:52 : client: [10] opened from 127.0.0.1:48740
+Mar 11 08:52 : client: [10] closed
+Mar 11 09:01 : client: [11] opened from 127.0.0.1:48868
+Mar 11 09:01 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 11 09:01 : client: [11] closed
+Mar 11 10:46 : client: [12] opened from 127.0.0.1:49770
+Mar 11 11:00 : client: [12] closed
+Mar 11 11:00 : client: [13] opened from 127.0.0.1:49896
+Mar 11 11:00 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 11 11:00 : client: [13] closed
+Mar 12 07:47 : client: [14] opened from 127.0.0.1:40700
+Mar 12 08:05 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 12 08:34 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 12 17:39 : client: [14] closed
+Mar 13 16:56 : client: [15] opened from 127.0.0.1:58036
+Mar 13 16:56 : client: [15] closed
+Mar 13 17:29 : client: [16] opened from 127.0.0.1:58364
+Mar 13 17:29 : client: [16] closed
+Mar 13 17:43 : client: [17] opened from 127.0.0.1:58468
+Mar 13 17:48 : client: [17] closed
+Mar 13 18:13 : client: [18] opened from 127.0.0.1:58730
+Mar 13 18:13 : client: [18] closed
+Mar 13 18:18 : client: [19] opened from 127.0.0.1:58772
+Mar 13 18:35 : client: [19] closed
+Mar 13 18:57 : client: [20] opened from 127.0.0.1:59110
+Mar 13 18:57 : client: [20] closed
+Mar 13 19:12 : player: played "albums/hiphop/2PAC_-_20_Years_Gone_-_Makaveli_Lives_On_-_Full_Mixtape_2016.m4a"
+Mar 13 19:31 : client: [21] opened from 127.0.0.1:59368
+Mar 13 19:31 : client: [21] closed
+Mar 13 20:04 : client: [22] opened from 127.0.0.1:59644
+Mar 13 20:04 : player: played "albums/hiphop/2PAC_-_20_Years_Gone_-_Makaveli_Lives_On_-_Full_Mixtape_2016.m4a"
+Mar 13 20:04 : client: [22] closed
+Mar 14 10:07 : client: [23] opened from 127.0.0.1:38102
+Mar 14 10:34 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Mar 14 10:34 : client: [23] closed
+Mar 14 13:59 : client: [24] opened from 127.0.0.1:40016
+Mar 14 13:59 : client: [24] closed
+Mar 14 14:53 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Mar 15 07:15 : client: [25] opened from 127.0.0.1:48554
+Mar 15 07:15 : client: [25] closed
+Mar 15 07:15 : client: [26] opened from 127.0.0.1:48556
+Mar 15 07:15 : client: [26] closed
+Mar 15 07:15 : client: [27] opened from 127.0.0.1:48558
+Mar 15 07:15 : client: [27] closed
+Mar 15 07:49 : client: [28] opened from 127.0.0.1:48838
+Mar 15 07:49 : player: played "albums/metal/Isis - Wavering Radiant [FULL ALBUM] 128 kbps (Audio Only).m4a"
+Mar 15 08:28 : client: [28] closed
+Mar 15 08:46 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 16 14:06 : client: [29] opened from 127.0.0.1:46742
+Mar 16 14:06 : client: [29] closed
+Mar 16 14:06 : client: [30] opened from 127.0.0.1:46750
+Mar 16 14:08 : client: [30] closed
+Mar 16 14:11 : client: [31] opened from 127.0.0.1:46792
+Mar 16 14:11 : client: [31] closed
+Mar 16 14:18 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 16 14:21 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 16 14:23 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 16 14:29 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 16 14:34 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 16 16:17 : client: [32] opened from 127.0.0.1:57966
+Mar 16 16:17 : client: [32] closed
+Mar 16 16:20 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 16 16:23 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 16 16:29 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 16 16:34 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 17 09:35 : client: [33] opened from 127.0.0.1:44872
+Mar 17 09:35 : client: [33] closed
+Mar 17 09:41 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 17 09:44 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 17 09:46 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 17 09:49 : client: [34] opened from 127.0.0.1:45174
+Mar 17 09:49 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 17 09:49 : client: [34] closed
+Mar 17 11:50 : client: [35] opened from 127.0.0.1:46948
+Mar 17 11:50 : client: [35] closed
+Mar 17 11:56 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 17 11:59 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 17 12:02 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 17 12:08 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 17 12:13 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 17 12:52 : client: [36] opened from 127.0.0.1:48168
+Mar 17 12:57 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 17 13:03 : client: [36] closed
+Mar 17 13:03 : client: [37] opened from 127.0.0.1:48348
+Mar 17 13:03 : client: [37] closed
+Mar 17 13:04 : client: [38] opened from 127.0.0.1:48360
+Mar 17 13:04 : client: [38] closed
+Mar 17 13:09 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 17 13:12 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 17 13:15 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 17 13:21 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 17 13:26 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 19 07:00 : client: [39] opened from 127.0.0.1:56570
+Mar 19 07:00 : client: [39] closed
+Mar 19 07:07 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 19 07:10 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 19 07:12 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 19 07:18 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 19 07:23 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 19 08:34 : client: [40] opened from 127.0.0.1:57446
+Mar 19 08:34 : client: [40] closed
+Mar 19 08:40 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 19 08:43 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 19 08:45 : client: [41] opened from 127.0.0.1:57536
+Mar 19 08:45 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 19 08:45 : client: [41] closed
+Mar 20 18:51 : client: [42] opened from 127.0.0.1:48406
+Mar 20 18:51 : client: [42] closed
+Mar 20 18:57 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 19:00 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 19:02 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 19:09 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 19:13 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 19:20 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 19:23 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 19:25 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 19:31 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 19:36 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 19:42 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 19:45 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 19:47 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 19:54 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 19:58 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 20:04 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 20:07 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 20:09 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 20:11 : client: [43] opened from 127.0.0.1:49352
+Mar 20 20:15 : client: [43] closed
+Mar 20 20:16 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 20:21 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 20:27 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 20:30 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 20:32 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 20:39 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 20:43 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 20:49 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 20:52 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 20:54 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 21:01 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 21:05 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 21:11 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 21:15 : player: played "singles/ost/Gustavo Santaolalla - Main Theme (The Last Of Us Soundtrack).mp4"
+Mar 20 21:17 : player: played "singles/ost/Harry_Gregson-Williams_-_Light_of_life_Ibelin_Reprise.m4a"
+Mar 20 21:23 : player: played "singles/ost/Mass Effect 3 Soundtrack - I Was Lost Without You [Extended Version].mp4"
+Mar 20 21:28 : player: played "singles/ost/Raimon_de_Miravalh_-_Chansoneta_Farai_Vencut.m4a"
+Mar 20 21:34 : client: [44] opened from 127.0.0.1:50190
+Mar 20 21:34 : player: played "singles/ost/Estampie- Chanterai por mon corage-kIuyvRL1Lt0.m4a"
+Mar 20 21:34 : client: [44] closed
+Mar 22 07:49 : client: [45] opened from 127.0.0.1:39556
+Mar 22 07:57 : player: played "albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/01 - Not in Rivers, but in Drops (Album Version).mp3"
+Mar 22 08:05 : player: played "albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/03 - Not in Rivers, but in Drops (Live).mp3"
+Mar 22 08:05 : player: played "albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/02 - Holy Tears Remix (Thomas Dimuzio Remix).mp3"
+Mar 23 12:05 : client: [45] closed
+Mar 23 12:06 : avahi: Client Disconnected, will reconnect shortly
+Mar 23 12:11 : avahi: Service 'Music Player @ x' successfully established.
+Mar 23 12:54 : client: [0] opened from 127.0.0.1:46266
+Mar 23 12:54 : client: [0] closed
+Mar 23 13:02 : player: played "albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/01 - Not in Rivers, but in Drops (Album Version).mp3"
+Mar 23 13:08 : client: [1] opened from 127.0.0.1:46334
+Mar 23 13:08 : player: played "albums/isis/Isis/Singles/2008 - Not In Rivers, But In Drops [Single]/03 - Not in Rivers, but in Drops (Live).mp3"
+Mar 23 13:08 : client: [1] closed
+Mar 23 17:48 : client: [2] opened from 127.0.0.1:48374
+Mar 23 17:48 : client: [2] closed
+Mar 23 18:12 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 23 18:37 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 23 18:58 : client: [3] opened from 127.0.0.1:48642
+Mar 23 18:58 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 23 19:03 : client: [3] closed
+Mar 23 19:28 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 23 19:37 : client: [4] opened from 127.0.0.1:48970
+Mar 23 19:37 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 23 19:37 : client: [4] closed
+Mar 25 11:35 : client: [5] opened from 127.0.0.1:35068
+Mar 25 11:35 : client: [5] closed
+Mar 25 12:00 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 12:11 : client: [6] opened from 127.0.0.1:35226
+Mar 25 12:11 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 12:19 : client: [6] closed
+Mar 25 12:44 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 13:09 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 13:31 : client: [7] opened from 127.0.0.1:35586
+Mar 25 13:31 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 13:46 : client: [7] closed
+Mar 25 14:11 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 14:36 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 14:58 : client: [8] opened from 127.0.0.1:35990
+Mar 25 15:01 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 15:01 : client: [8] closed
+Mar 25 15:01 : client: [9] opened from 127.0.0.1:36004
+Mar 25 15:01 : client: [9] closed
+Mar 25 15:26 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 16:12 : client: [10] opened from 127.0.0.1:36352
+Mar 25 16:12 : client: [10] closed
+Mar 25 16:32 : client: [11] opened from 127.0.0.1:36474
+Mar 25 16:36 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 25 17:04 : client: [11] closed
+Mar 25 17:29 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 26 07:25 : client: [12] opened from 127.0.0.1:39974
+Mar 26 07:25 : exception: Failed to open '/home/x/Music/sigur.m3u.m3u': No such file or directory
+Mar 26 07:25 : client: [12] closed
+Mar 26 07:36 : player: played "singles/sigur_ros/Sigur_Ros_-_Untitled_8_Popplagio.m4a"
+Mar 26 08:12 : client: [13] opened from 127.0.0.1:40338
+Mar 26 08:12 : player: played "albums/triphop/Sigur_Ros_Takk..._Full_Album.m4a"
+Mar 26 09:00 : client: [13] closed
+Mar 26 11:56 : client: [14] opened from 127.0.0.1:41494
+Mar 26 11:56 : client: [14] closed
+Mar 26 12:03 : player: played "albums/isis/Wavering Radiant/Isis_-_20_Minutes_40_Years.mp3"
+Mar 26 12:12 : player: played "albums/isis/Wavering Radiant/Isis_-_Ghost_Key.mp3"
+Mar 26 12:20 : player: played "albums/isis/Wavering Radiant/Isis_-_Hall_of_the_Dead.mp3"
+Mar 26 12:30 : player: played "albums/isis/Wavering Radiant/Isis_-_Hand_of_the_Host.mp3"
+Mar 26 12:38 : client: [15] opened from 127.0.0.1:41752
+Mar 26 12:50 : client: [15] closed
+Mar 26 12:50 : player: played "albums/isis/Wavering Radiant/Isis_-_Stone_to_Wake_a_Serpent.mp3"
+Mar 26 13:00 : player: played "albums/isis/Wavering Radiant/Isis_-_Threshold_of_Transformation.mp3"
+Mar 26 13:02 : player: played "albums/isis/Wavering Radiant/Isis_-_Wavering_Radiant.mp3"
+Mar 27 12:56 : client: [16] opened from 127.0.0.1:47778
+Mar 27 12:56 : client: [16] closed
+Mar 27 13:41 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Mar 27 16:28 : client: [17] opened from 127.0.0.1:49648
+Mar 27 16:28 : client: [17] closed
+Mar 27 17:10 : client: [18] opened from 127.0.0.1:49780
+Mar 27 17:11 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Mar 27 17:34 : client: [18] closed
+Mar 29 01:58 : avahi: Client Disconnected, will reconnect shortly
+Mar 29 08:32 : avahi: Service 'Music Player @ x' successfully established.
+Mar 30 13:14 : client: [0] opened from 127.0.0.1:48812
+Mar 30 13:14 : client: [0] closed
+Mar 30 13:34 : client: [1] opened from 127.0.0.1:49064
+Mar 30 13:34 : client: [1] closed
+Mar 30 13:39 : client: [2] opened from 127.0.0.1:49110
+Mar 30 13:39 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Mar 30 13:39 : client: [2] closed
+Mar 31 11:31 : client: [3] opened from 127.0.0.1:33256
+Mar 31 11:31 : client: [3] closed
+Mar 31 12:16 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Mar 31 14:44 : client: [4] opened from 127.0.0.1:35326
+Mar 31 14:51 : client: [4] closed
+Mar 31 15:07 : client: [5] opened from 127.0.0.1:35596
+Mar 31 15:07 : client: [5] closed
+Mar 31 15:09 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 31 20:25 : client: [6] opened from 127.0.0.1:39580
+Mar 31 20:25 : client: [6] closed
+Mar 31 20:49 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 31 21:09 : client: [7] opened from 127.0.0.1:40324
+Mar 31 21:14 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Mar 31 22:32 : client: [7] closed
+Apr 01 08:28 : client: [8] opened from 127.0.0.1:45490
+Apr 01 08:48 : client: [8] closed
+Apr 01 08:52 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Apr 01 10:32 : client: [9] opened from 127.0.0.1:46726
+Apr 01 10:32 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 10:32 : client: [9] closed
+Apr 01 11:01 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 01 11:01 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Apr 01 11:22 : client: [10] opened from 127.0.0.1:47316
+Apr 01 11:22 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 01 13:21 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 13:21 : client: [10] closed
+Apr 01 13:50 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 01 13:50 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Apr 01 14:35 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 01 20:46 : client: [11] opened from 127.0.0.1:52872
+Apr 01 20:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 01 20:46 : client: [11] closed
+Apr 01 21:15 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 01 21:15 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Apr 01 21:39 : client: [12] opened from 127.0.0.1:53304
+Apr 01 21:39 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 01 21:39 : client: [12] closed
+Apr 02 19:35 : client: [13] opened from 127.0.0.1:35256
+Apr 02 19:36 : client: [13] closed
+Apr 02 20:03 : client: [14] opened from 127.0.0.1:35482
+Apr 02 20:03 : player: played "albums/metal/Conditions of My Parole (Full Album) - Puscifer-Ug6_yS6-a4I.m4a"
+Apr 02 20:03 : client: [14] closed
+Apr 03 07:47 : client: [15] opened from 127.0.0.1:40248
+Apr 03 07:47 : client: [15] closed
+Apr 03 08:13 : client: [16] opened from 127.0.0.1:40466
+Apr 03 08:13 : client: [16] closed
+Apr 03 08:25 : client: [17] opened from 127.0.0.1:40608
+Apr 03 08:25 : player: played "albums/metal/Isis - Oceanic Full Album (High Quality)-mHtpU4aABPI.m4a"
+Apr 03 08:27 : client: [17] closed
+Apr 03 10:19 : client: [18] opened from 127.0.0.1:41624
+Apr 03 10:19 : client: [18] closed
+Apr 03 10:33 : player: played "albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/04 Lush Life.flac"
+Apr 03 10:39 : player: played "albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/03 Trane's Slow Blues.flac"
+Apr 03 12:29 : client: [19] opened from 127.0.0.1:43044
+Apr 03 12:29 : client: [19] closed
+Apr 03 12:40 : client: [20] opened from 127.0.0.1:43132
+Apr 03 12:40 : player: played "albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/04 Lush Life.flac"
+Apr 03 12:46 : client: [20] closed
+Apr 03 12:53 : client: [21] opened from 127.0.0.1:43310
+Apr 03 12:53 : client: [21] closed
+Apr 03 17:37 : client: [22] opened from 127.0.0.1:45874
+Apr 03 17:37 : client: [22] closed
+Apr 03 17:51 : player: played "albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/04 Lush Life.flac"
+Apr 03 17:57 : player: played "albums/coltrane/JOHN COLTRANE Lush Life (2007 DSD Japan Remaster)/03 Trane's Slow Blues.flac"
+Apr 03 19:02 : client: [23] opened from 127.0.0.1:46532
+Apr 03 19:02 : client: [23] closed
+Apr 03 19:48 : client: [24] opened from 127.0.0.1:46884
+Apr 03 20:00 : player: played "albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3"
+Apr 03 20:00 : client: [24] closed
+Apr 03 20:00 : client: [25] opened from 127.0.0.1:47160
+Apr 03 20:01 : client: [25] closed
+Apr 03 21:34 : client: [26] opened from 127.0.0.1:48782
+Apr 03 21:34 : client: [26] closed
+Apr 03 21:56 : client: [27] opened from 127.0.0.1:48992
+Apr 03 21:56 : player: played "albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3"
+Apr 03 21:56 : client: [27] closed
+Apr 05 11:21 : client: [28] opened from 127.0.0.1:37488
+Apr 05 11:21 : client: [28] closed
+Apr 05 12:19 : player: played "albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3"
+Apr 05 18:54 : client: [29] opened from 127.0.0.1:43156
+Apr 05 18:54 : client: [29] closed
+Apr 05 19:53 : player: played "albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3"
+Apr 07 13:36 : client: [30] opened from 127.0.0.1:36344
+Apr 07 13:36 : client: [30] closed
+Apr 07 14:06 : client: [31] opened from 127.0.0.1:36680
+Apr 07 14:06 : player: played "albums/hiphop/La Coka Nostra - Masters Of The Dark Arts (Full album)-TzN4cko9duM.mp3"
+Apr 07 14:07 : client: [31] closed
+Apr 07 14:17 : client: [32] opened from 127.0.0.1:36792
+Apr 07 14:17 : client: [32] closed
+Apr 07 14:42 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Apr 07 19:27 : client: [33] opened from 127.0.0.1:40508
+Apr 07 19:32 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Apr 07 19:39 : client: [33] closed
+Apr 07 20:09 : client: [34] opened from 127.0.0.1:40834
+Apr 07 20:09 : player: played "albums/hiphop/GZA - Liquid Swords (Full Album)-n2XZiCPWZY4.mp3"
+Apr 07 20:16 : client: [34] closed
+Apr 07 20:24 : client: [35] opened from 127.0.0.1:40944
+Apr 07 20:25 : player: played "albums/hiphop/GZA - Liquid Swords (Full Album)-n2XZiCPWZY4.mp3"
+Apr 07 20:25 : client: [35] closed
+Apr 08 08:12 : client: [36] opened from 127.0.0.1:45906
+Apr 08 08:16 : player: played "albums/nick_drake/far_leys/Nick Drake - Leaving Me Behind [alternate].mp3"
+Apr 08 08:37 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 08 09:06 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 08 09:06 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Apr 08 10:47 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Apr 08 11:16 : client: [37] opened from 127.0.0.1:47348
+Apr 08 11:16 : client: [37] closed
+Apr 08 11:16 : ffmpeg/opus: Could not update timestamps for discarded samples.
+Apr 08 11:16 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+Apr 08 20:46 : client: [36] closed
+Apr 09 08:42 : client: [38] opened from 127.0.0.1:60294
+Apr 09 08:42 : client: [38] closed
+Apr 09 08:54 : client: [39] opened from 127.0.0.1:60394
+Apr 09 08:58 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Apr 09 08:59 : player: played "recs/alsa/reverb/rec63-reverb.mp3"
+Apr 09 09:00 : player: played "recs/alsa/reverb/recording3-reverb.mp3"
+Apr 09 09:00 : player: played "recs/alsa/reverb/recording4-reverb.mp3"
+Apr 09 09:01 : client: [40] opened from 127.0.0.1:60458
+Apr 09 09:03 : player: played "recs/alsa/reverb/recording4-reverb.mp3"
+Apr 09 09:07 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Apr 09 10:38 : client: [40] closed
+Apr 09 10:40 : client: [41] opened from 127.0.0.1:32990
+Apr 09 10:42 : player: played "recs/alsa/reverb/recording5-reverb.mp3"
+Apr 09 11:33 : player: played "recs/alsa/reverb/rec63-reverb.mp3"
+Apr 09 11:33 : player: played "recs/alsa/reverb/recording3-reverb.mp3"
+Apr 09 11:34 : player: played "recs/alsa/reverb/recording4-reverb.mp3"
+Apr 09 11:35 : player: played "recs/alsa/reverb/recording7-reverb.mp3"
+Apr 09 11:38 : player: played "recs/alsa/reverb/recording10-reverb.mp3"
+Apr 09 11:39 : player: played "recs/alsa/reverb/recording1-reverb.mp3"
+Apr 09 11:41 : player: played "recs/alsa/reverb/rec59-reverb.mp3"
+Apr 09 13:45 : client: [39] closed
+Apr 09 13:46 : client: [41] closed
+Apr 10 09:40 : client: [42] opened from 127.0.0.1:44170
+Apr 10 09:57 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+Apr 10 09:57 : client: [42] closed
+Apr 11 20:02 : client: [43] opened from 127.0.0.1:60838
+Apr 11 20:02 : client: [43] closed
+Apr 11 20:07 : player: played "singles/Archive_Bullets_Cyberpunk_2077.m4a"
+Apr 11 20:11 : player: played "singles/Gears_of_War_3_-_Mad_World.m4a"
+Apr 11 20:11 : client: [44] opened from 127.0.0.1:32776
+Apr 11 20:11 : client: [44] closed
+Apr 11 20:16 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 11 20:21 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 11 20:23 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 11 20:23 : client: [45] opened from 127.0.0.1:32950
+Apr 11 20:26 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 11 20:27 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 11 20:30 : player: played "singles/easy_now_joan shelley.wav"
+Apr 11 20:42 : player: played "singles/Gears_of_War_3_-_Mad_World.m4a"
+Apr 11 20:47 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 11 20:52 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 11 20:54 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 11 20:57 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 11 20:57 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 11 20:57 : client: [45] closed
+Apr 11 21:19 : client: [46] opened from 127.0.0.1:33328
+Apr 11 21:19 : client: [46] closed
+Apr 11 21:19 : client: [47] opened from 127.0.0.1:33404
+Apr 11 21:19 : client: [47] closed
+Apr 11 21:22 : player: played "singles/Gears_of_War_3_-_Mad_World.m4a"
+Apr 11 21:27 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 11 21:32 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 11 21:34 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 11 21:37 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 11 21:38 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 11 21:41 : player: played "singles/easy_now_joan shelley.wav"
+Apr 12 21:57 : client: [48] opened from 127.0.0.1:45672
+Apr 12 21:57 : client: [48] closed
+Apr 12 22:00 : player: played "singles/Gears_of_War_3_-_Mad_World.m4a"
+Apr 12 22:05 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 12 22:11 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 12 22:12 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 12 22:15 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 12 22:16 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 12 22:20 : player: played "singles/easy_now_joan shelley.wav"
+Apr 14 12:02 : avahi: Client Disconnected, will reconnect shortly
+Apr 14 12:03 : avahi: Service 'Music Player @ x' successfully established.
+Apr 14 15:13 : client: [0] opened from 127.0.0.1:40390
+Apr 14 15:14 : client: [0] closed
+Apr 14 15:17 : player: played "singles/Gears_of_War_3_-_Mad_World.m4a"
+Apr 14 15:22 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 14 15:27 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 14 15:29 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 14 15:32 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 14 15:33 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 14 15:36 : player: played "singles/easy_now_joan shelley.wav"
+Apr 14 15:44 : client: [1] opened from 127.0.0.1:40650
+Apr 14 15:44 : client: [1] closed
+Apr 14 15:44 : client: [2] opened from 127.0.0.1:40658
+Apr 14 15:45 : client: [2] closed
+Apr 14 15:46 : client: [3] opened from 127.0.0.1:40672
+Apr 14 15:46 : client: [3] closed
+Apr 14 15:50 : player: played "singles/Radiohead_-_Reckoner_-_Live_From_The_Basement_HD.m4a"
+Apr 14 15:55 : player: played "singles/song_of_the_sea_-_Amhran_Na_Farraige_-_selkie_song.m4a"
+Apr 14 15:56 : player: played "singles/The_Secret_of_Kells_-_Aisling_s_Song.m4a"
+Apr 14 16:00 : player: played "singles/You_re_Gonna_Make_Me_Lonesome_When_You_Go_-_Madeleine_Peyroux.m4a"
+Apr 14 16:00 : player: played "singles/epic tragic orch 23 AUG Kulema .wav"
+Apr 14 16:04 : player: played "singles/easy_now_joan shelley.wav"
+Apr 14 16:32 : client: [4] opened from 127.0.0.1:41264
+Apr 14 16:33 : client: [4] closed
+Apr 14 17:17 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 15 09:04 : avahi: Client Disconnected, will reconnect shortly
+Apr 15 09:05 : avahi: Service 'Music Player @ x' successfully established.
+Apr 17 13:32 : client: [0] opened from 127.0.0.1:41990
+Apr 17 13:32 : client: [0] closed
+Apr 17 13:32 : client: [1] opened from 127.0.0.1:41998
+Apr 17 13:32 : client: [1] closed
+Apr 17 14:09 : client: [2] opened from 127.0.0.1:42288
+Apr 17 14:09 : client: [2] closed
+Apr 17 14:09 : client: [3] opened from 127.0.0.1:42292
+Apr 17 14:09 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 17 14:09 : client: [3] closed
+Apr 18 19:24 : avahi: Service 'Music Player @ x' successfully established.
+Apr 19 10:22 : client: [0] opened from 127.0.0.1:51238
+Apr 19 10:45 : update: added singles/OZZY OSBOURNE - 'Mama, I'm Coming Home' (Official Video)-K0siYUjV9UM.opus
+Apr 19 10:45 : update: added singles/nina/Feeling Good-BNMKGYiJpvg.mp3
+Apr 19 10:45 : update: added singles/OZZY OSBOURNE - 'Mama, I'm Coming Home' (Official Video)-K0siYUjV9UM.mkv
+Apr 19 10:45 : update: added singles/OZZY OSBOURNE - 'Mama, I'm Coming Home' (Official Video)-K0siYUjV9UM.mp3
+Apr 19 10:45 : update: added albums/gould/Bach _ Gould - Two & Three Part Inventions-cTU5UPhOVtI.mp3
+Apr 19 10:45 : update: added albums/popper/János Starker A Tribute to Cellist and Composer David Popper Complete-DUbNhFujSPA.mp3
+Apr 19 10:45 : update: added albums/isis/slowlist/Isis - Poison eggs-CApEKj7uWbY.mp3
+Apr 19 10:45 : update: added albums/isis/slowlist/ISIS 'Pliable Foe' Official Video--9EhHqqzJFQ.mp3
+Apr 19 10:45 : update: added albums/isis/slowlist/Isis - Way Through Woven Branches-aewuyb-8YVs.mp3
+Apr 19 10:45 : update: added albums/isis/slowlist/ISIS & Aereogramme - Low Tide.-y7TUnZXEVxM.mp3
+Apr 19 10:45 : update: added albums/isis/slowlist/Isis_Aereogramme - Stolen-Rq8LPtEle_4.mp3
+Apr 19 10:45 : client: [0] closed
+Apr 19 10:48 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 10:51 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 10:54 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 10:56 : client: [1] opened from 127.0.0.1:51492
+Apr 19 10:57 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 10:59 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 10:59 : client: [1] closed
+Apr 19 19:49 : client: [2] opened from 127.0.0.1:56576
+Apr 19 19:49 : client: [2] closed
+Apr 19 19:52 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 19:55 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 19:58 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:01 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:03 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:06 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:09 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:12 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:15 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:18 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:21 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:24 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:27 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:30 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:32 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:35 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:38 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:41 : client: [3] opened from 127.0.0.1:57112
+Apr 19 20:41 : client: [3] closed
+Apr 19 20:41 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:41 : client: [4] opened from 127.0.0.1:57114
+Apr 19 20:41 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+Apr 19 20:41 : client: [4] closed
+Apr 20 22:12 : client: [5] opened from 127.0.0.1:43764
+Apr 20 22:12 : client: [5] closed
+Apr 20 22:32 : client: [6] opened from 127.0.0.1:43950
+Apr 20 22:32 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 20 22:32 : client: [6] closed
+Apr 23 12:19 : client: [7] opened from 127.0.0.1:34404
+Apr 23 12:19 : client: [7] closed
+Apr 23 12:19 : client: [8] opened from 127.0.0.1:34410
+Apr 23 12:19 : client: [8] closed
+Apr 23 13:04 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 23 13:11 : client: [9] opened from 127.0.0.1:34840
+Apr 23 13:11 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+Apr 23 18:31 : client: [9] closed
+Apr 25 22:33 : avahi: Client Disconnected, will reconnect shortly
+Apr 26 07:19 : avahi: Service 'Music Player @ x' successfully established.
+May 01 20:37 : client: [0] opened from 127.0.0.1:38050
+May 01 20:37 : client: [0] closed
+May 01 21:21 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 01 21:22 : client: [1] opened from 127.0.0.1:38902
+May 01 21:22 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 01 21:22 : client: [1] closed
+May 01 21:44 : client: [2] opened from 127.0.0.1:39066
+May 01 21:44 : client: [2] closed
+May 01 22:29 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 01 22:58 : client: [3] opened from 127.0.0.1:40456
+May 01 22:58 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 01 22:58 : client: [3] closed
+May 02 07:45 : avahi: Client Disconnected, will reconnect shortly
+May 02 07:46 : avahi: Service 'Music Player @ x' successfully established.
+May 02 09:08 : avahi: Client Disconnected, will reconnect shortly
+May 02 09:09 : avahi: Service 'Music Player @ x' successfully established.
+May 02 10:15 : avahi: Client Disconnected, will reconnect shortly
+May 02 10:33 : avahi: Service 'Music Player @ x' successfully established.
+May 04 14:28 : client: [0] opened from 127.0.0.1:56608
+May 04 14:29 : client: [0] closed
+May 04 14:29 : client: [1] opened from 127.0.0.1:56618
+May 04 14:29 : client: [1] closed
+May 04 14:32 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:35 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:37 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:40 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:43 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:46 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:49 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:52 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:55 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 14:58 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:01 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:04 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:06 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:09 : client: [2] opened from 127.0.0.1:56972
+May 04 15:09 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:12 : player: played "singles/nina/Feeling Good-BNMKGYiJpvg.mp3"
+May 04 15:12 : client: [2] closed
+May 05 06:52 : client: [3] opened from 127.0.0.1:36616
+May 05 06:53 : client: [3] closed
+May 05 06:53 : client: [4] opened from 127.0.0.1:36624
+May 05 06:53 : client: [4] closed
+May 05 07:17 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 05 07:18 : client: [5] opened from 127.0.0.1:36824
+May 05 07:18 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 05 07:18 : client: [5] closed
+May 05 11:05 : client: [6] opened from 127.0.0.1:39784
+May 05 11:09 : client: [6] closed
+May 05 11:20 : client: [7] opened from 127.0.0.1:39916
+May 05 11:20 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 05 11:20 : client: [7] closed
+May 06 14:46 : client: [8] opened from 127.0.0.1:55446
+May 06 14:46 : client: [8] closed
+May 08 13:28 : client: [9] opened from 127.0.0.1:52604
+May 08 13:28 : client: [9] closed
+May 08 13:53 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 08 14:24 : client: [10] opened from 127.0.0.1:53036
+May 08 14:24 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 08 14:31 : client: [10] closed
+May 08 14:33 : client: [11] opened from 127.0.0.1:53100
+May 08 14:33 : client: [11] closed
+May 08 14:33 : client: [12] opened from 127.0.0.1:53108
+May 08 14:33 : client: [12] closed
+May 08 14:55 : client: [13] opened from 127.0.0.1:53478
+May 08 14:56 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 08 15:13 : client: [13] closed
+May 08 15:37 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 09 10:53 : client: [14] opened from 127.0.0.1:35268
+May 09 10:53 : client: [14] closed
+May 09 11:17 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 09 14:12 : client: [15] opened from 127.0.0.1:37658
+May 09 14:12 : client: [15] closed
+May 09 15:33 : client: [16] opened from 127.0.0.1:38674
+May 09 15:33 : client: [16] closed
+May 09 16:18 : client: [17] opened from 127.0.0.1:39770
+May 09 16:18 : client: [17] closed
+May 09 16:26 : client: [18] opened from 127.0.0.1:39826
+May 09 16:36 : client: [18] closed
+May 09 16:36 : client: [19] opened from 127.0.0.1:39896
+May 09 16:36 : client: [19] closed
+May 09 16:49 : client: [20] opened from 127.0.0.1:40038
+May 09 16:49 : client: [20] closed
+May 11 20:45 : client: [21] opened from 127.0.0.1:46150
+May 11 20:45 : update: added recs/1105.mp3
+May 11 20:45 : update: added albums/gould/Beethoven Piano No. 5 Emperor Concerto Glenn Gould American Symphony Orchestra Stokowski (1966_2015)-fp5D6cVtWMw.mp3
+May 11 20:45 : update: added albums/gould/Glenn Gould - Beethoven, Piano Sonata No. 31 in A-flat major op. 110 (OFFICIAL)-M1yVFZrp9dc.mp3
+May 11 20:45 : update: added albums/itzhak/Itzhak Perlman - J.S. Bach - Partita in D Minor, BWV 1004-qtyTaE7LvVs.mp3
+May 11 20:45 : update: added albums/dido/Dido - Here with Me (Official Video)-PSu5nAQ7uZw.mp3
+May 11 20:45 : update: added albums/pantera/Cemetery Gates - Pantera (HQ Audio)-1OYw7FPB7CE.mp3
+May 11 20:46 : client: [21] closed
+May 11 20:46 : player: played "recs/1105.mp3"
+May 11 20:47 : client: [22] opened from 127.0.0.1:46920
+May 11 20:48 : player: played "recs/1105.mp3"
+May 11 20:48 : client: [22] closed
+May 11 20:49 : player: played "recs/1105.mp3"
+May 11 20:50 : client: [23] opened from 127.0.0.1:47716
+May 11 20:50 : player: played "recs/1105.mp3"
+May 11 20:51 : client: [23] closed
+May 11 20:51 : player: played "recs/1105.mp3"
+May 16 22:08 : client: [24] opened from 127.0.0.1:37356
+May 16 22:08 : client: [24] closed
+May 16 22:08 : client: [25] opened from 127.0.0.1:37550
+May 16 22:08 : client: [25] closed
+May 16 22:30 : client: [26] opened from 127.0.0.1:45118
+May 16 22:30 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 16 22:30 : client: [26] closed
+May 17 16:44 : client: [27] opened from 127.0.0.1:57448
+May 17 16:44 : client: [27] closed
+May 17 17:09 : player: played "Glenn Gould play J.S. Bach, Concerto No. 1 in D minor, BWV 1052  (High audio quality)-ljLi9A0H8H4.mkv"
+May 17 22:55 : client: [28] opened from 127.0.0.1:46042
+May 17 22:55 : player: played "Dmitri Shostakovich plays Shostakovich - 8 Preludes and Fugues, op. 87-gF-TmWzIpFI.mp4"
+May 17 22:56 : client: [28] closed
+May 17 23:00 : player: played "albums/dido/Dido - Here with Me (Official Video)-PSu5nAQ7uZw.mp3"
+May 17 23:01 : client: [29] opened from 127.0.0.1:48202
+May 17 23:01 : client: [29] closed
+May 17 23:05 : player: played "albums/dido/Dido - Here with Me (Official Video)-PSu5nAQ7uZw.mp3"
+May 19 17:59 : client: [30] opened from 127.0.0.1:45578
+May 19 17:59 : client: [30] closed
+May 19 18:03 : player: played "albums/dido/Dido - Here with Me (Official Video)-PSu5nAQ7uZw.mp3"
+May 19 18:11 : client: [31] opened from 127.0.0.1:49670
+May 19 18:11 : client: [31] closed
+May 19 18:15 : player: played "albums/dido/Dido - Here with Me (Official Video)-PSu5nAQ7uZw.mp3"
+May 19 18:15 : client: [32] opened from 127.0.0.1:51196
+May 19 18:15 : client: [32] closed
+May 21 17:46 : avahi: Client Disconnected, will reconnect shortly
+May 21 17:47 : avahi: Service 'Music Player @ x' successfully established.
+May 21 19:02 : client: [0] opened from 127.0.0.1:60960
+May 21 19:02 : update: added recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3
+May 21 19:03 : update: updating recs/1105.mp3
+May 21 19:03 : update: added recs/wavs/ZOOM0024_TrLR.WAV
+May 21 19:03 : client: [0] closed
+May 21 19:03 : client: [1] opened from 127.0.0.1:60974
+May 21 19:04 : client: [1] closed
+May 21 19:04 : client: [2] opened from 127.0.0.1:60982
+May 21 19:05 : update: updating recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3
+May 21 19:13 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:15 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:16 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:17 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:18 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:20 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:21 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:22 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:23 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:24 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:26 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:27 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:28 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:29 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 19:31 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 21 20:01 : client: [2] closed
+May 22 13:17 : client: [3] opened from 127.0.0.1:41898
+May 22 13:17 : update: added recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3
+May 22 13:18 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:20 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:21 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:22 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:23 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:24 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:25 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:27 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:28 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:28 : client: [3] closed
+May 22 13:28 : client: [4] opened from 127.0.0.1:42078
+May 22 13:28 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 22 13:28 : client: [4] closed
+May 23 09:06 : avahi: Client Disconnected, will reconnect shortly
+May 23 13:02 : avahi: Service 'Music Player @ x' successfully established.
+May 24 18:32 : client: [0] opened from 127.0.0.1:36278
+May 24 18:33 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:35 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:36 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:37 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:38 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:39 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:40 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:42 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:43 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:44 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:45 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:46 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:47 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:49 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:50 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:51 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:52 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:53 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before-tempo.mp3"
+May 24 18:54 : player: played "recs/alsa/reverb/bach-cello-suite-3-bouree-1-before.mp3"
+May 24 18:54 : client: [0] closed
+May 25 08:13 : client: [1] opened from 127.0.0.1:42282
+May 25 08:13 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 25 08:14 : client: [1] closed
+May 25 08:42 : ffmpeg/opus: Could not update timestamps for discarded samples.
+May 25 08:42 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 25 08:42 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+May 25 08:55 : client: [2] opened from 127.0.0.1:42654
+May 25 16:45 : client: [2] closed
+May 25 17:14 : ffmpeg/opus: Could not update timestamps for discarded samples.
+May 25 17:14 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+May 25 17:14 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 25 17:43 : ffmpeg/opus: Could not update timestamps for discarded samples.
+May 25 17:43 : ffmpeg/opus: Could not update timestamps for skipped samples.
+May 25 17:43 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+May 25 18:11 : client: [3] opened from 127.0.0.1:47764
+May 25 18:12 : player: played "Shostakovich - 4 Preludes & Fugues - Richter Pécs 1974-KlPC9CNsafU.webm"
+May 25 18:24 : client: [3] closed
+May 25 20:13 : avahi: Client Disconnected, will reconnect shortly
+May 26 06:10 : avahi: Service 'Music Player @ x' successfully established.
+May 26 08:52 : client: [0] opened from 127.0.0.1:45424
+May 26 08:52 : client: [0] closed
+May 26 10:47 : avahi: Client Disconnected, will reconnect shortly
+May 26 10:49 : avahi: Service 'Music Player @ x' successfully established.
+May 28 08:51 : client: [0] opened from 127.0.0.1:59762
+May 28 08:51 : client: [0] closed
+May 28 19:09 : client: [1] opened from 127.0.0.1:38768
+May 28 19:09 : client: [1] closed
+May 28 19:21 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+May 28 19:21 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+May 28 19:23 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+May 28 19:29 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+May 28 19:29 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+May 28 19:34 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+May 28 19:40 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+May 28 19:46 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+May 28 19:58 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+May 28 19:59 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+May 28 20:01 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(05) [The Beethoven Quartet] No.15 in E flat Minor op.144-II.Serenade-Adagio.ape"
+May 28 20:06 : ffmpeg/ape: packet size is not a multiple of 4. extra bytes at the end will be skipped.
+May 28 20:06 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(06) [The Beethoven Quartet] No.15 in E flat Minor op.144-III.Intermezzo-Adagio.ape"
+May 28 20:12 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(07) [The Beethoven Quartet] No.15 in E flat Minor op.144-IV.Nocturne-Adagio.ape"
+May 28 20:17 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(08) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Funeral March-Adagio molto.ape"
+May 28 20:24 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(09) [The Beethoven Quartet] No.15 in E flat Minor op.144-V.Epilog-Adagio.ape"
+May 28 20:28 : client: [2] opened from 127.0.0.1:39974
+May 28 20:28 : player: played "albums/Shostakovich String Quartets/01 Beethoven Quartet (Doremi, 1956-1975)/Vol.3/CD6/(04) [The Beethoven Quartet] No.15 in E flat Minor op.144-I.Elegy-Adagio.ape"
+May 28 20:28 : client: [2] closed
+May 29 13:23 : client: [3] opened from 127.0.0.1:47214
+May 29 13:23 : update: added recs/cello/gala-purvi.mp3
+May 29 13:23 : update: added recs/cello/gala-purvi-reverb.mp3
+May 29 13:23 : update: added recs/cello/gala-recording74.mp3
+May 29 13:23 : update: added recs/cello/gala-recording74-reverb.mp3
+May 29 13:23 : update: added recs/cello/ZOOM0026_TrLR.WAV
+May 29 13:23 : update: added recs/cello/ZOOM0027_TrLR.WAV
+May 29 13:23 : update: added recs/cello/ZOOM0028_TrLR.WAV
+May 29 13:23 : update: added recs/wavs/ZOOM0025_TrLR.WAV
+May 29 13:24 : player: played "recs/cello/gala-recording74.mp3"
+May 29 13:24 : player: played "recs/cello/gala-purvi.mp3"
+May 29 13:25 : player: played "recs/cello/gala-purvi-reverb.mp3"
+May 29 13:25 : player: played "recs/cello/gala-recording74.mp3"
+May 29 13:25 : client: [3] closed
+May 29 13:28 : client: [4] opened from 127.0.0.1:47256
+May 29 13:28 : player: played "recs/cello/gala-recording74-reverb.mp3"
+May 29 13:29 : player: played "recs/cello/gala-purvi-reverb.mp3"
+May 29 13:29 : player: played "recs/cello/gala-purvi-reverb.mp3"
+May 29 13:29 : client: [4] closed
+May 29 13:29 : client: [5] opened from 127.0.0.1:47268
+May 29 13:29 : player: played "recs/cello/gala-purvi-reverb.mp3"
+May 29 13:29 : client: [5] closed

@@ -43,7 +43,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+t exec alacritty
+bindsym $mod+t exec kitty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -164,10 +164,27 @@ mode "resize" {
         bindsym Up resize shrink height 10 px or 10 ppt
         bindsym Right resize grow width 10 px or 10 ppt
 
-        bindsym d resize set 500 1080; move position 1420 0; mode "default";
-        bindsym a resize set 500 1080; move position 0 0; mode "default";
-        bindsym w resize set 1920 300; move position 0 0; mode "default";
-        bindsym s resize set 1920 300; move position 0 780; mode "default";
+        # Wide, tall
+        bindsym d resize set 800 1440; move position 1760   0; mode "default";
+        bindsym a resize set 800 1440; move position    0   0; mode "default";
+        bindsym w resize set 2560 500; move position    0   0; mode "default";
+        bindsym s resize set 2560 500; move position    0 970; mode "default";
+
+        # Positions
+        bindsym 7 resize set 800 800; move position    0 0; mode "default";
+        bindsym 8 resize set 800 800; move position  890 0; mode "default";
+        bindsym 9 resize set 800 800; move position 1760 0; mode "default";
+
+        bindsym 4 resize set 800 800; move position    0 360; mode "default";
+        bindsym 5 resize set 800 800; move position  890 360; mode "default";
+        bindsym 6 resize set 800 800; move position 1760 360; mode "default";
+
+        bindsym 1 resize set 800 800; move position    0 970; mode "default";
+        bindsym 2 resize set 800 800; move position  890 970; mode "default";
+        bindsym 3 resize set 800 800; move position 1760 970; mode "default";
+
+        bindsym z floating enable; resize set 1920 1060; move position 0 20; mode "default";
+        bindsym t sticky toggle; mode "default";
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -198,16 +215,21 @@ bindsym $mod+h mode "layout"
 mode "launcher" {
 
         # Terminal.
-        bindsym Return exec "alacritty"; mode "default"
+        bindsym Return exec "kitty"; mode "default"
+
+        # tiny top terminal.
+        bindsym semicolon exec "kitty -T topterm"; mode "default";
 
         # Type a few lines.
-        bindsym l exec "alacritty -t fewlines -e 'nvim'"; mode "default";
+        bindsym l exec "kitty -T fewlines 'nvim'"; mode "default";
         # Start a quicknote.
-        bindsym q exec "alacritty -t quicknote -e 'nvim'"; mode "default";
+        bindsym q exec "kitty -T quicknote 'nvim'"; mode "default";
         # Start a tmux session.
-        bindsym o exec "alacritty -e '/home/x/fd/managers/scripts/tmux.sh'"; mode "default";
+        bindsym o exec "kitty '/home/x/fd/managers/scripts/tmux.sh'"; mode "default";
         # Music player.
-        bindsym m exec "alacritty -t musicterm -e 'ncmpcpp'"; mode "default";
+        bindsym m exec "kitty -T musicterm 'ncmpcpp'"; mode "default";
+        # Record.
+        bindsym r exec "kitty -T recordalsa '/home/x/fd/sysad/scripts/record.sh'"; mode "default";
         # File explorer.
         bindsym f exec "nautilus"; mode "default";
         # Typora.
@@ -220,17 +242,27 @@ mode "launcher" {
         bindsym d [title="diary"] scratchpad show; mode "default";
         # Show the browser scratchpad window, if any.
         bindsym b [class="Google-chrome"] scratchpad show; mode "default";
+        # Unicode selection.
+        bindsym u exec "unipicker | xargs | xsel -ib"; mode "default";
 
-        # Anki.
-        bindsym Shift+a exec "/home/x/fd/managers/scripts/launch_anki.sh"; mode "default";
         # Volume.
         bindsym Shift+p exec "pavucontrol"; mode "default";
+        # Audio server.
+        bindsym Shift+m exec "/home/x/fd/managers/audio/audio.sh"; mode "default"
+        # Clock.
+        bindsym Shift+c exec "/home/x/fd/managers/scripts/launch_clock.sh"; mode "default";
         # Diary.
         bindsym Shift+d exec "/home/x/fd/managers/scripts/launch_diary.sh"; mode "default";
         # Today.
         bindsym Shift+t exec "/home/x/fd/managers/scripts/diary.sh today"; mode "default";
         # Yesterday.
         bindsym Shift+y exec "/home/x/fd/managers/scripts/diary.sh yesterday"; mode "default";
+        # Anki.
+        bindsym Shift+a exec "/home/x/fd/managers/scripts/launch_anki.sh"; mode "default";
+        # Drawing.
+        bindsym Shift+f exec "/home/x/fd/sessions/drawing/tools/random-film-grab.sh"; mode "default";
+        # Reaper.
+        bindsym Shift+r exec "wine '/home/x/.wine/drive_c/Program Files/REAPER (x64)'/reaper.exe"; mode "default";
         # Browser.
         bindsym Shift+b exec "google-chrome-stable"; mode "default";
         bindsym Shift+i exec "google-chrome-stable --incognito"; mode "default";
@@ -239,6 +271,62 @@ mode "launcher" {
         bindsym Escape mode "default"
 }
 bindsym $mod+Return mode "launcher"
+
+# launcher for various programs
+mode "ellogon" {
+        # Open tmux.
+        bindsym o exec "kitty '/home/x/fd/managers/ellagon/tmux.sh'"; mode "default";
+        # Open note.
+        bindsym n exec "python3 /home/x/.config/managers/papers.py -d notes"; mode "default";
+        # Open paper.
+        bindsym p exec "python3 /home/x/.config/managers/papers.py -d papers"; mode "default";
+        # Diary, nvim.
+        bindsym d exec "python3 /home/x/.config/managers/journal.py"; mode "default";
+        # Today.
+        bindsym Shift+t exec "python3 /home/x/.config/managers/journal.py -d today"; mode "default";
+        # Yesterday.
+        bindsym Shift+y exec "python3 /home/x/.config/managers/journal.py -d yesterday"; mode "default";
+
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Escape mode "default"
+}
+bindsym $mod+e mode "ellogon"
+
+# launcher for various programs
+mode "musicstuff" {
+        # Music player.
+        bindsym o exec "kitty -T musicterm 'ncmpcpp'"; mode "default";
+        # Open note.
+        bindsym n exec "python3 /home/x/.config/managers/papers.py -d notes -s /home/x/fd/sessions/transcribe"; mode "default";
+        # Open paper.
+        bindsym p exec "python3 /home/x/.config/managers/papers.py -d papers -s /home/x/fd/sessions/transcribe"; mode "default";
+        # Diary, nvim.
+        bindsym Shift+d exec "python3 /home/x/.config/managers/journal.py -d index -s /home/x/fd/sessions/transcribe"; mode "default";
+        # Today.
+        bindsym Shift+t exec "python3 /home/x/.config/managers/journal.py -d today -s /home/x/fd/sessions/transcribe"; mode "default";
+        # Yesterday.
+        bindsym Shift+y exec "python3 /home/x/.config/managers/journal.py -d yesterday -s /home/x/fd/sessions/transcribe"; mode "default";
+
+        # Start audio server stuff
+        bindsym a exec qjackctl; mode "default";
+        bindsym m exec musescore; mode "default";
+        bindsym t exec transcribe; mode "default";
+
+        # record midi.
+        bindsym Shift+a exec "python3 /home/x/.config/managers/record-section.py -s on"; mode "default";
+        bindsym Shift+z exec "python3 /home/x/.config/managers/record-section.py -s off"; mode "default";
+
+        # Play rostro.
+        bindsym 1 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 1.avi'"; mode "default";
+        bindsym 2 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 2.avi'"; mode "default";
+        bindsym 3 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 3.avi'"; mode "default";
+        bindsym 4 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 4.avi'"; mode "default";
+        bindsym 5 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 5.avi'"; mode "default";
+        bindsym 6 exec "mpv /home/x/Music/albums/'Cello Suites (Rostropovich)'/'Mstislav Rostropovich - Bach Cello Suites 6.avi'"; mode "default";
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Escape mode "default"
+}
+bindsym $mod+m mode "musicstuff"
 
 # bookmarks - search, add, parse clipboard
 mode "bookmarks" {
@@ -270,16 +358,14 @@ for_window [title="fewlines"] floating enable;
 for_window [title="fewlines"] resize set 800 200;
 
 for_window [title="musicterm"] floating enable;
-for_window [title="musicterm"] resize set 500 1080;
-for_window [title="musicterm"] move position 1420 0;
+for_window [title="diary"] resize set 800 1440;
+for_window [title="diary"] move position 1760 0;
 
-for_window [title="todolist"] floating enable;
-for_window [title="todolist"] resize set 500 1080;
-for_window [title="todolist"] move position 1420 0;
+for_window [title="kazam"] floating enable;
 
 for_window [title="diary"] floating enable;
-for_window [title="diary"] resize set 800 1080;
-for_window [title="diary"] move position 1120 0;
+for_window [title="diary"] resize set 800 1440;
+for_window [title="diary"] move position 1760 0;
 
 for_window [class="Anki"] floating enable;
 for_window [class="Anki"] resize set 500 500;
@@ -288,4 +374,27 @@ for_window [class="Typora"] floating enable;
 for_window [class="Typora"] resize set 500 800;
 
 for_window [class="MuseScore2"] floating enable;
-for_window [class="MuseScore2"] resize set 500 800;
+for_window [class="MuseScore2"] resize set 2560 1440;
+for_window [class="MuseScore2"] move position 0 0;
+
+for_window [title="topterm"] floating enable;
+for_window [title="topterm"] resize set 1000 300;
+for_window [title="topterm"] move position 560 20;
+
+for_window [title="recordalsa"] floating enable;
+for_window [title="recordalsa"] resize set 800 800;
+for_window [title="recordalsa"] move position 560 140;
+
+for_window [title="tty-clock*"] floating enable;
+for_window [title="tty-clock*"] resize set 550 150;
+for_window [title="tty-clock*"] move position 1370 20;
+
+for_window [title="tty-clock"] floating enable;
+for_window [title="tty-clock"] resize set 550 150;
+for_window [title="tty-clock"] move position 1370 20;
+
+for_window [title="JACK*"] floating enable;
+for_window [title="JACK*"] resize set 550 150;
+for_window [title="tty-clock"] move position 1370 20;
+
+for_window [class="feh"] floating enable;
