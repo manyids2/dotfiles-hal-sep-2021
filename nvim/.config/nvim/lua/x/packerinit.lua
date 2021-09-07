@@ -31,6 +31,7 @@ packer.startup(function(use)
   use 'tpope/vim-commentary'
   use 'tpope/vim-surround'
   use 'tpope/vim-repeat'
+  use 'vim-scripts/ReplaceWithRegister'
   use 'nelstrom/vim-visual-star-search'
 
   -- Editor
@@ -43,6 +44,13 @@ packer.startup(function(use)
   use 'nvim-lua/lsp-status.nvim'
   use { 'nvim-treesitter/nvim-treesitter', run = ':TSUpdate' }
   use 'nvim-treesitter/nvim-treesitter-textobjects'
+  use {
+    "kkoomen/vim-doge",
+    run = ':call doge#install()',
+    config = function()
+        vim.g.doge_doc_standard_python = 'numpy'
+    end
+  }
 
   -- Themes
   use 'ryanoasis/vim-devicons'
@@ -51,7 +59,24 @@ packer.startup(function(use)
   use 'tomasiser/vim-code-dark'
 
   -- IDE
-  -- use 'glepnir/dashboard-nvim'
+  use 'tmhedberg/SimpylFold'
+  use 'masukomi/vim-markdown-folding'
+  use 'glepnir/dashboard-nvim'
+  use 'lukas-reineke/format.nvim'
+  use 'rafamadriz/friendly-snippets'
+  use 'mattn/emmet-vim'
+  use 'hrsh7th/vim-vsnip'
+  use 'hrsh7th/vim-vsnip-integ'
+  use 'junegunn/fzf'
+  use 'alok/notational-fzf-vim'
+  use {
+    "folke/which-key.nvim",
+    config = function()
+      require("which-key").setup {
+        vim.cmd("set timeoutlen=500");
+      }
+    end
+  }
 
   -- For Development
   -- use '~/projects/github.com/x/projectcmd.nvim'

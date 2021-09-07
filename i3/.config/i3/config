@@ -49,7 +49,7 @@ bindsym $mod+t exec kitty
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec "rofi -show run"
+bindsym $mod+d exec "/home/x/fd/projects/coding/rofi-stuff/rofi/1080p/launchers/colorful/launcher.sh"
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -89,10 +89,10 @@ bindsym $mod+Shift+space floating toggle
 bindsym $mod+space focus mode_toggle
 
 # Make the currently focused window a scratchpad
-bindsym $mod+Shift+minus move scratchpad
+# bindsym $mod+Shift+minus move scratchpad
 
 # Show the first scratchpad window
-bindsym $mod+minus scratchpad show
+# bindsym $mod+minus scratchpad show
 
 # focus the parent container
 # bindsym $mod+a focus parent
@@ -213,82 +213,86 @@ bindsym $mod+h mode "layout"
 
 # launcher for various programs
 mode "launcher" {
+    # Terminal.
+    bindsym Return exec "kitty"; mode "default"
 
-        # Terminal.
-        bindsym Return exec "kitty"; mode "default"
+    # tiny top terminal.
+    bindsym semicolon exec "kitty -T topterm"; mode "default";
 
-        # tiny top terminal.
-        bindsym semicolon exec "kitty -T topterm"; mode "default";
+    # Type a few lines.
+    bindsym l exec "kitty -T fewlines 'nvim'"; mode "default";
+    # Start a quicknote.
+    bindsym q exec "kitty -T quicknote 'nvim'"; mode "default";
+    # Start a tmux session.
+    bindsym o exec "kitty '/home/x/fd/managers/scripts/tmux.sh'"; mode "default";
+    # Music player.
+    bindsym m exec "kitty -T musicterm 'ncmpcpp'"; mode "default";
+    # Music player.
+    bindsym Shift+m exec "/home/x/fd/projects/coding/rofi-stuff/rofi/1080p/applets/applets/mpd.sh"; mode "default";
+    # Record.
+    bindsym r exec "kitty -T recordalsa '/home/x/fd/sysad/scripts/record.sh'"; mode "default";
+    # File explorer.
+    bindsym f exec "nautilus"; mode "default";
+    # Typora.
+    bindsym t exec "typora"; mode "default";
+    # Clipboard.
+    bindsym c exec "/home/x/fd/managers/scripts/clipboard.sh"; mode "default";
+    # Choose session.
+    bindsym s exec "/home/x/fd/managers/currentsession.sh"; mode "default";
+    # Show the browser scratchpad window, if any.
+    bindsym b [class="Google-chrome"] scratchpad show; mode "default";
+    # Unicode selection.
+    bindsym u exec "unipicker | xargs | xsel -ib"; mode "default";
 
-        # Type a few lines.
-        bindsym l exec "kitty -T fewlines 'nvim'"; mode "default";
-        # Start a quicknote.
-        bindsym q exec "kitty -T quicknote 'nvim'"; mode "default";
-        # Start a tmux session.
-        bindsym o exec "kitty '/home/x/fd/managers/scripts/tmux.sh'"; mode "default";
-        # Music player.
-        bindsym m exec "kitty -T musicterm 'ncmpcpp'"; mode "default";
-        # Record.
-        bindsym r exec "kitty -T recordalsa '/home/x/fd/sysad/scripts/record.sh'"; mode "default";
-        # File explorer.
-        bindsym f exec "nautilus"; mode "default";
-        # Typora.
-        bindsym t exec "typora"; mode "default";
-        # Clipboard.
-        bindsym c exec "/home/x/fd/managers/scripts/clipboard.sh"; mode "default";
-        # Choose session.
-        bindsym s exec "/home/x/fd/managers/currentsession.sh"; mode "default";
-        # Show the diary scratchpad window, if any.
-        bindsym d [title="diary"] scratchpad show; mode "default";
-        # Show the browser scratchpad window, if any.
-        bindsym b [class="Google-chrome"] scratchpad show; mode "default";
-        # Unicode selection.
-        bindsym u exec "unipicker | xargs | xsel -ib"; mode "default";
+    # Volume.
+    bindsym Shift+p exec "pavucontrol"; mode "default";
+    # Audio server.
+    bindsym Shift+m exec "/home/x/fd/managers/audio/audio.sh"; mode "default"
+    # Clock.
+    bindsym Shift+c exec "/home/x/fd/managers/scripts/launch_clock.sh"; mode "default";
 
-        # Volume.
-        bindsym Shift+p exec "pavucontrol"; mode "default";
-        # Audio server.
-        bindsym Shift+m exec "/home/x/fd/managers/audio/audio.sh"; mode "default"
-        # Clock.
-        bindsym Shift+c exec "/home/x/fd/managers/scripts/launch_clock.sh"; mode "default";
-        # Diary.
-        bindsym Shift+d exec "/home/x/fd/managers/scripts/launch_diary.sh"; mode "default";
-        # Today.
-        bindsym Shift+t exec "/home/x/fd/managers/scripts/diary.sh today"; mode "default";
-        # Yesterday.
-        bindsym Shift+y exec "/home/x/fd/managers/scripts/diary.sh yesterday"; mode "default";
-        # Anki.
-        bindsym Shift+a exec "/home/x/fd/managers/scripts/launch_anki.sh"; mode "default";
-        # Drawing.
-        bindsym Shift+f exec "/home/x/fd/sessions/drawing/tools/random-film-grab.sh"; mode "default";
-        # Reaper.
-        bindsym Shift+r exec "wine '/home/x/.wine/drive_c/Program Files/REAPER (x64)'/reaper.exe"; mode "default";
-        # Browser.
-        bindsym Shift+b exec "google-chrome-stable"; mode "default";
-        bindsym Shift+i exec "google-chrome-stable --incognito"; mode "default";
+    # Diary, nvim.
+    bindsym d exec "python3 /home/x/.config/managers/journal.py -s /home/x/.diary"; mode "default";
+    # Today.
+    bindsym Shift+t exec "python3 /home/x/.config/managers/journal.py -d today -s /home/x/.diary"; mode "default";
+    # Yesterday.
+    bindsym Shift+y exec "python3 /home/x/.config/managers/journal.py -d yesterday -s /home/x/.diary"; mode "default";
 
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Escape mode "default"
+    # Anki.
+    bindsym Shift+a exec "/home/x/fd/managers/scripts/launch_anki.sh"; mode "default";
+
+    # Drawing.
+    bindsym Shift+f exec "/home/x/fd/sessions/drawing/tools/random-film-grab.sh"; mode "default";
+
+    # Reaper.
+    bindsym Shift+r exec "wine '/home/x/.wine/drive_c/Program Files/REAPER (x64)'/reaper.exe"; mode "default";
+
+    # Browser.
+    bindsym Shift+b exec "google-chrome-stable"; mode "default";
+    bindsym Shift+i exec "google-chrome-stable --incognito"; mode "default";
+
+    # back to normal: Enter or Escape or $mod+r
+    bindsym Escape mode "default"
 }
 bindsym $mod+Return mode "launcher"
 
 # launcher for various programs
 mode "ellogon" {
-        # Open tmux.
-        bindsym o exec "kitty '/home/x/fd/managers/ellagon/tmux.sh'"; mode "default";
-        # Open note.
-        bindsym n exec "python3 /home/x/.config/managers/papers.py -d notes"; mode "default";
-        # Open paper.
-        bindsym p exec "python3 /home/x/.config/managers/papers.py -d papers"; mode "default";
-        # Diary, nvim.
-        bindsym d exec "python3 /home/x/.config/managers/journal.py"; mode "default";
-        # Today.
-        bindsym Shift+t exec "python3 /home/x/.config/managers/journal.py -d today"; mode "default";
-        # Yesterday.
-        bindsym Shift+y exec "python3 /home/x/.config/managers/journal.py -d yesterday"; mode "default";
+    # Open tmux.
+    bindsym o exec "kitty '/home/x/fd/managers/ellagon/tmux.sh'"; mode "default";
+    # Open note.
+    bindsym n exec "python3 /home/x/.config/managers/papers.py -d notes"; mode "default";
+    # Open paper.
+    bindsym p exec "python3 /home/x/.config/managers/papers.py -d papers"; mode "default";
+    # Diary, nvim.
+    bindsym d exec "python3 /home/x/.config/managers/journal.py"; mode "default";
+    # Today.
+    bindsym Shift+t exec "python3 /home/x/.config/managers/journal.py -d today"; mode "default";
+    # Yesterday.
+    bindsym Shift+y exec "python3 /home/x/.config/managers/journal.py -d yesterday"; mode "default";
 
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Escape mode "default"
+    # back to normal: Enter or Escape or $mod+r
+    bindsym Escape mode "default"
 }
 bindsym $mod+e mode "ellogon"
 
@@ -358,8 +362,8 @@ for_window [title="fewlines"] floating enable;
 for_window [title="fewlines"] resize set 800 200;
 
 for_window [title="musicterm"] floating enable;
-for_window [title="diary"] resize set 800 1440;
-for_window [title="diary"] move position 1760 0;
+for_window [title="musicterm"] resize set 800 1440;
+for_window [title="musicterm"] move position 1760 0;
 
 for_window [title="kazam"] floating enable;
 
@@ -385,6 +389,10 @@ for_window [title="recordalsa"] floating enable;
 for_window [title="recordalsa"] resize set 800 800;
 for_window [title="recordalsa"] move position 560 140;
 
+for_window [title="Volume Control"] floating enable;
+for_window [title="Volume Control"] resize set 800 800;
+for_window [title="Volume Control"] move position 560 140;
+
 for_window [title="tty-clock*"] floating enable;
 for_window [title="tty-clock*"] resize set 550 150;
 for_window [title="tty-clock*"] move position 1370 20;
@@ -398,3 +406,9 @@ for_window [title="JACK*"] resize set 550 150;
 for_window [title="tty-clock"] move position 1370 20;
 
 for_window [class="feh"] floating enable;
+
+# --------------------- SCRATCHPAD  -----------
+bindsym $mod+Shift+minus exec --no-startup-id ~/.config/managers/i3_winhide.perl
+bindsym $mod+minus exec --no-startup-id ~/.config/managers/i3_winshow.sh
+
+for_window [title="^scratchpad$"] border 1pixel, floating enable, move scratchpad

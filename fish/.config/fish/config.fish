@@ -5,6 +5,11 @@ alias c="clear"
 alias cx="chmod +x"
 alias feh="feh --scale-down --auto-zoom"
 alias ym="youtube-dl -x --audio-format mp3"
+alias lg="set TERM xterm; ssh lgpu"
+
+alias wup="sudo wg-quick up wg0"
+alias wdown="sudo wg-quick down wg0"
+alias dbbrowser="/home/x/.local/bin/dbbrowser"
 
 # Remove fish greeting
 set -U fish_greeting ""
@@ -18,6 +23,11 @@ set -xg PYTHONBREAKPOINT "pudb.set_trace"
 
 # Kitty
 set -xg TERM xterm-kitty
+set -xg KITTY_LISTEN_ON /tmp/kitty
+
+# MPD
+set -xg MPD_HOST 0.0.0.0
+set -xg MPD_PORT 6601
 
 # NNN
 set -xg NNN_FIFO /tmp/nnn.fifo
@@ -36,3 +46,9 @@ set -xg LD_LIBRARY_PATH /usr/local/cuda-11.1/lib64 $LD_LIBRARY_PATH
 
 # Virtual environment
 source /home/x/ev/bin/activate.fish
+
+# funky
+# source /home/x/ev/lib/python3.8/site-packages/scripts/shell/funky.sh
+
+# Hook for desk activation
+test -n "$DESK_ENV"; and . "$DESK_ENV"; or true

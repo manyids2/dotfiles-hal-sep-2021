@@ -12,12 +12,13 @@ vim.o.wrapscan = true
 
 -- Indent options
 vim.o.tabstop = 4
-vim.o.shiftwidth = 0
 vim.o.softtabstop = 4
+vim.o.shiftwidth = 0
 vim.o.expandtab = true
 vim.o.autoindent = true
 vim.o.smartindent = true
 vim.o.smarttab = true
+vim.o.foldmethod = "indent"
 
 -- Line options
 vim.o.showmatch = true

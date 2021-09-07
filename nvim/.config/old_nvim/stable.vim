@@ -4,9 +4,9 @@ set runtimepath^=/home/x/fd/projects/lsp-server-1/zett-server
 call plug#begin( '~/.config/nvim/bundle')
 
 " config
-Plug 'vim-scripts/ReplaceWithRegister'
 
 " objects
+Plug 'vim-scripts/ReplaceWithRegister'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-repeat'
